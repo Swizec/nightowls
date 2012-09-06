@@ -1,7 +1,5 @@
 ## A geek with a hat » Why programmers work at night
 
-# [Why programmers work at night](./A geek with a hat » Why programmers work at night_files/A geek with a hat » Why programmers work at night.html)
-
 A popular saying goes that [Programmers](http://en.wikipedia.org/wiki/Programmer) are machines that turn caffeine into [code](http://en.wikipedia.org/wiki/Source_code).
 
 And sure enough, ask a random programmer when they do their best work and there's a high chance they will admit to a lot of late nights. Some earlier, some later. A popular trend is to get up at 4am and get some work done before the day's craziness begins. Others like _going_ to bed at 4am.
