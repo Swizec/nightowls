@@ -1,0 +1,71 @@
+## A geek with a hat » Why programmers work at night
+
+# [Why programmers work at night](./A geek with a hat » Why programmers work at night_files/A geek with a hat » Why programmers work at night.html)
+
+A popular saying goes that [Programmers](http://en.wikipedia.org/wiki/Programmer) are machines that turn caffeine into [code](http://en.wikipedia.org/wiki/Source_code).
+
+And sure enough, ask a random programmer when they do their best work and there's a high chance they will admit to a lot of late nights. Some earlier, some later. A popular trend is to get up at 4am and get some work done before the day's craziness begins. Others like _going_ to bed at 4am.
+
+At the gist of all this is avoiding distractions. But you could just lock the door, what's so special about the night?
+
+I think it boils down to three things: the maker's schedule, the sleepy brain and bright computer screens.
+
+## The maker's schedule
+
+[Paul Graham](http://paulgraham.com/) wrote about [the maker's schedule](http://www.paulgraham.com/makersschedule.html) in 2009 -- basically that there are two types of schedules in this world (primarily?). The traditional manager's schedule where your day is cut up into hours and a ten minute distraction costs you, at most, an hour's worth of time.
+
+Image via Wikipedia
+
+On the other hand you have something PG calls the maker's schedule -- a schedule for those of us who produce stuff. Working on large abstract systems involves fitting the whole thing into your mind -- somebody once likened this to constructing a house out of expensive [crystal glass](http://en.wikipedia.org/wiki/Lead_glass)and as soon as someone distracts you, it all comes barreling down and shatters into a thousand pieces.
+
+This is why programmers are so annoyed when you distract them.
+
+Because of this huge mental investment, we simply can't start working until we can expect a couple of hours without being distracted. It's just not worth constructing the whole model in your head and then having it torn down half an hour later.
+
+In fact, talking to a lot of founders you'll find out they feel like they simply can't get any work done during the day. The constant barrage of interruptions, important stuff ™ to tend to and emails to answer simply don't allow it. So they get most of their "work work" done during the night when everyone else is sleeping.
+
+## The sleepy brain
+
+But even programmers should be sleeping at night. We are not some race of super humans. Even programmers feel more alert during the day.
+
+Ballmer's peak
+
+Why then do we perform our most mentally complex work work when the brain wants to sleep and we do simpler tasks when our brain is at its sharpest and brightest?
+
+Because being tired makes us better coders.
+
+Similar to the ballmer peak, being tired can make us focus better simply because when your brain is tired it _has_ to focus! There isn't enough left-over brainpower to afford losing concentration.
+
+I seem to get the least work done right after drinking too much tea or having a poorly timed [energy drink](http://en.wikipedia.org/wiki/Energy_drink). Makes me hyperactive and one second I'm checking twitter, the next I'm looking at hacker news and I just seem to be buzzing all over the place..
+
+You'd think I'd work better -- so much energy, so much infinite overclocked brainpower. But instead I keep tripping over myself because I can't focus for more than two seconds at a time.
+
+Conversely, when I'm slightly tired, I just plomp my arse down and _code_. With a slightly tired brain I can code for hours and hours without even thinking about checking twitter or facebook. It's like the internet stops existing.
+
+I feel like this holds true for most programmers out there. We have too much brainpower for ~80% of the tasks we work on -- face it, writing that one juicy algorithm, requires ten times as much code to produce an environment in which it can run. Even if you're doing the most advanced machine learning (or something) imaginable, a lot of the work is simply cleaning up the data and presenting results in a lovely manner.
+
+And when your brain isn't working at full capacity it looks for something to do. Being tired makes you dumb enough that the task at hand is enough.
+
+## Bright computer screens
+
+This one is pretty simple. Keep staring at a bright source of light in the evening and your [sleep cycle](http://en.wikipedia.org/wiki/Circadian_rhythm)gets delayed. You forget to be tired until 3am. Then you wake up at 11am and when the evening rolls around you simply aren't tired because hey, you've only been up since 11am!
+
+Image via Wikipedia
+
+Given enough iterations this can essentially drag you into a different timezone. What's more interesting is that it doesn't seem to keep rolling, once you get into that equilibrium of going to bed between 3am and 4am you tend to stay there.
+
+Or maybe that's just the [alarm clocks](http://en.wikipedia.org/wiki/Alarm_clock) doing their thing because society tells us we're dirty dirty slobs if we have breakfast at 2pm.
+
+## Fin
+
+To conclude, programmers work at night because it doesn't impose a time limit on when you have to stop working, which gives you a more relaxed approach, your brain doesn't keep looking for distractions and a bright screen keeps you awake.
+
+###### Related articles
+
+  * [Holding a Program in One's Head (2007)](http://paulgraham.com/head.html) (paulgraham.com)
+  * [The Mature Programmer](http://cbloomrants.blogspot.com/2011/11/11-22-11-mature-programmer.html) (cbloomrants.blogspot.com)
+  * [So You Want to be a Computer Programmer](http://computersight.com/programming/so-you-want-to-be-a-computer-programmer/) (computersight.com)
+  * [Programmers are fucking lazy](http://swizec.com/blog/programmers-are-fucking-lazy/swizec/2648) (swizec.com)
+  * [How to be the 10X programmer](http://blog-johnfn.herokuapp.com/entry/4) (blog-johnfn.herokuapp.com)
+  * [What's in a name? Programmer or Developer](http://bob-roberts.net/2011/11/06/whats-in-a-name-programmer-or-developer/) (bob-roberts.net)
+  * [Why I Will Never Feel Threatened by Programmers in India](http://blog.jpl-consulting.com/2011/12/why-i-will-never-feel-threatened-by-programmers-in-india/) (jpl-consulting.com)
