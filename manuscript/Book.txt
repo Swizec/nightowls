@@ -1,1 +1,7 @@
 blogpost.txt
+
+introduction.txt
+dothey.txt
+whydothey.txt
+howforfriends.txt
+howforprogrammers.txt
