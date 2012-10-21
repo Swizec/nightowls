@@ -1,4 +1,3 @@
-
 # Why programmers work at night
 
 A popular saying goes that Programmers are machines that turn caffeine into code.
@@ -16,7 +15,7 @@ public git repository where _you_ can help.
 ## How to help
 
 * Read the book! [Link](https://leanpub.com/nightowls)
-* Tell me about your habits -> swizec@swizec.com
+* Tell me about your habits -> swizec+nightowls@swizec.com
 * Report bugs
   * typos
   * missing reference
