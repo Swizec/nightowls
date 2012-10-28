@@ -2,5 +2,6 @@
 introduction.txt
 dothey.txt
 whydothey.txt
+factors-of-flow.txt
 howforfriends.txt
 howforprogrammers.txt

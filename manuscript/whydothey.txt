@@ -1,92 +1,72 @@
 # Why programmers work at night
 
-Night holds a special magic over creative souls. You need look no farther than your nearest book, movie or TV show about a lone genius to realize this.
+The night holds a special magic over creative souls. Look no further than your nearest book, movie or TV show about a lone genius and you'll see creative people are _expected_ to work at night. Nobody finds it odd.
 
-Sherlock Holmes stays up all night in a mad frenzy when he's working on a case, John Nash doesn't even realize it's already morning in A Beautiful Mind, young Zuckerberg builds the whole face match website [look up actual site] in a single night fueled by alcohol and heartbreak ...
+If you're talented, smart and motivated you're supposed to work at night.
 
-As a society, we _know_ that those who are very good at what they do mostly do it at night. Without stopping. Preferably for days on end.
+The gist of the matter can be explained in two words
 
-We love the obsession. The devotion. The madness of it all. We want to be just like those fictional characters. Sacrificing everything for what we believe in for that single shot at glory, at doing something great. At mattering.
+ * flow
+ * culture
 
-Reality, unfortunately, is far from fiction.
+Cultural expectations can be said to derive from the concept of flow.
 
-Humans get tired. Working for longer than a few hours at a time leads to burnout no matter how smart, talented or devoted you are. Ask any athlete - rest is equally, if not more, important than working long hours.
+## Flow
 
-So why do programmers consistently choose to work at night?
+Before I can explain why a programmer will howl at you like a wolfman out of a 1950's B horror movie when you step into their cave unannounced, it is important you understand the concept of flow.
 
-Because programming _is_ lone (mad) genius territory. No matter how big your team, most of hte time it's just you, your editor and the compiler. Everything else is a distraciton.
+> Flow is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.
 
-The biggest asset of programmers is our attention to detail, our laser-sharp focus and, yes, the obsessive devotion to _fixing. that. stupid. bug._
+Discovered in the 1950's [fact check] by [guy who did] when he was observing artists, especially painters, who woudl get so lost int heir work they could forget to eat, drink and lose track of time to the point of forgetting what day it is.
 
-Really, there are only two reasons why we work at night
+Flow is the natural state of the programmer.
 
- * we feel more productive
- * we forget to stop working
+Any programmer will tell you stories of the wonderful work they've done while in the flow, in the zone, wired in or any of a number of euphemisms that all mean the same thing - the programmer had an interesting task, it was challenging, but not too much, and they were left alone to work.
 
-That doesn't make a very good book. _Why_ do programmers feel more productive at night? _Why_ do they forget to stop working?
+A lot, if not most, of creative professions experience flow, but it's especially important for programmers. Our work is very complex, the systems we work on have become so complex they are impossible for an individual to understand.
 
+When a programmer works, they are usually fully immersed in the work, are keeping an intricate system of variables, functions and libraries in their head and a single interruption can bring it all tumbling down.
 
-## Habit
+More importanly, our work provides everything that's necessary to achieve flow:
 
-Many programmers start coding when they are very young. There are few other professions where peopel start dabbling before leaving grade school and yet, many such programmers exist. It seems almost everybody who is very good started before finishing high school.
+ * challenging
+ * offers immediate feedback
+ * clear objectives
+ * never really ends
 
-I don't know why [find out?], but this has an effect on our work habits later in life.
+It's very easy to get sucked into a programming task. You build up the framework in your mind, start working, constantly recieve feedback from your computer, make tweaks, beat one small problem after another until suddenly it's morning and birds are chirping outside your window.
 
-When a programmer is still in school, they don't really have time to code during the day - it's just a hobby, there's more important things to tend to, like schoolwork - and they come to associate coding with the night.
+If you've ever experienced flow, you are nodding in understanding. If not, you think I'm crazy and are talking complete nonsense.
 
-Therefore, coding at night just feels more natural. You wouldn't code before 3pm no more than you would drink hard liquor before 3pm. It just doesn't feel right.
+But surely you've played a video game before? Those are specifically designed to put players in a state of flow with a never-ending list of challenges, each more difficult than the previous. Just enough to keep you interested, not enough to make you give up.
 
-### Shifting sleep schedules
-
-Of course you _could_ code before 3pm, a lot of people do. You likely wouldn't lose a bet saying most employed programmers spend a lot of time at work before 3pm.
-
-But without an external schedule coding at night just feels more natural. It's when the fun stuff happens.
-
-You still need to sleep, though. What happens when you go to bed at two in the morning? You wake up at ten in the morning, perhaps nine. If you're really hardcore even at eight.
-
-Come evening, you don't feel sleepy until midnight. You're just working on something interesting, so you keep working until 1am. Or slightly later.
-
-Eventually your sleep cycle shifts into a different timezone because you keep goign to bed later and later, because you've woken up much later and so on ad infinitum until your alarm clock and society pressure put you in an equilibrium of sorts.
-
-For a lot of people that equilibrium seems to be waking up at 11am and going to bed at 3am. I don't know why.
-
-### Bright screens
-
-One of the biggest factors in human sleep-wake cycle is natural lgiht. Scientists have shown that without external stimuli we would all be living on a roughly 26 hour cycle, but there are systems in our bodies that help us sync with the sun.
-
-This is very important because days aren't equally long and before artificial lighting it wouldn't be very useful to stay awake for the same time in winter days as in summer days. Doesn't make sense and you need to conserve energy when it's cold anyway.
-
-Modern lighting plays foul with those principles. Computer screens especially.
-
-This is because the light coming off our screens is very white, aimed right at our eyes and usually insanely bright because monitors are set to stupid brightness levels by default and most people forget to changesdfsdf those.
-
-All of this just plays back into the not-becoming-sleepy problem and keeps us up longer. Because we aren't sleepy, we might as well work huh?
+Now imagine your job looked like that. A string of problems, each just difficult enough to keep you fully engaged.
 
 
-[this is becoming a real mess of a chapter, I should probably stop since there's no sense to this progression of thoughts and stuff]
+## Cultural expectations
+
+As a culture we romanticise burning the midnight oil. Nothing tickles our imagination and pride as human beings more than people working hard through the night only to emerge with a solution to a difficult problem in the morning.
+
+We romanticise it. Cherish it. Equate it with genius and talent.
+
+Sherlock Holmes stays up all night in a mad frenzy when he's working on a case, John Nash doesn't even realize it's already morning in A Beautiful Mind, young Zuckerberg builds the whole face match website [look up actual site] in a single night fueled by alcohol and heartbreak ... The list goes on and on.
+
+We love a good hero.
+
+And what better hero can there be than a lone genius who single-handedly solved the mystery while everyone else was sleeping?
+
+We love the obsession. The devotion. The madness of it all. We want to be just like those fictional characters. Sacrificing everything just to come up with an answer.
+
+The reality behind all the romantics is simply that these are individuals who fell into a state of flow and likely didn't even notice they had worked through the night. We think they are geniuses, but research [what research] has shown that flow is much more frequent for highly skilled individuals working on highly challenging tasks.
+
+There's just one problem with all this romanticising - cargo cultism.
+
+As programmers, we _know_ geniuses in books and movies always work in the night and emerge victiorious. This makes us very proud of working at night. Very _very_ proud.
+
+No small amount of male (and female?) bravado is associated with bragging about how little sleep we need, how we stayed up all night to fix this or that bug, how we saved the day by fixing production all night only to be ready for launchday in the morning.
+
+Launch was an incredible success of course.
+
+But what of the code? The servers? Somebody else will worry about that of course. Later. Right now we're high on sleep deprivation and success.
 
 
-## Other activities
-
-### Young programmers
-
-### Pet projects
-
-
-## Clear mind
-
-
-## Distractions
-
-### Glass palace
-
-### People
-
-### Internet
-
-### Errands
-
-
-## External schedules
-
-### Panic mode
