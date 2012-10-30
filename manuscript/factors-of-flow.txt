@@ -1,18 +1,37 @@
 # About flow
 
-Programmers spend a lot of time getting into and out of flow, a lot of our work lives revolve around this concept and the superhuman productivity it creates.
+The experience of flow is different for every programmer, the little rituals and routines for making the magic happen even more so. Despite this, there are three phases of flow that follow a common pattern - understanding what they are is a good start to realizing why programmers often work at night.
 
-There are three sides to the flow coin and its relation to night time coding. Later we'll look at tips to help programmers maintain flow and those around them to avoid having an annoying programmer on their hands.
- 
- * getting into flow
- * staying in flow
- * falling out of flow
+## Falling into flow
 
-## Getting into flow
+### Clear mind
 
 ### Habit
 
-Many programmers start coding when they are very young. There are few other professions where peopel start dabbling before leaving grade school and yet, many such programmers exist. It seems almost everybody who is very good started before finishing high school.
+### Ritual
+
+### Alertness
+
+
+## Keeping it going
+
+### Fulfillment
+
+### Getting tired
+
+
+## Snapping out of flow
+
+### Internal distractions
+
+### External distractions
+
+
+## Falling into flow
+
+### Habit
+
+Many programmers start coding when they are very young. There are few other professions where people start dabbling before leaving grade school and yet, many such programmers exist. It seems almost everybody who is very good started before finishing high school.
 
 I don't know why [find out?], but this has an effect on our work habits later in life.
 
@@ -61,7 +80,7 @@ This is because the light coming off our screens is very white, aimed right at o
 All of this just plays back into the not-becoming-sleepy problem and keeps us up longer. Because we aren't sleepy, we might as well work huh?
 
 
-###  Clear mind
+### Clear mind
 
 ### Distractions
 

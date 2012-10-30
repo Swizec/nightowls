@@ -61,12 +61,10 @@ The reality behind all the romantics is simply that these are individuals who fe
 
 There's just one problem with all this romanticising - cargo cultism.
 
-As programmers, we _know_ geniuses in books and movies always work in the night and emerge victiorious. This makes us very proud of working at night. Very _very_ proud.
+As programmers, we _know_ geniuses in books and movies always work in the night and emerge victorious. This makes us very proud of working at night. Very _very_ proud.
 
-No small amount of male (and female?) bravado is associated with bragging about how little sleep we need, how we stayed up all night to fix this or that bug, how we saved the day by fixing production all night only to be ready for launchday in the morning.
+No small amount of male (and female?) bravado is associated with bragging about how little sleep we need, how we stayed up all night to fix this or that bug, how we saved the day by fixing production all night only to be ready for launch day in the morning.
 
 Launch was an incredible success of course.
 
-But what of the code? The servers? Somebody else will worry about that of course. Later. Right now we're high on sleep deprivation and success.
-
-
+But what of the code? The servers? Somebody else will have to worry about that. Later. Right now we're high on sleep deprivation and success.

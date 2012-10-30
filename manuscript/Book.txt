@@ -3,5 +3,6 @@ introduction.txt
 dothey.txt
 whydothey.txt
 factors-of-flow.txt
+sleep-science.txt
 howforfriends.txt
 howforprogrammers.txt
