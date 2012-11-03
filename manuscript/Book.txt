@@ -1,8 +1,8 @@
 
-introduction.txt
-dothey.txt
-whydothey.txt
-factors-of-flow.txt
-sleep-science.txt
-howforfriends.txt
-howforprogrammers.txt
+introduction.md
+dothey.md
+whydothey.md
+factors-of-flow.md
+sleep-science.md
+howforfriends.md
+howforprogrammers.md
