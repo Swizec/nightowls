@@ -1,11 +1,11 @@
 # About flow
 
 Ayrton Senna once described flow as 
-> I was already on pole, [..] and I just kept going. Suddenly I was nearly two seconds faster than anybody else, including my team mate with the same car. And suddenly I realised that I was no longer driving the car consciously. I was driving it by a kand of instinct, only it was a different dimension. It was like I was in a tunnel.
+> I was already on pole, and I just kept going. Suddenly I was nearly two seconds faster than anybody else, including my team mate with the same car. And suddenly I realised that I was no longer driving the car consciously. I was driving it by a kand of instinct, only it was a different dimension. It was like I was in a tunnel.
 
-[That lap has been described as the greatest lap of Senna's career](http://youtube.com/watch?v=K9QH8-lKEYY). You can see clips from the lap in Top Gear's tribute to Ayrton Senna.
+[That lap has been described as the greatest lap of Senna's career](http://youtube.com/watch?v=K9QH8-lKEYY).
 
-Flow is a state of full immersion in an activity, where the outside and inside world merge into one and the person is fully _present_. Mihaly Csikszentmihaly - the father of flow research in psychology - describes flow as
+Flow is a state of complete immersion in an activity, where the outside and inside world merge into one and the person is simply _present_. Mihaly Csikszentmihaly - the father of flow research in psychology - describes flow as
 
 > completely focused motivation. A single-mindedimmersion that represents perhaps the ultimate in harnessing the emotions in service of performing and learning.
 
@@ -51,6 +51,20 @@ This is why the checkout aisle in your supermarket is filled with tiny things yo
 Depending on how a programmer's day is structured, working in the evening can be a godsend or a spaghetti code mess producing mistake.
 
 ### Clear mind
+
+The experience of flow is one of extreme inner calm. There are no other thoughts than what is important for the task at hand - it can often feel like there is no thought involved, like you are acting on pure instinct
+
+One could say it is a deep meditative state where the person cannot be disturbed by external worries. An dyet, it can be very difficult if not impossible to achieve this state when one's mind is preoccupied with other things.
+
+Stress, I would say, is the biggest killer of flow and consequently developer productivity.
+
+We've all seen movies or sitcoms where a person who is in love becomes incapable of getting any work done. Sometimes, as is the case with fictional artists, they are able to marshall these emotions into inspiration, more often they simply become blocked. Imagining how a developer under emotional stress could harness those emotions to write better code.
+
+Except for anger, for some reason being angry at something is easily harnessed for getting things done. [explore this further possibly?]
+
+But stress doesn't have to be about somthing big to get in the way of flow. It can be very minor, like expecting a meeting, or being hungry. Simply sitting with your back towards the door can ruin everything.
+
+-- here comes some more stuff about the killer of anticipation of distraction --
 
 ### Habit
 
