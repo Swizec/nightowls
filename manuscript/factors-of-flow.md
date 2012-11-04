@@ -1,12 +1,21 @@
 # About flow
 
-Flow is arguably the most important concept in a programmer's life, we need it to work effectively, to cope with the sheer complexity of the systems we are dealing with. A large part of our work lives revolves around effectively and as frequently as possible getting into flow.
+Ayrton Senna once described flow as 
+> I was already on pole, [..] and I just kept going. Suddenly I was nearly two seconds faster than anybody else, including my team mate with the same car. And suddenly I realised that I was no longer driving the car consciously. I was driving it by a kand of instinct, only it was a different dimension. It was like I was in a tunnel.
+
+[That lap has been described as the greatest lap of Senna's career](http://youtube.com/watch?v=K9QH8-lKEYY). You can see clips from the lap in Top Gear's tribute to Ayrton Senna.
+
+Flow is a state of full immersion in an activity, where the outside and inside world merge into one and the person is fully _present_. Mihaly Csikszentmihaly - the father of flow research in psychology - describes flow as
+
+> completely focused motivation. A single-mindedimmersion that represents perhaps the ultimate in harnessing the emotions in service of performing and learning.
+
+Because programmers deal with systems of mind boggling complexity, flow is an especially important concept. A large part of our work lives revolves around effectively and as frequently as possible getting into flow.
 
 But flow is a fragile balance between many opposing forces. The programmer must be willing and able to completely focus on the task at hand, they must have a clear goal to work towards, fresh challenges must be coming in just quickly enough and they must feel a sense of purpose, even joy, in whatever they do.
 
 ## The autotelic personality
 
-Mihaly Csikszentmihalyi - the father of flow research in psychology - in his work describes a type of personality that can experience episodes of flow more easily and more often than most people. Because of difficulties involved in reproducing flow at will not much research has been made on this concept, but initial findings _do_ show some people achieve flow more easily than others.
+In his work Csikszentmihalyi describes a type of personality that can experience episodes of flow more easily and more often than most people. Because of difficulties involved in reproducing flow at will not much research has been made on this concept, but initial findings _do_ show some people achieve flow more easily than others.
 
 People with an autotelic personality are said to be:
 
