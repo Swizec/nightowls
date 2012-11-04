@@ -100,3 +100,5 @@ But I can't write a book about everyone, my experience is in the programming wor
 Fear not, you will likely still find a lot of relevant information in this book anyway.
 
 ## Statistics
+
+Here come some stats scraped from github and possibly volunteered by websites that might have this info. Visualisations to be peppered throughout the book.
