@@ -5,13 +5,13 @@ Ayrton Senna once described flow as
 
 [That lap has been described as the greatest lap of Senna's career](http://youtube.com/watch?v=K9QH8-lKEYY).
 
-Flow is a state of complete immersion in an activity, where the outside and inside world merge into one and the person is simply _present_. Mihaly Csikszentmihaly - the father of flow research in psychology - describes flow as
+Flow is a state of complete immersion in an activity, a state where the outside and inside world merge into one and the person is simply _present_. Mihaly Csikszentmihaly - the father of flow research in psychology - describes flow as
 
-> completely focused motivation. A single-mindedimmersion that represents perhaps the ultimate in harnessing the emotions in service of performing and learning.
+> completely focused motivation. A single-minded immersion that represents perhaps the ultimate in harnessing the emotions in service of performing and learning.
 
-Because programmers deal with systems of mind boggling complexity, flow is an especially important concept. A large part of our work lives revolves around effectively and as frequently as possible getting into flow.
+Because programmers deal with systems of mind boggling complexity, flow is an especially important concept. We have many ways of naming it: _in the zone_, _wired in_, _on a roll_ … Because it is such an important aspect of programmer/hacker culture you can see a reference to it in practically every movie featuring programmers.
 
-But flow is a fragile balance between many opposing forces. The programmer must be willing and able to completely focus on the task at hand, they must have a clear goal to work towards, fresh challenges must be coming in just quickly enough and they must feel a sense of purpose, even joy, in whatever they do.
+But flow is a fragile balance between many opposing forces. The programmer must be willing and able to completely focus on the task at hand, they must have a clear goal to work towards, fresh challenges must be coming in just quickly enough and they must feel a sense of purpose, even joy, in what they're doing.
 
 ## The autotelic personality
 
@@ -32,45 +32,53 @@ Relentlessly hunting down bugs is a source of great pride for most programmers a
 
 Even a casual perusal of Github repositories will show that a lot of programmers indulge in so called pet projects - little programs developed for the fun of it, to sharpen the saw if you will. Interestingly enough, flow is much easier to experience on pet projects than large for-money behemoths.
 
-It could be argued that programmers are very selfless people - the existence of communities like StackOverflow, large numbers of conferences where speakers share their knowledge for free, numerous blogs and free tutorials, not to mention the large opensource community that's given us something as powerful as the linux operating system and the stack most of the internet runs on. All of those are done hollistically ... well, mostly. Everybody gains from having a good standing in the community.
+It could be argued that programmers are very selfless people - the existence of communities like StackOverflow, large numbers of conferences where speakers share their knowledge for free, numerous blogs and free tutorials, not to mention the large opensource community that's given us something as powerful as the linux operating system and the stack most of the internet runs on. All of those are done holistically ... well, mostly. Everybody gains from having a good standing in the community.
 
-As a group of people, programmers exhibit all the traits of an autotelic personality. This would suggest flow is much more pervalent amongst programmers than in other groups of people, which might also explain why we programmers are often perceived as night walkers.
+As a group of people, programmers exhibit all the traits of an autotelic personality. This would suggest flow is much more prevalent amongst programmers than in other groups of people, which might also explain why we programmers are often perceived as night walkers.
 
 ## Is achieving flow easier at night?
 
-Yes, flow is indeed much easier to achieve in the evening. At least for those of us who manage to think clearly and still feel relatively rested. For many, this is impossible due to how their work lives are structured.
+Yes, flow is indeed much easier to achieve in the evening. At least for those of us who manage to think clearly and who still feel relatively rested. For many, the structure of their life makes this impossible - some then approach the night from its other end, others learn to work during the day.
 
 ### Decision fatigue
 
-The biggest enemy to evening and night-time productivity is decision fatigue. Most people experiencing decision fatigue don't really recognise it for what it is, but if you've ever felt well rested physically and still couldn't think clearly, like your brain was tired, you've experienced decision fatigue.
+The biggest enemy to evening and night-time productivity is decision fatigue. 
 
-Research [which] has shown that humans can only accept a limited amount of decisions every day, after that we no longer think things through but usually just go with the default action. Every little decision factors into your daily quota - everything from deciding what to eat for breakfast, to which outfit to wear and what websites to read now or later.
+Most people experiencing decision fatigue don't recognise it for what it is, but if you've ever felt well rested physically and still couldn't think clearly, like your brain was tired, you've experienced decision fatigue.
 
-This is why the checkout aisle in your supermarket is filled with tiny things you otherwise wouldn't have bought and why people instinctively want to "sleep on it" when making big decisions.
+[Research](http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html) has shown that humans can only accept a limited amount of decisions every day, after that we usually go with the default action, or are so incapable of making a decision we can't perform the action at all.
 
-Depending on how a programmer's day is structured, working in the evening can be a godsend or a spaghetti code mess producing mistake.
+Not only that, it's been shown that even the tiniest decision factors into the quota - everything from deciding what to eat for breakfast, to which outfit to wear and what websites to read now or later. This is why the checkout aisle in your supermarket is filled with tiny things you otherwise wouldn't have bought and why people instinctively want to "sleep on it" when making big decisions.
+
+Depending on how a programmer's day is structured, working in the evening can be a godsend or a spaghetti code mess producing mistake. The important thing is to be well rested regardless of the time when you start working.
+
+However, researchers at [where] have discovered a link between evenings and creativity, apparently we are more able to power through boring monotonous tasks in the morning and perform better on creative tasks in the evening. Perhaps because decision fatigue lowers our impulse control and we can "just go with it".
 
 ### Clear mind
 
-The experience of flow is one of extreme inner calm. There are no other thoughts than what is important for the task at hand - it can often feel like there is no thought involved, like you are acting on pure instinct
+Flow is marked by an intense, almost meditative, calm. No other thoughts can invade your brain than what pertains to the task at hand. Everything else ceases to exist.
 
-One could say it is a deep meditative state where the person cannot be disturbed by external worries. An dyet, it can be very difficult if not impossible to achieve this state when one's mind is preoccupied with other things.
+But when things are hanging over your head, so to speak, achieving flow is nearly impossible for most people. The mental clarity and emotional calm just isn't there.
 
-Stress, I would say, is the biggest killer of flow and consequently developer productivity.
+Whether it's an errand you still have to run, or an important email you mustn't forget to send. Perhaps there's just some worrying stuff going on and you aren't Irish enough not to worry about it. Sometimes you simply have an IRC chatroom open in a hidden window. 
 
-We've all seen movies or sitcoms where a person who is in love becomes incapable of getting any work done. Sometimes, as is the case with fictional artists, they are able to marshall these emotions into inspiration, more often they simply become blocked. Imagining how a developer under emotional stress could harness those emotions to write better code.
+If there's something tugging at your brain, you might as well forget about flow.
 
-Except for anger, for some reason being angry at something is easily harnessed for getting things done. [explore this further possibly?]
+Perhaps the biggest thing everyone's got tugging on their brain is the anticipation of imminent distraction. You _know_ something is going to happen in an hour or two. Sometimes it's a big meeting, other times you have to be around to take a call - either way, it can be very distracting even if you do know when the distraction is going to happen.
 
-But stress doesn't have to be about somthing big to get in the way of flow. It can be very minor, like expecting a meeting, or being hungry. Simply sitting with your back towards the door can ruin everything.
+Everyone knows those moments where it's 2:35 and you expect something to happen at 3:00. You try to get work done, but you keep looking at the clock every two minutes. Then you might as well check a tweet or two … when 3:00 rolls around you basically haven't done anything useful for almost half an hour.
 
--- here comes some more stuff about the killer of anticipation of distraction --
+Not knowing when, or even if, a distraction is going to happen only makes it worse. You're paying half attention to your code and half attention to your environment at all times. When a colleague sitting across the room says something, you immediately listen in, process what you've heard, decide it wasn't about you and get back to work.
+
+You'd love to tune out completely, but sometimes it _is_ for you and you have to respond. Random rewards are after all the strongest behaviour creator in existence.
+
+Something wonderful happens at night, though. There are no more distractions, at least there is no more threat of imminent distraction. Since everyone is asleep you can be fairly certain nobody is going to give you a call, nobody will ask you a random question, nothing interesting is going to happen on the internet.
+
+You will not be distracted for at least ten hours. That's a lot of time.
 
 ### Habit
 
 ### Ritual
-
-### Alertness
 
 
 --- the following two things might need a merge ---
@@ -103,19 +111,7 @@ When a programmer is still in school, they don't really have time to code during
 
 Therefore, coding at night just feels more natural. You wouldn't code before 3pm no more than you would drink hard liquor before 3pm. It just doesn't feel right.
 
-### Shifting sleep schedules
 
-Of course you _could_ code before 3pm, a lot of people do. You likely wouldn't lose a bet saying most employed programmers spend a lot of time at work before 3pm.
-
-But without an external schedule coding at night just feels more natural. It's when the fun stuff happens.
-
-You still need to sleep, though. What happens when you go to bed at two in the morning? You wake up at ten in the morning, perhaps nine. If you're really hardcore even at eight.
-
-Come evening, you don't feel sleepy until midnight. You're just working on something interesting, so you keep working until 1am. Or slightly later.
-
-Eventually your sleep cycle shifts into a different timezone because you keep goign to bed later and later, because you've woken up much later and so on ad infinitum until your alarm clock and society pressure put you in an equilibrium of sorts.
-
-For a lot of people that equilibrium seems to be waking up at 11am and going to bed at 3am. I don't know why.
 
 ### Other activities
 
@@ -128,20 +124,8 @@ For a lot of people that equilibrium seems to be waking up at 11am and going to 
 ### Panic mode
 
 
-
 ## Staying in flow
 
-### Bright screens
-
-One of the biggest factors in human sleep-wake cycle is natural lgiht. Scientists have shown that without external stimuli we would all be living on a roughly 26 hour cycle, but there are systems in our bodies that help us sync with the sun.
-
-This is very important because days aren't equally long and before artificial lighting it wouldn't be very useful to stay awake for the same time in winter days as in summer days. Doesn't make sense and you need to conserve energy when it's cold anyway.
-
-Modern lighting plays foul with those principles. Computer screens especially.
-
-This is because the light coming off our screens is very white, aimed right at our eyes and usually insanely bright because monitors are set to stupid brightness levels by default and most people forget to changesdfsdf those.
-
-All of this just plays back into the not-becoming-sleepy problem and keeps us up longer. Because we aren't sleepy, we might as well work huh?
 
 
 ### Clear mind
