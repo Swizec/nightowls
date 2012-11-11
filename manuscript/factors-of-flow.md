@@ -74,11 +74,33 @@ You'd love to tune out completely, but sometimes it _is_ for you and you have to
 
 Something wonderful happens at night, though. There are no more distractions, at least there is no more threat of imminent distraction. Since everyone is asleep you can be fairly certain nobody is going to give you a call, nobody will ask you a random question, nothing interesting is going to happen on the internet.
 
-You will not be distracted for at least ten hours. That's a lot of time.
+For at least ten hours _nothing_ will be expected of you. Nothing. That's a lot of freedom right there.
 
 ### Habit
 
-### Ritual
+Have you ever had a habitual activity fall through? Say you go to the gym every Wednesday at six in the evening. Or you always watch a certain show on television at exactly 7PM every Thursday.
+
+When something comes up and you can't do what you're used to it doesn't feel like you've gained an extra hour or two. No, you feel lost, like you suddenly don't know what to do with all this extra time you've been given. So you end up wasting it, clicking one more link on Reddit, or flicking through one more channel on the telly.
+
+As they say, habit is an iron shirt. 
+
+Getting used to something takes a concerted effort of a few weeks, but once the habit is built it's almost impossible to change. Just remember how odd it feels when you forget to brush your teeth in the morning!
+
+It's the same thing with flow - it's simply easier at certain times in the day. This depends on a lot of things like how many other obligations you have, what the schedule of the people around you might be and even your internal cycles of activity, which tend to depend a lot on meal times.
+
+But once you get used to working at a certain point in the day, suddenly your other habits start forming around these patterns instead of the other way around. It's a bit of a self-reinforcing pattern you see.
+
+Take a young programmer for instance (most programmers start very young, by the way). Let's say they're still in high school.
+
+This programmer needs to get up every morning at a predetermined time so they can get to class. They are stuck in class until, say, 3PM. They come home, their mum wants them to do a bunch of chores, there's homework to tend to and before they know it it's already 9PM or 10PM.
+
+And now, finally, there's nothing hanging over their heads anymore. They can get to programming.
+
+In a few years this person has come to college, there's much less external time constraints, but after many years of _starting_ coding in the evening they associate the activity with night-time. They simply can't get their mind to coding before 9PM anymore.
+
+Thus, another night-time hacker is born. With years and piling pressure from the outside, their schedule will shift around, flow to and fro to meet other demands in their lives.
+
+But when shit hits the fan and something _needs to get done_, I bet they will go back into their safe place and code all night.
 
 
 --- the following two things might need a merge ---
@@ -97,19 +119,6 @@ You will not be distracted for at least ten hours. That's a lot of time.
 
 
 --- old fragments of this chapter, to be put elsewhere, or scrapped ---
-
-
-## Falling into flow
-
-### Habit
-
-Many programmers start coding when they are very young. There are few other professions where people start dabbling before leaving grade school and yet, many such programmers exist. It seems almost everybody who is very good started before finishing high school.
-
-I don't know why [find out?], but this has an effect on our work habits later in life.
-
-When a programmer is still in school, they don't really have time to code during the day - it's just a hobby, there's more important things to tend to, like schoolwork - and they come to associate coding with the night.
-
-Therefore, coding at night just feels more natural. You wouldn't code before 3pm no more than you would drink hard liquor before 3pm. It just doesn't feel right.
 
 
 
