@@ -120,11 +120,39 @@ People who start work early in the morning, especially before dawn, are often se
 
 Whether a programmer chooses late nights or early mornings, doesn't really change the goal - to avoid working on high intensity flow activities during the day.
 
-The answer I got when asking programmers why they don't like working during the day might seem a bit … asocial - because other people are awake.
+The answer I got when asking programmers why they don't like working during the day sounds very asocial indeed - because other people are awake.
 
 ### Cost of interruption
 
+There is a sort of ritual to getting in the flow. Usually the first thing people will do when they sit down to start working is check Facebook, Twitter and email. Not always in that order, not always all of them, sometimes other social networks completely - Reddit, Hacker News and Stack Overflow are popular options.
 
+Warm caffeinated beverages go very well with this sort of activity. Making them wastes little time, but introduces an impetus to keep procrastinating until you've finished the cup.
+
+We call this procrastination, but the term carries connotations that aren't fully warranted. The idea is to clear one's mind, take care of all the loose threads in one's head, and deal with any nagging notifications vying for your attention.
+
+This can take anywhere from ten minutes to an hour depending on how much has accumulated since the person last defragged their brain like this.
+
+Work can finally begin.
+
+First you have to make sure your'e working off the latest version of the project, then you must check some sort of issue tracking system, be it email, trello or just a whiteboard - having a clear goal is paramount to achieving flow and getting anything done.
+
+Next: the work environment.
+
+Swing by a programmer's computer some time and you will likely see a desktop littered with open windows, consoles, IDE's, text editors, documentation. Everything.
+
+Unlike many (most?) people who use even modern computers as one application environments where a single app will cover the whole screen when a person is working, programmers often use a bunch of tools in unison to get their jobs done. There's a text editor and a console or two, perhaps a debugger, a browser with some documentation is almost mandatory. Often all these tools will be unified in a single Integrated Development Environment (IDE), which is a mere euphemism for "A bunch of stuff, but in a single window".
+
+Loading up a work environment like that takes a lot of time, not so much because our computers are slow, but because to know which tools you are going to need, requires understanding what you'e about to work on. Keeping things open helps so much that a session crash or a context switch to a different set of tools can be totally devastating.
+
+Programs are primarily a conversation between programmer and computer. Computer and user. The programmer's main job is breaking down a problem into understandable bits and explaining the solution to the computer in such a way it can be executed perfectly every time.
+
+Loading a program into your brain means learning its language. Functions are verbs, variables are nouns and there's plenty of things in between. Notes can help. Keeping things open also helps. But nothing will get you over just how much brain power it takes to understand a software project.
+
+It is only after all this that the programmer has any chance of reaching a state of flow and getting some _real_ work done. Sure, they can poke around, even fix a few minor bugs whenever they can spare a half hour. But that way lies madness and writing shoddy code.
+
+When a programmer is interrupted, this glass palace [introduce simile earlier] comes tumbling down. They are back to square one, unable to get back to real work until their brain contains the whole program once more.
 
 ### Distractions
+
+types of distractions and how they affect this mental image differently
 
