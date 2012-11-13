@@ -9,7 +9,9 @@ Flow is a state of complete immersion in an activity, a state where the outside 
 
 > completely focused motivation. A single-minded immersion that represents perhaps the ultimate in harnessing the emotions in service of performing and learning.
 
-Because programmers deal with systems of mind boggling complexity, flow is an especially important concept. We have many ways of naming it: _in the zone_, _wired in_, _on a roll_ … Because it is such an important aspect of programmer/hacker culture you can see a reference to it in practically every movie featuring programmers.
+In his essay [Holding a program in one's head](http://paulgraham.com/head.html) Paul Graham explains that to be effective, programmers must be able to hold an entire program in their head while they work. It's the only way the problem and its solution can have the plasticity needed to make sweeping changes and improvements.
+
+Because programmers tend to work at the limits of their tolerance for complexity holding a program in one's head is only possible in a state of flow.
 
 But flow is a fragile balance between many opposing forces. The programmer must be willing and able to completely focus on the task at hand, they must have a clear goal to work towards, fresh challenges must be coming in just quickly enough and they must feel a sense of purpose, even joy, in what they're doing.
 
