@@ -124,33 +124,39 @@ The answer I got when asking programmers why they don't like working during the 
 
 ### Cost of interruption
 
-There is a sort of ritual to getting in the flow. Usually the first thing people will do when they sit down to start working is check Facebook, Twitter and email. Not always in that order, not always all of them, sometimes other social networks completely - Reddit, Hacker News and Stack Overflow are popular options.
+There is a sort of ritual to getting in the flow. 
+
+Usually the first thing people will do when they sit down to code is check Facebook, Twitter and email. Not always in that order, not always all of them, sometimes other social networks completely - Reddit, Hacker News and Stack Overflow are popular options.
 
 Warm caffeinated beverages go very well with this sort of activity. Making them wastes little time, but introduces an impetus to keep procrastinating until you've finished the cup.
 
-We call this procrastination, but the term carries connotations that aren't fully warranted. The idea is to clear one's mind, take care of all the loose threads in one's head, and deal with any nagging notifications vying for your attention.
+We call this procrastination, but the term carries connotations that aren't fully warranted. Don't think of it as putting off work, it's more like defragging one's brain. Making sure there are no more lingering thoughts in there, no notifications left unclicked, no important questions left unanswered.
 
-This can take anywhere from ten minutes to an hour depending on how much has accumulated since the person last defragged their brain like this.
+After anywhere from a few minutes to an hour work can finally begin.
 
-Work can finally begin.
+First, a programmer needs to make sure they are working off the latest version of the project. Then they must whatever issue tracking system they're using. Having a clear goal is after all paramount to achieving flow and getting anything done.
 
-First you have to make sure your'e working off the latest version of the project, then you must check some sort of issue tracking system, be it email, trello or just a whiteboard - having a clear goal is paramount to achieving flow and getting anything done.
-
-Next: the work environment.
+Next up, the work environment.
 
 Swing by a programmer's computer some time and you will likely see a desktop littered with open windows, consoles, IDE's, text editors, documentation. Everything.
 
-Unlike many (most?) people who use even modern computers as one application environments where a single app will cover the whole screen when a person is working, programmers often use a bunch of tools in unison to get their jobs done. There's a text editor and a console or two, perhaps a debugger, a browser with some documentation is almost mandatory. Often all these tools will be unified in a single Integrated Development Environment (IDE), which is a mere euphemism for "A bunch of stuff, but in a single window".
+Unlike many (most?) people who use even modern computers as a single application environment and often maximize whatever software they are using to fill the whole screen, programmers are a different beast all together.
 
-Loading up a work environment like that takes a lot of time, not so much because our computers are slow, but because to know which tools you are going to need, requires understanding what you'e about to work on. Keeping things open helps so much that a session crash or a context switch to a different set of tools can be totally devastating.
+There's usually a text editor and a console or two, perhaps a debugger, a browser with some documentation is almost mandatory as well. Often all these tools will be unified in a single Integrated Development Environment (IDE), which is a mere euphemism for "A bunch of stuff, but in a single window".
 
-Programs are primarily a conversation between programmer and computer. Computer and user. The programmer's main job is breaking down a problem into understandable bits and explaining the solution to the computer in such a way it can be executed perfectly every time.
+Loading up a work environment like that takes time, not because our computers are slow, but because to know which tools you need, requires understanding what you're about to work on. Keeping things open helps so much that a session crash or a context switch to a different set of tools can be totally devastating to a programmer's productivity.
 
-Loading a program into your brain means learning its language. Functions are verbs, variables are nouns and there's plenty of things in between. Notes can help. Keeping things open also helps. But nothing will get you over just how much brain power it takes to understand a software project.
+Then, the programmer must prime their mind.
 
-It is only after all this that the programmer has any chance of reaching a state of flow and getting some _real_ work done. Sure, they can poke around, even fix a few minor bugs whenever they can spare a half hour. But that way lies madness and writing shoddy code.
+Programs are a conversation between programmer and computer. Computer and user. The programmer's job is breaking down a problem into understandable bits and explaining the solution to the computer in such a way it can be executed perfectly every time. Or at least well enough.
 
-When a programmer is interrupted, this glass palace [introduce simile earlier] comes tumbling down. They are back to square one, unable to get back to real work until their brain contains the whole program once more.
+Loading a program into your brain means learning its language. Functions are verbs, variables are nouns and there's plenty of things in between. Notes can help. Keeping tools open also helps. But nothing will get you over just how much brain power it takes to understand a software project.
+
+Every time you lose sight of the whole system you have to build it again like constructing a glass palace. Once you understand the language, you have to arrange it in your mind so the space can be freely traversed, you can close your eyes and _see_ how different parts of the system affect each other.
+
+Only after this stage has been reached is a programmer fully effective. Only then can they have any chance of reaching flow because they don't have to stop every five minutes to figure out how their code fits in the larger picture and whether it's even doing what it's supposed to.
+
+When you interrupt a programmer, this glass palace can come crashing down in a shower of shattered glass. They have to start the whole process all over again and it's going to take a while before they're back to full steam.
 
 ### Distractions
 
