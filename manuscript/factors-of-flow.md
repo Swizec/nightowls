@@ -160,5 +160,29 @@ When you interrupt a programmer, this glass palace can come crashing down in a s
 
 ### Distractions
 
-types of distractions and how they affect this mental image differently
+Not all distractions are created equal and not all will cause an interrupt
+
+You will often see a programmer walking along the street, eyebrow furrowed, peering into the tips of their shoes, lips clenched. Do _not_ try talking to them. This is a programmer who is deep in thought on a problem, struggling hard to prevent the glass palace from tumbling.
+
+Ask them a question and it can all be gone in the blink of the eye. All that hard work and deep concentration, just gone. Simply because they have to think about something else.
+
+It almost doesn't matter how simple a question you're asking, anything requiring a proper answer will cause a lot of trouble. Most programmers tend resort to communicating with grunts and various sounds. Or simply saying "Yeah yeah sure" to everything.
+
+The danger is not knowing they weren't really listening to you and were just saying something so you'd go away and stop bothering them. Flailing hands and raised voices can also happen.
+
+Almost more important than whether the programmer had to do some thinking in response to a distraction is whether they chose to be distracted or it was something outside their control.
+
+Most people working with computers will often distract themselves. After being focused for a while they will start wasting time on the internet. Nobody told them to do this, often there isn't even a notification saying something new happened, it just feels like "Hey, I haven't done that in a while! I should check if there's anything new!" … there usually isn't. Not much anyway.
+
+I'm lying, there's always _something_ new. But it usually isn't interesting or something that feels worth the distraction.
+
+However, random rewards keep us hooked and we can't help ourselves but to check, pressing the button like a lab rat desperately trying to get the next nugget of food from the magical big button. 
+
+If a programmer can prevent themselves from straying off into the wild internet only to get lost for an hour, this sort of distraction won't cause much of a problem. They will recover in a few minutes. Often these types of distractions are just trying to tell us we should take a break anyway.
+
+[here comes some talk about external distractions]
+
+
+
+
 
