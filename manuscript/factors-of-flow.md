@@ -90,7 +90,7 @@ It's the same thing with flow - it's simply easier at certain times in the day. 
 
 But once you get used to working at a certain point in the day, suddenly your other habits start forming around these patterns instead of the other way around. It's a bit of a self-reinforcing pattern you see.
 
-Take a young programmer for instance (most programmers start very young, by the way). Let's say they're still in high school.
+Since most programmers start very young, let's take a young programmer for example. Let's say they're still in high school.
 
 This programmer needs to get up every morning at a predetermined time so they can get to class. They are stuck in class until, say, 3PM. They come home, their mum wants them to do a bunch of chores, there's homework to tend to and before they know it it's already 9PM or 10PM.
 
@@ -103,51 +103,26 @@ Thus, another night-time hacker is born. With years and piling pressure from the
 But when shit hits the fan and something _needs to get done_, I bet they will go back into their safe place and code all night.
 
 
---- the following two things might need a merge ---
-
 ## What keeps flow going?
+
+### Panic mode
 
 ### Fulfillment
 
 
 ## Why is day-time particularly bad for flow?
 
-### Internal distractions
+Now that we can all agree the night is particularly good for flow, it is important to remember that this is not the only time when programmers can reach flow. Mornings, especially very early mornings, are a popular choice as well. Even though this is just approaching the night from a different end, the cultural baggage attached is different.
 
-### External distractions
+People who start work early in the morning, especially before dawn, are often seen as hard-working and commendable, while those who choose to work late into the night, often right until dawn, are often seen as lazy slobs who sleep the whole day away. Strange as it may seem.
 
+Whether a programmer chooses late nights or early mornings, doesn't really change the goal - to avoid working on high intensity flow activities during the day.
 
+The answer I got when asking programmers why they don't like working during the day might seem a bit … asocial - because other people are awake.
 
---- old fragments of this chapter, to be put elsewhere, or scrapped ---
-
-
-
-### Other activities
-
-### Young programmers
-
-### Pet projects
-
-## External schedules
-
-### Panic mode
+### Cost of interruption
 
 
-## Staying in flow
-
-
-
-### Clear mind
 
 ### Distractions
 
-
-## Falling out of flow
-
-### Glass palace
-
-### People
-
-### Internet
-
-### Errands
