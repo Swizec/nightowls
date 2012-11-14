@@ -1,7 +1,8 @@
 # About flow
 
-Ayrton Senna once described flow as 
-> I was already on pole, and I just kept going. Suddenly I was nearly two seconds faster than anybody else, including my team mate with the same car. And suddenly I realised that I was no longer driving the car consciously. I was driving it by a kand of instinct, only it was a different dimension. It was like I was in a tunnel.
+Ayrton Senna's experience during a qualifying lap at Monaco's 1988 Grand Prix illustrates the importance of flow perfectly.
+
+> I was already on pole, and I just kept going. Suddenly I was nearly two seconds faster than anybody else, including my team mate with the same car. And suddenly I realised that I was no longer driving the car consciously. I was driving it by a kind of instinct, only it was a different dimension. It was like I was in a tunnel.
 
 [That lap has been described as the greatest lap of Senna's career](http://youtube.com/watch?v=K9QH8-lKEYY).
 
@@ -17,18 +18,20 @@ But flow is a fragile balance between many opposing forces. The programmer must 
 
 ## The autotelic personality
 
-In his work Csikszentmihalyi describes a type of personality that can experience episodes of flow more easily and more often than most people. Because of difficulties involved in reproducing flow at will not much research has been made on this concept, but initial findings _do_ show some people achieve flow more easily than others.
+In his work Csikszentmihalyi describes a type of personality that can experience episodes of flow more easily and more often than most people. 
 
-People with an autotelic personality are said to be:
+Researching flow in a lab is too difficult to get proper results, but evidence keeps wagging its eyebrows suggestively, hinting at the validity of something called an "autotelic personality".
+
+If there is such a thing, I think programmers generally apply:
 
  * curious
  * persistent
  * not self-centered
- * often perform activities for intrinsic reasons
+ * often performs activities for intrinsic reasons
 
-It is said that when a normal person pushes a big button saying "Don't press this" and gets electrocuted, they think to themselves "Heh, I shouldn't have done that." But when an engineer presses that same button they go "Huh, I wonder if that happens every time"
+It [has been drawn in stick figures](http://xkcd.com/242/) that when a normal person pushes a big button saying "Don't press this" and gets electrocuted, they think to themselves "Heh, I shouldn't have done that." But when an engineer presses that same button they go "Huh, I wonder if that happens every time"
 
-All programmers are engineers at heart, no matter what their formal qualifications say. 
+All programmers are engineers at heart, no matter what their formal qualifications might say. 
 
 Relentlessly hunting down bugs is a source of great pride for most programmers and many would sooner go without sleep than allow a bug to remain in production code. More experienced developers will often go to sleep once they realise they've started making silly mistakes, but they will never forget a bug that's taunting them.
 
@@ -178,10 +181,7 @@ I'm lying, there's always _something_ new. But it usually isn't interesting or s
 
 However, random rewards keep us hooked and we can't help ourselves but to check, pressing the button like a lab rat desperately trying to get the next nugget of food from the magical big button. 
 
-If a programmer can prevent themselves from straying off into the wild internet only to get lost for an hour, this sort of distraction won't cause much of a problem. They will recover in a few minutes. Often these types of distractions are just trying to tell us we should take a break anyway.
-
-[here comes some talk about external distractions]
-
+If a programmer can prevent themselves from straying off into the wild internet only to get lost for an hour, this sort of distraction won't cause much of a problem. In just a few minutes they will be back to coding at full blast. These sort of distractions are usually just our brain saying we should take a break anyway.
 
 
 
