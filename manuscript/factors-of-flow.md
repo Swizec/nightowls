@@ -169,9 +169,9 @@ You will often see a programmer walking along the street, eyebrow furrowed, peer
 
 Ask them a question and it can all be gone in the blink of the eye. All that hard work and deep concentration, just gone. Simply because they have to think about something else.
 
-It almost doesn't matter how simple a question you're asking, anything requiring a proper answer will cause a lot of trouble. Most programmers tend resort to communicating with grunts and various sounds. Or simply saying "Yeah yeah sure" to everything.
+It almost doesn't matter how simple a question you're asking, anything requiring a proper answer will cause a lot of trouble. Most programmers tend to resort to communicating with grunts and various sounds. Or simply saying "Yeah yeah sure" to everything.
 
-The danger is not knowing they weren't really listening to you and were just saying something so you'd go away and stop bothering them. Flailing hands and raised voices can also happen.
+The danger is not knowing they weren't really listening to you and just said something so you'd go away and stop bothering them. Flailing hands and raised voices can also happen.
 
 Almost more important than whether the programmer had to do some thinking in response to a distraction is whether they chose to be distracted or it was something outside their control.
 
@@ -181,8 +181,18 @@ I'm lying, there's always _something_ new. But it usually isn't interesting or s
 
 However, random rewards keep us hooked and we can't help ourselves but to check, pressing the button like a lab rat desperately trying to get the next nugget of food from the magical big button. 
 
-If a programmer can prevent themselves from straying off into the wild internet only to get lost for an hour, this sort of distraction won't cause much of a problem. In just a few minutes they will be back to coding at full blast. These sort of distractions are usually just our brain saying we should take a break anyway.
+If a programmer can prevent themselves from straying off into the wild internet and getting lost for an hour, this sort of distraction won't cause much of a problem. In just a few minutes they will be back to coding at full blast. These sort of distractions are usually just our brain saying we should take a break anyway.
 
+Conversely even the shortest external distraction can be devastating.
 
+Most distractions come from coworkers who are just trying to get their work done, but need your involvement - the gordian knot of working in a team of programmers is having two programmers who depend on one another. Both are in a state of flow. One of them has a problem. Do they destroy their productivity by waiting on the other person to naturally come out of flow, or destroy the other person's productivity by interrupting them?
 
+Hopefully they can work on something else, but this requires a context switch to a different problem as well.
 
+The fact that programmers run on a different schedule than most people also causes a lot of problems. When the cost of getting started is as high as it is for programmers, it doesn't make sense to work in stretches shorter than a few hours. Everyone else divides their time by hours or even half hours. I've heard lawyers charge in increments of fifteen minutes.
+
+Even the prototypical calendar app divides the day into hours and half hours ...
+
+If there's one thing you should know about dealing with programmers is *do not distract them*. Wait for _them_ to come to _you_. Just put your request in the queue.
+
+Never expect a programmer to do something immediately.
