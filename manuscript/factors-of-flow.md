@@ -193,6 +193,6 @@ The fact that programmers run on a different schedule than most people also caus
 
 Even the prototypical calendar app divides the day into hours and half hours ...
 
-If there's one thing you should know about dealing with programmers is *do not distract them*. Wait for _them_ to come to _you_. Just put your request in the queue.
+If there's one thing you should know about dealing with programmers is **do not distract them**. Wait for _them_ to come to _you_. Just put your request in the queue.
 
 Never expect a programmer to do something immediately.
