@@ -1,4 +1,4 @@
-# Introduction
+# Introduction - version 0.1
 
 Hello, I am Book. 
 
@@ -38,7 +38,7 @@ Book is not hard science. It's a collection of opinions weighed by conversations
 
 ## How finished is Book
 
-This Book is still a work in progress, if you are reading via Github, that's wonderful! Make sure to give me your feedback, Github Issues exist for a reason.
+This Book is still a work in progress, if you are reading via [the Github repository](https://github.com/Swizec/nightowls), that's wonderful! Make sure to give me your feedback, Github Issues exist for a reason.
 
 If you're already reading via purchased pdf, that's _awesome_ and you should feel good. Thanks for supporting this project :)
 
@@ -55,3 +55,9 @@ Aside from programming, I also write a reasonably well read blog at [swizec.com]
 Some time ago I wrote an essay _[Why programmers work at night](http://swizec.com/blog/why-programmers-work-at-night/swizec/3198)_, which got an amazing response. Plenty of email too. This book is an expansion of that essay into a form that will hopefully be useful or at least interesting and entertaining.
 
 You should write to me at swizec@swizec.com or ping me on twitter (@swizec) on the slightest whim!
+
+## License
+
+Book cover courtesy of [@ponywithhiccups](https://twitter.com/ponywithhiccups)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Why programmers work at night</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://swizec.com" property="cc:attributionName" rel="cc:attributionURL">Swizec teller</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://leanpub.com/nightowls" rel="dct:source">http://leanpub.com/nightowls</a>.
