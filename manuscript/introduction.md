@@ -4,6 +4,8 @@ Hello, I am Book.
 
 Now that we're not strangers anymore even your mother would agree you can talk to me!
 
+Current reading time: 00:30:25
+
 ## Why should you read this book?
 
 Because Swizec, the guy writing Book, will be very happy if you do!
@@ -54,10 +56,12 @@ Aside from programming, I also write a reasonably well read blog at [swizec.com]
 
 Some time ago I wrote an essay _[Why programmers work at night](http://swizec.com/blog/why-programmers-work-at-night/swizec/3198)_, which got an amazing response. Plenty of email too. This book is an expansion of that essay into a form that will hopefully be useful or at least interesting and entertaining.
 
-You should write to me at swizec@swizec.com or ping me on twitter (@swizec) on the slightest whim!
+You should write to me at swizec+nightowls@swizec.com or ping me on twitter ([@swizec](http://twitter.com/swizec)) on the slightest whim!
 
 ## License
 
 Book cover courtesy of [@ponywithhiccups](https://twitter.com/ponywithhiccups)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Why programmers work at night</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://swizec.com" property="cc:attributionName" rel="cc:attributionURL">Swizec teller</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://leanpub.com/nightowls" rel="dct:source">http://leanpub.com/nightowls</a>.
+[![Creative Commons Licence](images/creativecommons.png "Creative Commons Licence")](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)
+
+Why programmers work at night by [Swizec Teller](http://swizec.com) is licensed under a [Creative commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)
