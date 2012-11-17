@@ -189,10 +189,10 @@ Most distractions come from coworkers who are just trying to get their work done
 
 Hopefully they can work on something else, but this requires a context switch to a different problem as well.
 
-The fact that programmers run on a different schedule than most people also causes a lot of problems. When the cost of getting started is as high as it is for programmers, it doesn't make sense to work in stretches shorter than a few hours. Everyone else divides their time by hours or even half hours. I've heard lawyers charge in increments of fifteen minutes.
+Programmers also run on a different schedule than most people, which can cause plenty of problems. When the cost of getting started is as high as it is for programmers, it doesn't make sense to work in stretches shorter than a few hours. Everyone else divides their time by hours or even half hours. I've heard lawyers charge in increments of fifteen minutes.
 
 Even the prototypical calendar app divides the day into hours and half hours ...
 
-If there's one thing you should know about dealing with programmers is *do not distract them*. Wait for _them_ to come to _you_. Just put your request in the queue.
+If there's one thing you should know about dealing with programmers is **do not distract them**. Wait for _them_ to come to _you_. Just put your request in the queue.
 
 Never expect a programmer to do something immediately.
