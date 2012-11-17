@@ -4,7 +4,7 @@ Hello, I am Book.
 
 Now that we're not strangers anymore even your mother would agree you can talk to me!
 
-Current reading time: 00:30:25
+Current reading time: 00:32:54
 
 ## Why should you read this book?
 
