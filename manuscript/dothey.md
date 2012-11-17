@@ -1,22 +1,28 @@
 # Do programmers work at night?
 
-Before we can really tackle anything in this book, it is vital to understand whether programmers work at night or this is just some strange myth perpetuated by the romantic view of a hacker in the night-time creating marvelous things, unleashing them upon the world and magically coming up with the next Facebook.
+Before I can go on, we should first agree whether programmers do in fact work at night or is this just some myth perpetuated by male bravado and our romantic notions of a motivated person doing magic all night. Perhaps we just value exceptionally hard work and working all night is a way of proving you are exceptionally motivated and awesome.
 
-I asked a few programmers whether they worked at night.
+To research this book I talked to some ten programmers and read hundreds of comments on the original essay, Twitter and various Reddit threads about the topic. Essentially, yes, programmers do work at night. They are the loud ones, the romantic young lads and lasses who feel night is the only place to work.
 
-The short answer was: Yes.
+But a large portion of the programmer population is also completely baffled by this. Claiming that those working at night simply cannot schedule their lives, have no familial obligations or simply don't understand how spectacular starting your day in the morning can be.
 
-A long answer involves a lot of things, so really, it depends.
+A large part of this divide, I think, is simply that **it depends**. The core reasons for _why_ we work at night, or very early in the morning, or lucked out on a conductive day-time environment appear the same and mostly have to do with deep thought, flow and focus on one's work.
+
+Another venue worth exploring is whether our perceptions might not match reality at all. For instance, I was certain that 1am was when I reached peak productivity and could get the most done. But looking at timestamps of my Github commits on various projects shows that I am much less a night coder than I am a late afternoon and evening kind of guy.
+
+Then again, most adults working day jobs would find it incredibly odd that I should get the majority of my work done from 10pm to midnight. My habit of "doing email" at midnight also confuses many.
 
 ## It depends
 
-Programmers in general do seem to work at night, just take a moment too look around the internet and ask some people. You'll notice a lot of advice on stimulants, plenty of romanticizing about late nights and a lot of bravado about how little sleep people need.
+Generally speaking, programmers do seem to work at night - just take a moment to look around the internet. Plenty of advice on stimulants, romanticizing late nights and infinite bravado about how little sleep everyone needs to function.
 
-But talk to individual programmers and you might discover a different picture - a lot of people saying they mostly work during the day, at worst the afternoon. A lot of people feeling terrible about wanting to work at night, admiting they mostly do it to chase deadlines and so on ...
+Talking to individual programmers reveals a different picture. Many will admit to working mostly during the day, at worst late in the afternoon. Infinite amounts of people admitting they hate working at night and mostly do it when they have to chase a deadline or two.
 
-Most importantly, it depends a lot on the age of the person you are talking to. Not because age has that much to do with it, although I'll talk about the effect of age on sleep cycles later in the book, but because age is a good indicator of the kind of lifestyle programmers lead ... for reasons a good sociologist can explain.
+The one dividing factor between the two groups seems to be age. Not so much because age has anything to do with it (although it does dictate our sleep-wake cycle to an extent), but because age is a good indicator of what stage in life people are at. Their lifestyle if you will.
 
-The main factors seem to be:
+Somebody whose kid needs to show up at kindergarten every morning at 7am can't well afford to sleep until noon. Just as a student is forced to code in the evening because school comes first.
+
+The main lifestyle factors appear to be:
 
  * freelancer or staffer?
  * student of some sort?
@@ -25,53 +31,57 @@ The main factors seem to be:
 
 ### Types of programmers
 
-You can put programmers into roughly two groups - those who are freelancers and those who are employed at an organisation.
+You can divide programmers into roughly two groups - freelancers, founders, indies who set their own schedules, and those whose schedule is dictated by the organization they're in.
 
-A grey area exists with programmers who run their own larger businesses, but they seem to mostly follow the pattern of staffers because they've got staffers of their own to manage.
+Those running a larger business fall into a grey area of sorts, because even though their schedule is their own to pick, they must still conform to the organization lest they hinder their employees' work. A common pattern here is apparently to work on management during the day and code during the night.
 
-The two groups of programmers exhibit different work patterns. Those who are employed are more likely to work during the day because their schedule demands it. Either they have to be available on skype during office hours, if they work from home, or their physical presence is required in the office.
+Different work patterns show up in each group.
 
-This is mostly due to collaboration with their colleagues. It's difficult to collaborate when somebody only answers their emails at 3am on a full moon and somebody else is stuck on a bug at 10am on a Wednesday.
+Staffers are more likely to work during the day, mostly brought on by the needs of collaboration with others. Even working from home, they have to be available for Skype calls and must be relatively prompt in answering email and comments on various issue trackers. Despite living in the 21st century, physical presence at a common place of work is often still required.
 
-On the other hand you have freelancers and people generally working without an external schedule.
+After all, it's very difficult to collaborate when somebody is stuck on a bug at 11am and their colleague only answers email at 3am twice in a blue moon.
 
-They seem more likely to work in the evenings and at night, but strangely often this is not due to preference about when they feel more productive, but because of guilt. For one reason or another they can't seem to get "enough" done, for varying definitions of enough, during the day so they are left having to work at night.
+On the other hand, freelancers mostly dictate their own schedule. For many this is the reason they became freelancers in the first place.
 
-Interestingly enough, freelancers also tend to work on much tighter self-imposed deadlines and then have to chase deadlines at the last minute when they sudenly can't meet their expectations or something goes wrong and throws off their schedule.
+It seems more likely for freelancers to work evenings and nights. Often this isn't out of a preference for when they feel most productive, but out of guilt over how much they got done during the day. Perhaps there's just an over-representation of workaholics in this population, but talk to any freelancer for long enough and they will likely complain about how little they get done.
+
+They get just as much done during the day as their employed counterparts, but they personally _feel_ all the time wasted on overhead. Mostly because they can't (or won't) charge for it.
+
+Because much of their income is directly correlated with how much work they can get done, freelancers tend to push themselves into situations where the deadline or budget is just a smidge too tight. As soon as something goes wrong - and it always does - they are forced to chase deadlines, which usually involves a lot of late nights.
 
 ### Age of programmers
 
-Research into circadian rhythms [citation needed] has shown that people's sleep pereferences change as they age. We start off as morning larks who want to wake up at 6am or earlier and become drowsy fairly early in the evening.
+Sleep researchers have discovered a link between circadian  rhythms - our body's internal clock - and age. In a BBC documentary [The Secret Life of Your Body Clock](http://www.youtube.com/watch?v=uL97Ms6JUfQ) they performed an experiment on teenagers that showed their brain activity is much better in the afternoon than it is in the morning. Yet society forces most of their learning to happen in the morning.
 
-But as we grow older our cycle shifts and hits the nocturnal peak around 21 years of age where we prefer to wake up at 10am or thereabouts and go to bed much laster than midnight.
+As it turns out, everybody starts life as a morning lark. Any number of parental anecdotes can prove that people habitually get woken up at 6am by their toddlers.
 
-Unsurprisingly, teenagers and college students are known for sleeping in every day and avoiding any mental activity before noon.
+But as we age, our cycle starts shifting more and more towards the night, hitting its nocturnal peak around the age of 21. It is therefore not surprising at all that teenagers and college students are known for "being lazy bums who sleep in all day".
 
-After that our cycle starts shifting back into its "natural" state and by the time we reach our 65th birthday we are once more complete morning larks with our preferred wake up time around 6am.
+At 21 our cycle starts shifting back into its "natural" state. By the time we reach our 65th birthday we once more find the same affinity to early mornings as toddlers. Our preferred wake up time is once more around 6am.
 
 When was the last time your grandfather didn't wake up with the sun?
 
 ### Lifestyle of programmers
 
-More importantly, age is a good indicator of the relative lifestyles of programmers.
+Even more important than circadian rhythms, age is a good indicator of the relative lifestyles of programmers.
 
-Few people have a family of their own at 22, while many or even most do when they are 40. This has a big effect on when people tend to do their coding because it means juggling different things around.
+Few people have a family of their own at 22, while many or even most do when they are 40. This has a big effect on when people can code because it means juggling different priorities and things that get in the way of solving hard problems.
 
-A lot of younger programmers work predominantly at night because they simply don't have the time to work during the day - there's classes to attend, schoolwork to finish, if they're very young simply doing the chores their parents give them is more important than any coding they might have going on.
+A lot of younger programmers work predominantly at night because they simply can't work during the day - there's classes to attend, schoolwork to finish, if they're very young simply doing the chores their parents give them is more important than any coding they might have going on. It's more of a hobby after all.
 
 So most of the coding happens at night - lovingly supported by their young person circadian rhythms.
 
-Older programmers usually have a day job and are generally expected to put their programming on a higher priority. Since programming is suddenly the most important thing in their lives (after family and such), they tend to devote more time to this activity.
+Older programmers usually have a day job and are generally expected to put their programming on a higher priority. Since programming is suddenly the most important thing in their lives (usually after family and similar considerations), they devote more time to it.
 
-Coincidentally, there are many more day-time hours than there are night-time hours in most of the world. Plus there's a bunch of common wisdom going around that one is supposed to get work done during the day.
+Not only does a lot of folk wisdom talk about getting work done during the day, days being longer than nights gives a great statistical advantage to work happening during the day.
 
-Especially if coding is your "day job", you might be expected to do it during the day.
+After all, it's called a "day job" for a reason.
 
 ### Pet projects
 
 Which brings us to pet projects.
 
-Programming is the sort of job you can only do if you really love it. It really is kind of addicting and most people I know simply can't let it go even outside their work hours.
+Programming is the sort of job you can only do if you really love it. It really is kind of addicting and most people I know can't let it go even outside their work hours.
 
 Yes, there are many programmers who love programming as a day job and want to have other hobbies they can do in their off time and don't even want to look at code.
 
@@ -79,26 +89,34 @@ But even those have a pet project now and then. That little thing they do when n
 
 For play, if you will.
 
-Play is very important in creative professions, even Feynman once said that he has gotten so bored with physics he's only going to devote himself to playing with the science again.
+Play is very important in creative professions. [Feynman once said](http://pythonwise.blogspot.com/2011/09/on-importance-of-playing.html) he's become a bit disgusted with physics, too much was expected of him. So he started playing, completely without consequence. This led to work on the spin of electrons for which he won a Nobel prize.
 
 Having no obligations brings better work, solves more interesting challenges and refreshes the brain.
 
-Few can do pet projects while at work. So they play with they sharpen the saw when nobody is looking - at night. During weekends and just generally _around_ their work work.
+Not everybody is a famous researcher at a university, or a googler with 20% time, so they have to play when nobody is looking. The only time nobody expects anything of them. At night. During weekends.
 
-This leads even the most devoted staffer into working at night sometimes, adding fuel to the myth of programmers who convert caffeine into code.
+Fun projects happen _around_ work work.
+
+Pet projects are also something to show off, a cool hack that makes everyone's ears perk up. As respect is gained in the community, so fuel is added to the myth of programmers who convert caffeine into code.
 
 ## What about other creatives?
 
-The title of this book is _Do programmers work at night?_. Your natural question might be something like "Do _only_ programmers work at night?"
+The title of this book is _Do programmers work at night?_. Your natural question might be "Do _only_ programmers work at night?"
 
-Fair question, of course, and the answer is that not only programmers work at night, all creative professionals do.
+I don't know the answer to that question, but it seems like a lot of them do. Writers come to mind, as do designers and artists. Michellangelo was known for painting in 40 hour stretches until he fainted of exhaustion.
 
-In fact, I would go so far as saying that everyone working on creative things be they a writer, designer, artist or anything in between, deals with pretty much the same problems as programmers do.
+If you are one of those people, you might well find yourself in this book as well, and I wouldn't mind hearing from you.
 
-But I can't write a book about everyone, my experience is in the programming world, they are the people I have easy access to and whom I can relate with. Everybody else is a mystery to me, I understand them only so far as they've talked to me on the internet and complained about not being included in the book.
+But I can't write a book about everyone, my experience is in the programming world. Programmers are the people I have an inside look at, I don't know the first thing about artists and while I might know a thing or two about writers, I personally prefer mornings for writing and nights for coding.
 
-Fear not, you will likely still find a lot of relevant information in this book anyway.
+All I know about other creatives is that many of them complained they are not explicitly included in this book.
 
 ## Statistics
 
 Here come some stats scraped from github and possibly volunteered by websites that might have this info. Visualisations to be peppered throughout the book.
+
+For now, you can head to [http://nightowls.swizec.com](http://nightowls.swizec.com) to see a cumulative punchcard of all your github repositories.
+
+Here's mine:
+
+![Swizec's punchcard](images/swizec-punchcard.png "Swizec's punchcard")
