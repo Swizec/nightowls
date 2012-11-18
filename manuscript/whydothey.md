@@ -17,7 +17,7 @@ Before I can explain why a programmer will howl at you like a wolfman out of a 1
 
 > Flow is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.
 
-Discovered in the 1950's [fact check] by [guy who did] when he was observing artists, especially painters, who woudl get so lost int heir work they could forget to eat, drink and lose track of time to the point of forgetting what day it is.
+Discovered in the 1950's [fact check] by [guy who did] when he was observing artists, especially painters, who would get so lost in their work they could forget to eat, drink and lose track of time to the point of forgetting what day it is.
 
 Flow is the natural state of the programmer.
 
