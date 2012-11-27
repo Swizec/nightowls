@@ -22,12 +22,12 @@ For a lot of people that equilibrium seems to be waking up at 11am and going to 
 
 ### Bright screens
 
-One of the biggest factors in human sleep-wake cycle is natural lgiht. Scientists have shown that without external stimuli we would all be living on a roughly 26 hour cycle, but there are systems in our bodies that help us sync with the sun.
+One of the biggest factors in human sleep-wake cycle is natural light. Scientists have shown that without external stimuli we would all be living on a roughly 26 hour cycle, but there are systems in our bodies that help us sync with the sun.
 
 This is very important because days aren't equally long and before artificial lighting it wouldn't be very useful to stay awake for the same time in winter days as in summer days. Doesn't make sense and you need to conserve energy when it's cold anyway.
 
 Modern lighting plays foul with those principles. Computer screens especially.
 
-This is because the light coming off our screens is very white, aimed right at our eyes and usually insanely bright because monitors are set to stupid brightness levels by default and most people forget to changesdfsdf those.
+This is because the light coming off our screens is very white, aimed right at our eyes and usually insanely bright because monitors are set to stupid brightness levels by default and most people forget to change those.
 
 All of this just plays back into the not-becoming-sleepy problem and keeps us up longer. Because we aren't sleepy, we might as well work huh?
