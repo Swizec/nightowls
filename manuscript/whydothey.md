@@ -1,8 +1,54 @@
 # Why programmers work at night
 
-The night holds a special magic over creative souls. Look no further than your nearest book, movie or TV show about a lone genius and you'll see creative people are _expected_ to work at night. Nobody finds it odd.
+There's a magic in the night-time. The peace and quiet, the internal serenity … There's just you, your work and an infinite abundance of time. You are alone.
+
+As a society we know that smart, talented people work at night. Usually alone, they solve problems mere mortals could only dream of. Look no further than your nearest book, movie or TV show about a lone genius.
+
+He is a youngish man. A bit of a loner. Doesn't get along with people terribly well. Works at night or before dawn.
+
+The stereotypical programmer is no different - he writes mean things on the internet, likes staying up late, lives off coffee and energy drinks.
+
+While other parts of the stereotype are a very personal matter, there is a growing body of research supporting the stereotype that intelligent and creative people are more likely to lead a nocturnal lifestyle.
+
+[A study published in 2006](http://www.sciencedirect.com/science/article/pii/S0191886999000549) discovered a correlation between night owl behaviour and high IQ. One possible explanation from evolutionary psychology is that intelligent people are more likely to seek novelty and because humans were always daytime creatures, there was novelty in being nocturnal.
+
+Another study [find link] has also found that while people are more productive in the morning - more able to carry out tasks - they are more creative in the evening, more capable of finding novel solutions to existing problems.
+
+Being more creative when you are slightly tired makes sense. Decision fatigue, like alcohol, lowers your reservations against trying new things, which can lead to novel solutions. But it can also lead to terrible ideas.
+
+-----
+
+
+
+
+> To do high, real good physics work you do need absolutely solid lengths of time, so that when you’re putting ideas together which are vague and hard to remember /../ it needs a lot of concentration
+
+  ~ Richard Feynman, The Pleasure of Finding Things Out
+
+Just like Feynman's physics example, programming is a process requiring deep thought and a lot of concentration. It's abstractions all the way down. Literally, there is not a single solid thing to grab onto when you are programming.
+
+Unless you're writing software for robots. That can be rather tangible.
+
+
+
+
+
+
+For creativ. Look no further than your nearest book, movie or TV show about a lone genius and you'll see creative people are _expected_ to work at night. Nobody finds it odd.
 
 If you're talented, smart and motivated you're supposed to work at night.
+
+But stereotypes exist for a reason, especially ones so pervasive most don't even think of them as stereotypes anymore. It's important to ask ourselves _why_ are creative people expected to work at night or so early in the morning that it might well be night.
+
+ It makes sense people would pick up on this and start assuming that smart people work at night. Add a sprinkling of broad generalisations and a few decades, even centuries, of folklore and voila "Smart and creative people work at night".
+
+Even the best of correlations tells us nothing about reasons, however, so let's dig deeper.
+
+
+
+
+
+
 
 The gist of the matter can be explained in two words
 
