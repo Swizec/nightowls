@@ -52,14 +52,15 @@ The study also mentions all other morningness-eveningness research would indicat
 
 The research I've found on this topic does not say much about whether being smarter means you will prefer evenings, or preferring evenings means you will be smarter.
 
-[this part needs some more research]
+[Another relevant study](http://www.tandfonline.com/doi/abs/10.1080/13546783.2011.625663) from 2011 looked at the difference in solving insight and analytic problems based on morningness-eveningness preference and when you are actually solving the problem.
 
-Another study [find link] has also found that while people are more productive in the morning - more able to carry out tasks - they are more creative in the evening, more capable of finding novel solutions to existing problems.
+Their findings indicate that people perform better at insight-based tasks when they are not at their best time. So a night owl is more creative in the morning, while a lark is more creative in the evening. One of the given explanations supported by a related experiment was that being tired inhibits ones ability to focus, which in turn makes you more capable of thinking widely, beyond the scope of already retrieved knowledge.
 
-Being more creative when you are slightly tired makes sense. Decision fatigue, like alcohol, lowers your reservations against trying new things, which can lead to novel solutions. But it can also lead to terrible ideas.
+As expected, solving analytical problems shows a positive correlation between time preference and when you're actually solving a problem. Night owls perform better in the evening, larks in the morning. This is very likely due to the fact that peak activity time relates to when we are best able to focus.
 
-[/more research]
+All of this goes somewhat against two of the original hypotheses I proposed before writing this book - that of being more creative in the evening would only appear to be true for morning people, but it seems odd that programmers would habitually work in the evening if they were morning people. Especially since neutral people without a preference do not exhibit creativity gains depending on time of day.
 
+The other hypothesis that finds itself on shaky ground is the idea that we better manage to focus when tired because a processing power limit is reached and we have no other choice but to focus lest no work get done at all. I will explore this further in the Sleep Science section of the book.
 
 ## Flow
 
@@ -102,4 +103,4 @@ Video games are specifically designed to get players into a state of flow. To ma
 
 This is why we hear unfortunate stories of people forgetting to feed their children or starving themselves to death while playing.
 
-Now imagine your job looked like that. A never-ending string of challenges you can solve with a bit of focused thinking.
+Now imagine your job looked like that. A never-ending string of challenges you can solve with the tiniest bits of focused thinking.
