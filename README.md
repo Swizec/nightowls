@@ -1,10 +1,10 @@
-# Introduction - version 0.1
+# Introduction - version 0.2
 
 Hello, I am Book. 
 
 Now that we're not strangers anymore even your mother would agree you can talk to me!
 
-Current reading time: 00:32:54
+Current reading time: 00:37:32
 
 ## Why should you read this book?
 
