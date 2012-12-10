@@ -44,7 +44,7 @@ This Book is still a work in progress, if you are reading via [the Github reposi
 
 If you're already reading via purchased pdf, that's _awesome_ and you should feel good. Thanks for supporting this project :)
 
-I am calling this version 0.1, the most interesting and developed section so far is **About flow**. The other sections that are mostly done are **Do programmers work at night?** and **Why programmers work at night**, which act almost as an introduction to the flow chapter.
+I am calling this version 0.2, the most interesting section right now is **About flow**. **Why programmers work at night** contains some interesting science about intelligence, creativity and sleeping habits, plus a bit of cool trivia if you're too young to remember hacking history. Another mostly finished section is **Do programmers work at night?**. Other sections exist only as scraps strewn from different winds so far.
 
 ## Why listen to Swizec
 
