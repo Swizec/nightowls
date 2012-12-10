@@ -37,7 +37,7 @@ Relentlessly hunting down bugs is a source of great pride for most programmers a
 
 Even a casual perusal of Github repositories will show that a lot of programmers indulge in so called pet projects - little programs developed for the fun of it, to sharpen the saw if you will. Interestingly enough, flow is much easier to experience on pet projects than large for-money behemoths.
 
-It could be argued that programmers are very selfless people - the existence of communities like StackOverflow, large numbers of conferences where speakers share their knowledge for free, numerous blogs and free tutorials, not to mention the large opensource community that's given us something as powerful as the linux operating system and the stack most of the internet runs on. All of those are done holistically ... well, mostly. Everybody gains from having a good standing in the community.
+It could be argued that programmers are very selfless people - the existence of communities like StackOverflow, large numbers of conferences where speakers share their knowledge for free, numerous blogs and free tutorials, not to mention the large opensource community that's given us something as powerful as the Linux operating system and the stack most of the internet runs on. All of those are done holistically ... well, mostly. Everybody gains from having a good standing in the community.
 
 As a group of people, programmers exhibit all the traits of an autotelic personality. This would suggest flow is much more prevalent amongst programmers than in other groups of people, which might also explain why we programmers are often perceived as night walkers.
 
@@ -137,7 +137,7 @@ We call this procrastination, but the term carries connotations that aren't full
 
 After anywhere from a few minutes to an hour work can finally begin.
 
-First, a programmer needs to make sure they are working off the latest version of the project. Then they must whatever issue tracking system they're using. Having a clear goal is after all paramount to achieving flow and getting anything done.
+First, a programmer needs to make sure they are working off the latest version of the project. Then they must check whatever issue tracking system they're using. Having a clear goal is after all paramount to achieving flow and getting anything done.
 
 Next up, the work environment.
 
