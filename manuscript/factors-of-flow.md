@@ -57,7 +57,9 @@ Not only that, it's been shown that even the tiniest decision factors into the q
 
 Depending on how a programmer's day is structured, working in the evening can be a godsend or a spaghetti code mess producing mistake. The important thing is to be well rested regardless of the time when you start working.
 
-However, researchers at [where] have discovered a link between evenings and creativity, apparently we are more able to power through boring monotonous tasks in the morning and perform better on creative tasks in the evening. Perhaps because decision fatigue lowers our impulse control and we can "just go with it".
+An interesting side-effect of decision fatigue in its early stages is that you can often focus better _because_ you are a bit tired. You know there's no other choice but to power through the work, so you sit down, ignore everything else and just code.
+
+Eventually decision fatigue catches up and you find yourself thinking long and hard about what variable name to choose.
 
 ### Clear mind
 
@@ -105,19 +107,58 @@ In a few years this person has come to college, there's much less external time 
 
 Thus, another night-time hacker is born. With years and piling pressure from the outside, their schedule will shift around, flow to and fro to meet other demands in their lives.
 
-But when shit hits the fan and something _needs to get done_, I bet they will go back into their safe place and code all night.
+But when shit hits the fan and something _needs to get done_, I bet they will go back to their safe place and code all night.
 
+## Two types of flow and what keeps them going
 
-## What keeps flow going?
+Once a programmer gets into flow, it is paramount that they stay there for as long as possible. Not only will they get more work done simply because they're spending more time working, flow is a self-fulfilling prophecy. The more time you spend in flow, the easier getting into flow becomes and the deeper the flow becomes.
+
+But not all flow is created equal, sometimes it will leave you energised and awash with even better ideas, other times flow might leave you completely exhausted in the end having just squeezed every last ounce of awesome out of you.
+
+The difference depends mostly on what kept the flow going.
 
 ### Panic mode
 
-### Fulfillment
+Every one of us probably knows that feeling of sheer panic that only a hard deadline can bring. The moment you realise The Paper is due next morning, it's already 10pm, you've just come home from an evening of beers and suddenly discovered you _still_ haven't picked up that book from the library. You know, the one with all the info you need to write this thing.
+
+That's when real productivity begins for most people. That's when they can really tell what they're made of.
+
+The outside world melts away as you pound the keyboard in a furious panic. Internet stops existing, Skype going off every five minutes could just as well be a supernova going off in a distant galaxy. Nothing exists but you and your work.
+
+Come morning, you are tired, cranky, effectively two days behind on sleep, but victorious. It might not turn out to be a perfect mark, but it's better than a fail. You know you could have done better if only you had started earlier, but you didn't.
+
+What just happened was a panic induced flow. 
+
+You spent the entire night essentially in a fight or flight response, adrenaline coursing through your veins made you hyped up, focused. But it was also exhausting, your only reward a deadline not missed. The price, half arsed work and the subsequent day completely wasted because you will be too tired to think.
+
+### Deep fulfilment
+
+The converse of panic flow, is the good kind. A drug-like trance that leaves you energised, ready to take on the world and were it not for annoying physical limitations you would happily spend all your days in such a state.
+
+For me the typical situation is something like this.
+
+I have spent the past few days thinking about an interesting problem, it's just been rolling around my mind. Either it's an interesting algorithm I want to try implementing, or a problem I feel could be solved for plenty of people. Sometimes it's as simple as feeling a blogpost must be written to address a topic.
+
+I let the feeling fester for a while. On purpose. Indulging immediately would ruin the flow because the mind must first have time to process the idea in as much detail as possible.
+
+One evening I will sit down and begin.
+
+The outside world melts away, time becomes a blur and before I know it morning comes. Surprising. Startling. When the hell did this happen? Wasn't it just 8pm half an hour ago?
+
+In reality, I have just spent twelve hours in complete rapture. Engrossed in the bigger picture I solved sub problem after sub problem, each just interesting enough to keep me going, each just difficult enough to keep me going.
+
+At this point my body has had enough and I do need to get some sleep.
+
+But the very next day I will jump out of bed - yes literally - and even brushing my teeth might feel like too much waiting to get back into the code.
+
+That's the good kind of flow. The one you want. Because this is sustainable, were it not for practical limitations one could live for months on end like this.
+
+Panic flow … that one is only good for one or two consecutive days. Then it takes weeks before the brain is ready again.
 
 
 ## Why is day-time particularly bad for flow?
 
-Now that we can all agree the night is particularly good for flow, it is important to remember that this is not the only time when programmers can reach flow. Mornings, especially very early mornings, are a popular choice as well. Even though this is just approaching the night from a different end, the cultural baggage attached is different.
+Now we can all agree the night is particularly good for flow, it is important to remember this is not the only time when programmers can reach flow. Mornings, especially very early mornings, are a popular choice as well. Even though this is just approaching the night from a different end, the cultural baggage attached is different.
 
 People who start work early in the morning, especially before dawn, are often seen as hard-working and commendable, while those who choose to work late into the night, often right until dawn, are often seen as lazy slobs who sleep the whole day away. Strange as it may seem.
 
@@ -127,9 +168,9 @@ The answer I got when asking programmers why they don't like working during the 
 
 ### Cost of interruption
 
-There is a sort of ritual to getting in the flow. 
+There is a ritual to getting in the flow. 
 
-Usually the first thing people will do when they sit down to code is check Facebook, Twitter and email. Not always in that order, not always all of them, sometimes other social networks completely - Reddit, Hacker News and Stack Overflow are popular options.
+Usually the first thing people will do when sitting down to code is check Facebook, Twitter and email. Not always in that order, not always all of them, sometimes other social networks completely - Reddit, Hacker News and Stack Overflow are popular options.
 
 Warm caffeinated beverages go very well with this sort of activity. Making them wastes little time, but introduces an impetus to keep procrastinating until you've finished the cup.
 
@@ -143,7 +184,7 @@ Next up, the work environment.
 
 Swing by a programmer's computer some time and you will likely see a desktop littered with open windows, consoles, IDE's, text editors, documentation. Everything.
 
-Unlike many (most?) people who use even modern computers as a single application environment and often maximize whatever software they are using to fill the whole screen, programmers are a different beast all together.
+Unlike many (most?) people who use even modern computers as a single application environment and often maximise whatever software they are using to fill the whole screen, programmers are a different beast all together.
 
 There's usually a text editor and a console or two, perhaps a debugger, a browser with some documentation is almost mandatory as well. Often all these tools will be unified in a single Integrated Development Environment (IDE), which is a mere euphemism for "A bunch of stuff, but in a single window".
 
