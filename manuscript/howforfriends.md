@@ -48,6 +48,64 @@ These events are inevitable, what's important is how far they are allowed to spr
 
 ### Communication
 
-### Meetings
+For most software projects communication is vital. I'd say _all_ software projects, but hanging out with theoretical computer scientists has made me wary of infinity.
+
+Different communication styles fit different parts of the project. While face-to-face meetings might work best to eke requirements out of clients, instant messaging often works best for software teams to avoid interrupting one another.
+
+Having just the right amount of communication so things run smoothly and developers still have enough time to work is an art that takes most people a few years to develop. Some never get there and the internet is full of programmers complaining about cow-orkers and pointy-haired bosses.
+
+Programmers hate meetings and with good reason.
+
+#### Meetings
+
+Meetings are the best example of a culture clash between people on the maker's schedule and those on the manager's schedule. For a manager, the meeting takes an hour and after a quick break they'll be ready for the next item on their agenda. In terms of time the meeting is free, not only that, it's exactly what they are paid to do and likely represents the best use of company assets.
+
+At least a productive meeting does.
+
+For a programmer the story is different. A single poorly timed meeting can kill an afternoon, sometimes even a day. It takes a while to get back to work and the effort might not be worth it, if there aren't going to be a few hours of empty time before day's end or the next meeting. Another half hour is easily killed before the meeting even begins if the developer reaches a natural stopping point and an imminent meeting means there's no sense in continuing with the next task.
+
+Sure, it's important for programmers to pass know-how between one another and they should definitely be kept in the loop about project objectives, but a meeting is almost never the most productive use of a programmer's time. Especially considering a one hour meeting can easily take three hours of a developer's time.
+
+At $50 an hour a one hour meeting between two programmers is worth $300 in time. Keep that in mind the next time you want to call a meeting, especially if a simple email would do.
+
+Even deciding that a meeting is in fact worth everybody's time, there are other issues making meetings less than ideal.
+
+When people can't go to meetings in person due to geographical constraints, we resort to Skype or similar technology - I hear a lot of people still use telephones, even if mostly for one-on-one conversations.
+
+But participation in a dynamic meeting when you aren't really there is difficult at best. 
+
+Your field of view is narrow, sounds escape the mic, crappy internet connections can make your words choppy or keep you a few seconds behind everybody else. What's worse, even modern means of real-time communication can't solve scheduling conflicts.
+
+And yet, it’s important for everybody to know what happened in the meeting. Add the fact that human memory is fallible and you have a situation where even the people who were there will soon forget what went on.
+
+Meeting minutes will solve the problem for everyone to an extent. Those not present will get to know the main takeaways of the meeting and even after a while everyone will still know the decisions that were made. But the minutes don't capture everything that happens in meetings. 
+
+Conversations race ahead of the person taking notes, they diverge in many directions and often run in circles. Even if the minutes were perfect, they would be boring and difficult to follow. Small teams in particular tend to just write down some notes instead of detailed minutes.
+
+#### Asynchronous communication
+
+Communicating primarily through email or issue tracking systems can solve these problems completely. What you lose in throwing away nonverbal cues, you gain in the perfect logging of conversations and decision making processes.
+
+More importantly, a well written email or issue ticket is much better at conveying information than the muddled real-time thought flow we see in verbal communication. People _think_ before writing.
+
+Perhaps this is a cultural thing, but I have rarely seen people take some time to think through what they are about to say. There is an impetus to avoid pauses lest you seem "slow". To think out loud instead of providing complete answers. This is often a good thing, it lets everyone in on your thoughts, avoids any chance to pad out the painful truth with niceties.
+
+Thinking out loud can also cause problems when a stream of half thoughts makes it difficult to pick out a good solution. Conversations become difficult to follow, especially in notes, and having quick loud thinkers mix with those wanting to think before they speak, can easily ensure the latter never get any air time at all.
+
+As engineers usually have a low tolerance for bullshit and half-baked answers the most valuable input will often not be heard. Not only that, listening to other’s half baked ideas will make many an engineer feel like their time is being wasted.
+
+Another thing emails solve well is group yak shaving.
+
+This happens when somebody raises a tangential point that piques everybody's interest. Before you know it an architecture design meeting devolves into discussing an implementation detail of a soon to be discarded feature.
+
+It feels productive, everyone is learning, but it gets in the way of solving the issue at hand.
+
+When this happens while writing an email I will often cut it out after developing my thought and realising it adds nothing to the overall message. That would be 10 minutes of a meeting wasted.
+
+Sometimes I decide I don't even have to send the email anymore. Just thinking through a problem enough to explain to somebody can solve it for me.
+
+Don't underestimate the benefits of reading and rereading a complex bit of technical info until understanding is reached. Talking in person means the other person needs to repeat what they've said multiple times.
+
+This depends of course on the teaching skills of the other person, sometimes they can munge their explanation so everyone understands.
 
 ### Morning time
