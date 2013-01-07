@@ -104,8 +104,54 @@ When this happens while writing an email I will often cut it out after developin
 
 Sometimes I decide I don't even have to send the email anymore. Just thinking through a problem enough to explain to somebody can solve it for me.
 
-Don't underestimate the benefits of reading and rereading a complex bit of technical info until understanding is reached. Talking in person means the other person needs to repeat what they've said multiple times.
+Also, don't underestimate the benefits of reading and rereading a complex bit of technical info until understanding is reached. Talking in person means the other person needs to repeat what they've said multiple times.
 
 This depends of course on the teaching skills of the other person, sometimes they can munge their explanation so everyone understands.
 
-### Morning time
+### Taking advantage of interruptions
+
+No matter how much you try to avoid it, sometimes a combination of email, instant messaging and issue tracking systems just will not do. You have to speak to somebody in person.
+
+However, the general motto still stands, unless people are dying - and they rarely are - you should respect a person's time. Being interrupted while working can create a big mess, so just don't. You wouldn't want somebody interrupting you in the middle of, say, a phone call, would you?
+
+So what are you to do?
+
+Take advantage of naturally occurring interruptions. They also happen to be the easiest to deal with in terms of keeping mental context intact.
+
+Let's say you work in a team that does daily standup meetings to keep tabs on who is doing what and whether anyone has hit a problem and needs some help. This is a ten minute meeting that you can schedule, making it into a half hour distraction or more.
+
+A better approach is to avoid scheduling anything shorter than half an hour at all. When the last person on the team comes into the office they will interrupt everyone by greeting them. Since it's a positive interruption and such a minor one at that nobody will mind. Many won't even break stride in their work!
+
+Now is a great time to have that quick ten minute meeting.
+
+"Daily standup" is a horrible buzz word anyway. It used to be called "Having a cup of coffee with my coworkers every morning". You wouldn't do bad to keep that in mind and treat it as such.
+
+### Batch processing
+
+Another good habit to build when working with programmers and other creatives is batch processing. When you have something to ask, an idea to clear, or anything really, don't giddily rush off and interrupt somebody.
+
+Collect your questions and ideas. Write them down on a post-it note, in a notebook or in an email. When you feel there's enough, wait for a good moment and ask the person for an extended moment of their time.
+
+Programming is fraught with natural stopping points.
+
+When you finish a function. When you write some tests. When you run a full test suite. When you press compile. When you finish a feature. When you pinpoint the code where a bug is hiding. Where you …
+
+This is programming's curse. This is why programmers often get sucked into the vortex of online discussion wasting more time than they would like. But it's also a blessing because it gives their colleagues many opportunities to interrupt without actually interrupting.
+
+When a programmer has reached a natural stopping point int heir work they are naturally inclined to take a little break. Not only do they need to think for a bit before moving on to the next granular task on their list, but the feeling of having just finished something, no matter how small, makes a person want to sit back and bask in the glory.
+
+Now is the time to step in and go through the batch of problems you need help with. It's also very likely that any email you may have sent will be answered at such an occasion.
+
+The problem, then, is spotting a programmer who is between steps.
+
+The simplest way is to leave the decision up to them, send an email, wait for them to answer when the time is right. However, this is fraught with worry whether they noticed the email, how diligent they are with responding to everyone and a bunch of other little problems that mostly have to do with trust.
+
+By the way, do try to clean out your inbox at least once a day. As a courtesy to everyone who respects your time enough to avoid bothering you directly.
+
+Another great approach is to look for signs of procrastination and general time wasting. Is the focus on a twitter client? Are they looking at a browser and it isn't documentation? Playing office warfare or spinning in their chair? Perhaps just getting up and getting a cup of tea?
+
+That's your cue. Pounce.
+
+One thing to keep in mind is fitting everything inside this natural stopping point zone. I find anything that will take longer than five minutes needs to be scheduled off into the far distance. Usually at the end of the work day or in that half hour after lunch when I'm putting off getting back to work.
+
+Don't try to fit anything "hard" in those five minutes either. Where hard is defined as anything that requires thinking deeply about something other than whatever the programmer was doing before. Simple things are okay, helping you with a bug is not.
