@@ -1,14 +1,26 @@
 # For people around programmers
 
-Having programmers in your life can be challenging. They're a strange bunch, keeping odd hours, saying jokes you don't understand, speaking what can seem a foreign language … Often not approachable to the uninitiated, they are almost as likely to solve your problem as they are to laugh that you're a "luser" (comically unskilled computer user).
+Having programmers in your life can be challenging. They're a strange bunch, keeping odd hours, telling jokes you don't understand, speaking what often seems a foreign language full of words that _sound_ English, maybe.
 
-Don't let this external display of stellar egos and terrible people skills scare you away, programmers are a friendly bunch, perhaps the most accepting group of people I've ever met. Most of their faults stem from a male dominated culture with a large portion of highly intelligent people. Elitism, exclusivism and plain old "being a brat" naturally follow.
+Their jargon is full of githubs and lusers and version control and 10 kinds of people and emacs and vim and console and hash tables and mongos and in-memory cloud services and … it gets pretty bad pretty quick. Even this book is full of such jargon because as a programmer I often forget that I'm speaking jargon.
 
-If there's one thing you need to know about programmers, it's that they like to be terse. Hanging out with computers all day, putting elegance on the highest pedestal and being deep in thought means they generally like to waste as few words as possible to make a point.
+As such, the programmer community can seem impenetrable to the uninitiated. The fact it's dominated by human males with stellar egos and often terrible people skills doesn't make the situation much better. I don't know if other male dominated cultures are the same, but it's very common for a programmer to exclaim _"Oh my god, what idiot would code this!?"_ when looking through somebody else's code.
 
-Many take this as rudeness.
+Only to realise a moment later it's their own code from a year ago. Oops.
 
-At the same time, programmers are very accepting of just about anyone. Show a little interest in their craft and programmers will accept you as their own even if you're a purple-skinned lesbian sea monster.
+We even have a website aimed specifically at making fun of people doing stupid things. The Daily WTF is a bit like our very own fail dot com.
+
+But don't let this confuse you. Programmers are actually one of the most accepting bunch of people I have ever met. Where else could somebody tell an almost complete stranger that they're gay and the other person barely shrugging their shoulders?
+
+San Francisco maybe.
+
+Show a little interest in their craft and programmers will accept you as their own. Nobody will even notice you're a purple sea monster, they will just shower you with enthusiasm and try to teach you _everything_.
+
+Very quickly. Very powerfully. Very overwhelmingly.
+
+But it's a good kind of overwhelmed I hope. Programmers love to teach; just look at the plethora of personal blogs aimed at nothing more than having nerdgasms over some new hack somebody's discovered.
+
+If there's one thing you should take away from this book, it's that programmers are enthusiasts.
 
 ## Living with programmers
 
