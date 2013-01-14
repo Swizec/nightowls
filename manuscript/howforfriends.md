@@ -2,9 +2,9 @@
 
 Having programmers in your life can be challenging. They're a strange bunch, keeping odd hours, telling jokes you don't understand, speaking what often seems a foreign language full of words that _sound_ English, maybe.
 
-Their jargon is full of githubs and lusers and version control and 10 kinds of people and emacs and vim and console and hash tables and mongos and in-memory cloud services and … it gets pretty bad pretty quick. Even this book is full of such jargon because as a programmer I often forget that I'm speaking jargon.
+Their jargon is full of githubs and lusers and version control and 10 kinds of people and emacs and vim and console and hash tables and mongos and in-memory cloud services and … it gets pretty bad pretty quick. Even this book is full of such jargon because as a programmer I often forget I'm speaking jargon at all.
 
-As such, the programmer community can seem impenetrable to the uninitiated. The fact it's dominated by human males with stellar egos and often terrible people skills doesn't make the situation much better. I don't know if other male dominated cultures are the same, but it's very common for a programmer to exclaim _"Oh my god, what idiot would code this!?"_ when looking through somebody else's code.
+As such, the programmer community can seem impenetrable to the uninitiated. The fact it's dominated by human males with stellar egos and often terrible people skills doesn't make the situation any better. I don't know if other male dominated cultures are the same, but it's very common for a programmer to exclaim _"Oh my god, what idiot would code this!?"_ when looking through somebody else's work.
 
 Only to realise a moment later it's their own code from a year ago. Oops.
 
@@ -18,17 +18,27 @@ Show a little interest in their craft and programmers will accept you as their o
 
 Very quickly. Very powerfully. Very overwhelmingly.
 
-But it's a good kind of overwhelmed I hope. Programmers love to teach; just look at the plethora of personal blogs aimed at nothing more than having nerdgasms over some new hack somebody's discovered.
+But it's a good kind of overwhelmed I hope. Programmers love to teach; just look at the plethora of personal blogs aimed at nothing more than having nerdgasms over a new hack somebody's discovered.
 
-If there's one thing you should take away from this book, it's that programmers are enthusiasts.
+If there is but one thing you take away from this book, it should be that programmers are enthusiasts.
 
 ## Living with programmers
 
+[currently conducting interviews about living with programmers, section incomplete]
 
-### Understanding interruptions
+I have a little confession to make - I don't know the first thing about living with programmers. Other than once having spent two months in a four bedroom house filled with six programmers my only experience has been that of other people having to live with me.
 
-### Tiptoeing around flow
+And in their words, it isn't easy.
 
+One woman reports living with a programmer takes a lot of sacrifice. Since he works from home and is so difficult to drag away from the computer they mostly talk via IRC because it means they don't have to get up from their respective computers and actually talk face to face. They don't eat together either, much easier to quickly grab a bite at the computer than make the extra effort of being away from your work.
+
+For both of them actually.
+
+Yet another man, a programmer himself, says living with his programming wife is like winning a lottery. She understands when he has to work late, can even use it to work late at her own work when he manages to call in ahead of time, and when they're both home they help each other with logical problems. Talking about work at home and having the other person _really_ understand what you're talking about, is a godsend, he says.
+
+Maybe all it takes is a bit of understanding from both sides, and yet it seems like this understanding is difficult to achieve if you are not yourself a programmer or some other type of creative.
+
+[…]
 
 ## Working with programmers
 

@@ -1,4 +1,4 @@
-# Introduction - version 0.2
+# Introduction - version 0.3
 
 Hello, I am Book. 
 

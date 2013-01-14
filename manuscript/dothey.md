@@ -4,7 +4,7 @@ Before I can go on, we should first agree whether programmers do in fact work at
 
 To research this book I talked to some ten programmers and read hundreds of comments on the original essay, Twitter and various Reddit threads about the topic. Essentially, yes, programmers do work at night. They are the loud ones, the romantic young lads and lasses who feel night is the only place to work.
 
-But a large portion of the programmer population is also completely baffled by this. Claiming that those working at night simply cannot schedule their lives, have no familial obligations or simply don't understand how spectacular starting your day in the morning can be.
+But a large portion of the programmer population is also completely baffled by this. Claiming that those working at night simply cannot schedule their lives, have no familial obligations or don't understand how spectacular starting your day in the morning can be.
 
 A large part of this divide, I think, is simply that **it depends**. The core reasons for _why_ we work at night, or very early in the morning, or lucked out on a conductive day-time environment appear the same and mostly have to do with deep thought, flow and focus on one's work.
 
@@ -113,10 +113,30 @@ All I know about other creatives is that many of them complained they are not ex
 
 ## Statistics
 
-Here come some stats scraped from github and possibly volunteered by websites that might have this info. Visualisations to be peppered throughout the book.
+I created a small script that crawled Github search pages for about a week and collected a list of just over 500,000 Github repositories. Another small script then spent roughly fifteen hours going through this list and fetching each repository's punchcard.
 
-For now, you can head to [http://nightowls.swizec.com](http://nightowls.swizec.com) to see a cumulative punchcard of all your github repositories.
+As you might imagine, a punchcard tells us what time of day commits were made to a specific repository.
 
-Here's mine:
+For instance, here's a punchcard for all the repositories that I own; you can get yours at [http://nightowls.swizec.com](http://nightowls.swizec.com).
 
 ![Swizec's punchcard](images/swizec-punchcard.png "Swizec's punchcard")
+
+To find out when programmers _actually_ work most, I collected all of this data into simple histogram - all 164,509,270 commits of it, or roughly 6 gigabytes. The results are interesting, although perhaps not surprising.
+
+![Commit histogram by hour](images/commit-histogram.png)
+
+As you can see, most commits happen between 3pm and 5pm, just when a normal workday is concluding and people have to make sure all of their work is committed so they can go home for the day. This would imply that most programming still happens during normal working hours and that a lot of people use Github for work projects.
+
+More interestingly, even though the volume of commits drops off dramatically - almost exponentially - after 3pm spike, it does not reach the very low volumes of early mornings. In fact, it remans at about 60% of peak volume for the remainder of the evening!
+
+This is interesting on two fronts.
+
+Firstly, it suggests that a lot of programming activity happens in the late afternoon and early night - for an industry that only works during working hours, commit volume at 9pm should be around the same as 5am. Practically zero that is.
+
+Secondly, it's interesting that the volume remains so level until midnight and then start dropping dramatically until reaching the 5am low point, before it again starts rising in a bell curve towards the peak.
+
+Unfortunately, my data does not allow me to tell which projects are things people work on in their spare time at home and which are purely work projects. A lot of interesting things could be gleaned from the data if I could figure that out. Right now I would say that our histogram hides two bell curves.
+
+One bell curve has a peak at 3pm and the other at about 9pm, combining them together would produce the data we are looking at, I think. This warrants further study.
+
+Keep in mind, even though peak commit volume is at the end of a normal working day, more than 5,000,000 commits in my dataset were made between midnight and 1am. That's a lot of programmers producing a lot of work.
