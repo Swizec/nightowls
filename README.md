@@ -1,10 +1,10 @@
-# Introduction - version 0.2
+# Introduction - version 0.3
 
 Hello, I am Book. 
 
 Now that we're not strangers anymore even your mother would agree you can talk to me!
 
-Current reading time: 00:37:32
+Current reading time: 00:59:02
 
 ## Why should you read this book?
 
@@ -44,7 +44,9 @@ This Book is still a work in progress, if you are reading via [the Github reposi
 
 If you're already reading via purchased pdf, that's _awesome_ and you should feel good. Thanks for supporting this project :)
 
-I am calling this version 0.2, the most interesting section right now is **About flow**. **Why programmers work at night** contains some interesting science about intelligence, creativity and sleeping habits, plus a bit of cool trivia if you're too young to remember hacking history. Another mostly finished section is **Do programmers work at night?**. Other sections exist only as scraps strewn from different winds so far.
+I am calling this version 0.3. The most interesting section right now is **About flow**, with **Working with programmers** coming in as a close second. **Why programmers work at night** contains some interesting science about intelligence, creativity and sleeping habits, plus a bit of cool trivia if you're too young to remember hacking history.
+
+If you like data, you should definitely check out the Statistics part of **Do programmers work at night?**, it contains an analysis of some 500,000 github repositories.
 
 ## Why listen to Swizec
 

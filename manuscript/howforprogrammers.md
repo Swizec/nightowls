@@ -2,7 +2,7 @@
 
 ## Sleeping
 
-### Cyrcadian rhythms
+### Circadian rhythms
 
 ### Age
 
