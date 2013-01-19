@@ -103,7 +103,7 @@ Pet projects are also something to show off, a cool hack that makes everyone's e
 
 The title of this book is _Do programmers work at night?_. Your natural question might be "Do _only_ programmers work at night?"
 
-I don't know the answer to that question, but it seems like a lot of them do. Writers come to mind, as do designers and artists. Michellangelo was known for painting in 40 hour stretches until he fainted of exhaustion.
+I don't know the answer to that question, but it seems like a lot of them do. Writers come to mind, as do designers and artists. Michelangelo was known for painting in 40 hour stretches until he fainted of exhaustion.
 
 If you are one of those people, you might well find yourself in this book as well, and I wouldn't mind hearing from you.
 
