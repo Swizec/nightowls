@@ -15,7 +15,7 @@ You still need to sleep, though. What happens when you go to bed at two in the m
 
 Come evening, you don't feel sleepy until midnight. You're just working on something interesting, so you keep working until 1am. Or slightly later.
 
-Eventually your sleep cycle shifts into a different timezone because you keep goign to bed later and later, because you've woken up much later and so on ad infinitum until your alarm clock and society pressure put you in an equilibrium of sorts.
+Eventually your sleep cycle shifts into a different timezone because you keep going to bed later and later, because you've woken up much later and so on ad infinitum until your alarm clock and society pressure put you in an equilibrium of sorts.
 
 For a lot of people that equilibrium seems to be waking up at 11am and going to bed at 3am. I don't know why.
 
