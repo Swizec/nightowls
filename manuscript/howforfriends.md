@@ -160,7 +160,7 @@ When you finish a function. When you write some tests. When you run a full test 
 
 This is programming's curse. This is why programmers often get sucked into the vortex of online discussion wasting more time than they would like. But it's also a blessing because it gives their colleagues many opportunities to interrupt without actually interrupting.
 
-When a programmer has reached a natural stopping point int heir work they are naturally inclined to take a little break. Not only do they need to think for a bit before moving on to the next granular task on their list, but the feeling of having just finished something, no matter how small, makes a person want to sit back and bask in the glory.
+When a programmer has reached a natural stopping point in their work they are naturally inclined to take a little break. Not only do they need to think for a bit before moving on to the next granular task on their list, but the feeling of having just finished something, no matter how small, makes a person want to sit back and bask in the glory.
 
 Now is the time to step in and go through the batch of problems you need help with. It's also very likely that any email you may have sent will be answered at such an occasion.
 
