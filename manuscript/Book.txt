@@ -1,8 +1,0 @@
-
-introduction.md
-dothey.md
-whydothey.md
-factors-of-flow.md
-sleep-science.md
-howforfriends.md
-howforprogrammers.md
