@@ -74,7 +74,7 @@ For most software projects communication is vital. I'd say _all_ software projec
 
 Different communication styles fit different parts of the project. While face-to-face meetings might work best to eke requirements out of clients, instant messaging often works best for software teams to avoid interrupting one another.
 
-Having just the right amount of communication so things run smoothly and developers still have enough time to work is an art that takes most people a few years to develop. Some never get there and the internet is full of programmers complaining about cow-orkers and pointy-haired bosses.
+Having just the right amount of communication so things run smoothly and developers still have enough time to work is an art that takes most people a few years to develop. Some never get there and the internet is full of programmers complaining about co-workers and pointy-haired bosses.
 
 Programmers hate meetings and with good reason.
 
