@@ -46,7 +46,7 @@ A growing body of research gives credence these ideas. People with higher genera
 
 The study found that people who self-identified as preferring the evening also achieved higher scores in the different cognitive tests measuring things like memory and processing speed. Albeit the correlation was small, it was consistent. 
 
-Interestingly enough, individuals self-identifying as evening types, achieved higher scores in the morning as well. This is despite the USAF population being skewed towards mornigness.
+Interestingly enough, individuals self-identifying as evening types, achieved higher scores in the morning as well. This is despite the USAF population being skewed towards morningness.
 
 The study also mentions all other morningness-eveningness research would indicate a link between higher general intelligence and a preference for night owl behaviour. Arguing that the sample populations in those studies exhibited a skew towards eveningness and because they were done on university students, who generally have higher intelligence, this would indicate a positive link between the two.
 
