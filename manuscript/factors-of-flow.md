@@ -18,7 +18,7 @@ But flow is a fragile balance between many opposing forces. The programmer must 
 
 ## The autotelic personality
 
-In his work Csikszentmihalyi describes a type of personality that can experience episodes of flow more easily and more often than most people. 
+In his work Csikszentmihalyi describes a type of personality that can experience episodes of flow more easily and more often than most people.
 
 Researching flow in a lab is too difficult to get proper results, but evidence keeps wagging its eyebrows suggestively, hinting at the validity of something called an "autotelic personality".
 
@@ -47,7 +47,7 @@ Yes, flow is indeed much easier to achieve in the evening. At least for those of
 
 ### Decision fatigue
 
-The biggest enemy to evening and night-time productivity is decision fatigue. 
+The biggest enemy to evening and night-time productivity is decision fatigue.
 
 Most people experiencing decision fatigue don't recognise it for what it is, but if you've ever felt well rested physically and still couldn't think clearly, like your brain was tired, you've experienced decision fatigue.
 

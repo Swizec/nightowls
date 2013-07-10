@@ -20,7 +20,7 @@ Wouldn't it be marvelous to find out more about programmers?
 
 Book is for programmers and the people who have to deal with programmers' strange habits all the time.
 
-Wives, girlfriends, boyfriends, husbands, managers, sons, daughters ...  if there's a programmer in your life, you should probably read Book, it will make your programmer like you even more than they already do.
+Wives, girlfriends, boyfriends, husbands, managers, sons, daughters ... if there's a programmer in your life, you should probably read Book, it will make your programmer like you even more than they already do.
 
 If you're a programmer, the last part of Book is for you. Reading the other parts might make you nod your head in agreement, if it doesn't, you should write to Swizec.
 
@@ -58,7 +58,7 @@ Aside from programming, I also write a reasonably well read blog at [swizec.com]
 
 Some time ago I wrote an essay _[Why programmers work at night](http://swizec.com/blog/why-programmers-work-at-night/swizec/3198)_, which got an amazing response. Plenty of email too. This book is an expansion of that essay into a form that will hopefully be useful or at least interesting and entertaining.
 
-You should write to me at swizec+nightowls@swizec.com or ping me on twitter ([@swizec](http://twitter.com/swizec)) on the slightest whim!
+You should write to me at swizec@swizec.com or ping me on twitter ([@swizec](http://twitter.com/swizec)) on the slightest whim!
 
 ## License
 

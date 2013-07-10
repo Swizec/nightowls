@@ -48,7 +48,7 @@ Imagine you are one of the two. Getting up to grab some coffee, do you ask the o
 
 The answer to these questions will define how great you are to work with.
 
-### How interruptions spread 
+### How interruptions spread
 
 There is a team of programmers working together in an office. Deep in thought, code effortlessly flowing from their fingertips, one of them suddenly hits a snag. It happens because a related piece of code designed by another programmer is behaving in unexpected ways. 
 
