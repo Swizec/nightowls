@@ -425,19 +425,96 @@ The coolest effect of sleep deprivation, if you're into that sort of thing, is t
 
 However, the amount of sleep you should get to avoid sleep deprivation depends on how much sleep you need naturally. Your mother has probably told you that you should get at least eight hours of sleep every night, but research has shown that 7.5 is the optimal average for adults. [sauce]
 
-Through experiments I've found my own sweet spot at six hours give and take 30 minutes. It depends on how tired I am and how much mental effort I'd gone through, but five hours leaves me a bit foggy and anything much more than seven makes me either too hyperactive to work or sleepy.
+Through experiments I've found my own sweet spot at six hours give or take 30 minutes. It depends on how tired I am and how much mental effort I'd gone through, but five hours leaves me a bit foggy and anything much more than seven makes me either too hyperactive to work or wasted all day.
 
-You should experiment to find your own sweet spot.
+Experiment to find your own sweet spot.
 
-But 
+You might be surprised by how little sleep you actually need once it's effective. As natural as sleep is, a lot of people are just plain terrible at it. Either they lay in bed waiting to fall asleep for far too long or wake up tired and groggy.
+
+For refreshing sleep you are optimizing your sleep for the REM - rapid eye movement - stage of sleep. Occuring roughly every 90 minutes this is the dreaming sleep stage. During REM your brain is as active as while you are awake, but your body is completely paralysed to prevent acting out your dreams.
+
+REM is usually followed by a period of very light sleep that is the perfect opportunity for waking up fresh as a flower. Missing this window of opportunity will leave you feeling worse than if you hadn't slept at all.
+
+A simple way to make sure you're waking up at the right moment is making sure the amount of sleep you get is an increment of 90 minutes. Experiment a bit to find the exact timing for yourself as the cycle length can vary between individuals and usually shortens towards the end of the night - we dream more and more often towards the morning.
+
+Another great tool are sleep apps for your phone. They monitor your sleep with the phone's accelerometers (yes, you have to sleep with your phone) and sound the alarm at the best moment in a thirty minute time window. My favorite is SleepTime by Azumio because it shows fancy graphs of my sleep and plays white noise that helps me relax before sleep.
+
+The best way of describing the difference between a normal alarm and one synced to your sleep cycle is that a normal alarm wakes you up and a modern alarm _reminds_ you to wake up.
+
+After fixing your wakeup, it's also important to fix the timing.
+
+Sleep is only effective when it's synced properly to your natural circadian rhythm. This is why sleeping all day never seems to quite cut it and why jet lag feels so terrible. Ideally you should be asleep 6 hours before your body temperature reaches its lowest levels.
+
+This one might be difficult to figure out, but I personally seem to be freezing at around 8am no matter the situation. Therefore I should be going to bed at around 2am, which is exactly what my normal routine looks like.
+
+When all those factors line up something magnificent happens: you're always rested, you never feel sleepy during the day, and you fall asleep almost as soon as your head touches the pillow. No matter how much stuff might be rushing through your head.
+
+### Caffeine
+
+In high school most of my friends worried about getting the girls and finding the best parties, but I worried about being the next Turing or Carmack. My already limited coding time felt wasted on sleep so I started looking for a cure.
+
+The first cure I found for late night drowsiness was green tea with plenty of sugar. Caffeine.
+
+Caffeine is probably the safest and most effective stimulant you can easily get your hands on. Pretty much everything that says it's got stimulative effects and you can find in a normal store contains caffeine. Coffee, tea, chocolate, energy drinks, cold medicine. Everything.
+
+Reading research on caffeine really makes it sound like a wonder drug and I will never understand why some people avoid it so much.
+
+Several long-term observational studies have shown that chronic consumption of caffeine (three or more cups of coffee per day) significantly decreases your chance of death from _any_ factor. If you consume caffeine you are simply less likely to die. Period.
+
+The biggest effect however was on cardiovascular disease and mental deterioration linked to aging. Drinking large amounts of caffeine - more than 300mg - every day will significantly lower your chances of dementia and Parkinson's disease, while any dose whatsoever will help against some cardiovascular disease
+
+Better still, it seems that long-term habitual use of caffeine is either _inversely proportional_ to chances of certain diseases, or has no effect whatsoever. It doesn't cause high blood pressure, doesn't affect diabetes etc.
+
+But you do get used to caffeine. The more you drink the more you're going to have to drink. While some studies report the effect of caffeine _increases_ with habitual use, a lot of people suggest for most of us caffeine does nothing but restore normality because we are so used to it.
+
+One thing to keep in mind is that caffeine as a mental stimulant only works when you are sleep deprived. A well rested individual might well not drink any.
+
+This is because caffeine is an adenosine inhibitor. Adenosine is a chemical that inhibits the activity in our central nervous system whose concentrations correlate to how long we've been awake - makes you sleepy after you've been up for long enough.
+
+Caffeine binds to adenosine receptors giving adenosine nowhere to go, which makes you feel more awake. This has its limits but works well enough for caffeine to increase your cognitive capacities on all measures. You're better able to concentrate, make good decisions, your short-term memory improves, solving difficult problems is easier, you think faster and so on. Even your mood improves!
+
+Inhibiting adenosine is not the only thing caffeine does to your brain. Part of its effect goes to increasing blood flow to your brain and increasing your metabolism. This means the brain has more oxygen and more energy to work with.
+
+All of that happens if you are sleep deprived. If you just woke up caffeine will do next to nothing. It might elevate your mood a bit because you're used to it and it will increase blood flow to your brain to some extent, but mostly you're just fooling yourself that morning coffee is doing anything.
+
+And placebo has been shown to work less well than caffeine. Sorry.
+
+But caffeine is great as a physical stimulant as well. In all parts of the day. I haven't found an article explaining why or how, but caffeine increases your muscular coordination, improves your endurance, your reflexes and just generally improves all parts of your physical performance.
+
+No wonder working out after a can of red bull feels so great.
+
+Just remember drinking caffeine and going right into a boxing match does not work well. You have to give it 20 to 30 minutes before caffeine starts working its magic. I learned that the hard way ...
+
+On that note, make sure you replenish your caffeine supply after a while. Most of the effects last for about four hours then start tapering off. The more tired you are, the harder the crash is going to be so be prepared. If you want to keep riding the caffeine high drink a new dose every three to four hours.
+
+Luckily you don't have to worry about overdosing on caffeine. If you're a healthy adult, you can safely take up to 1000mg per day for the rest of your life. That's equivalent to 13 shots of espresso or six cans of Monster. 
+
+Please don't drink six cans of Monster per day, there's probably a good reason the can says you shouldn't have more than one.
+
+Caffeine is therefore a perfect drug. You can use as much as you want all of your life and you will be an all round better human. _If_ you're okay dealing with severe dependence and withdrawal symptoms when you don't get your fix.
+
+Your choice.
+
+### Other stimulants
 
 
-### Stimulants
 
-[what caffeine does, how it works, why it's good for some things and not for others etc.]
 
-Caffeine is the world's most widespread stimulant. Drank by almost everybody it's become a staple of office culture - especially among programmers. No wonder the saying goes _"Programmers are machines that turn coffee into code."_
-
+- no longterm side effects
+- adenosine inhibitor
+- only effective mentally on sleep deprived humans
+- works well as a reflex and stamina increaser
+- useless in morning
+- effectiveness not increased with addition of simple carbs
+- ephedrine as good as caffeine
+- best is caffeine+ephedrine
+- ginseng doesn't do anything
+- nicotine helps you focus
+- tea helps you focus while also speeding you up
+- adderall is another popular option, but haven't tried
+- tried methilon but it isn't very good for working
+- most illegal stimulants have too many bad effects to be used regularly
+- nootropics have only limited usability and tolerance usually builds too quickly
 
 ## Distractions
 
