@@ -497,24 +497,45 @@ Your choice.
 
 ### Other stimulants
 
+Caffeine is by far not the only stimulant people use. Just the most common.
 
+Ginseng is another phytonutrient I apparently drink a lot of with my energy drinks. It is said to have stimulative properties and make your brain work better, but a study I found comparing the effects of common stimulants concluded it does exactly bupkis.
 
+Doesn't increase your cognitive or physical performance any more than a placebo would. But I doubt that will stop energy drink manufacturers from using it. Maybe it has an effect when combined with the other things? I don't know.
 
-- no longterm side effects
-- adenosine inhibitor
-- only effective mentally on sleep deprived humans
-- works well as a reflex and stamina increaser
-- useless in morning
-- effectiveness not increased with addition of simple carbs
-- ephedrine as good as caffeine
-- best is caffeine+ephedrine
-- ginseng doesn't do anything
-- nicotine helps you focus
-- tea helps you focus while also speeding you up
-- adderall is another popular option, but haven't tried
-- tried methilon but it isn't very good for working
-- most illegal stimulants have too many bad effects to be used regularly
-- nootropics have only limited usability and tolerance usually builds too quickly
+Ephedrine is another popular option. I haven't used it, but according to the same article rapping on ginseng, ephedrine is even more effective than caffeine in some cognitive tests. [which?]
+
+Unlike caffeine ephedrine is a melatonin inhibitor. Your body produces melatonin depending on how much light hits your retinae, which makes you sleepy in the evening. This is why it's easier to stay awake when you leave the lights on and look at bright computer screens all evening.
+
+Interestingly, ephedrine produces a bigger effect in many tests than caffeine does and because it acts primarily on melatonin you can combine the two for a greater effect than either ephedrine or caffeine on their own.
+
+I have yet to experiment with ephedrine, but am going to as soon as I figure out where I can get some.
+
+The only stimulant other than caffeine that I've tried was methylone and I don't recommend that as a performance enhancer. It is structurally similar to MDMA so it's more of a party drug anyway. 
+
+When I tried methylone I specifically wanted to test how well it worked for improving cognitive performance. At first it seemed to work very well - I improved my time my record in a Colin McRae game by almost a minute on a 4 minute track. It felt like I could see into the future and was so at one with the car and keyboard that my reflexes were far too fast to follow with my conscious mind.
+
+But the stimulating effect became too much after about twenty minutes and I could no longer focus enough to follow the game. My muscle response became too rigid as well and I lacked the fine motor control required to type with any finese.
+
+Not a very productive stimulant therefore, but I did talk like the wind all night, unable to stop, my mind kept racing and I couldn't sit still until about 8am when I was physically exhausted but had a hard time falling asleep.
+
+The hangover was very physical. Like I had been doing hard physical labor all day.
+
+I suspect a lot if not all street stimulants will have a similar effect of making you too hyperactive to be of any use behind a computer. Maybe you can circumvent that with very precise dosing, but I wouldn't bet on it.
+
+However there is great potential in pharmaceuticals.
+
+I've heard adderall is a popular option in the United States. The diagnosis of attention deficit disorder is so popular there, you can get adderall as easily as marijuana on most campuses. That's what I've heard anyway.
+
+The effects on healthy individuals seem to be very beneficial. It doesn't really speed you up like caffeine would, but makes it very easy to focus.
+
+Another viable option for long nights is modafinil. Prescribed for narcolepsy its mode of action remains unclear, but it removes your need for sleep. You just will not feel tired, there is apparently no hangover, and from what I could find there are no side-effects if you are otherwise healthy.
+
+You might develop normal sleep deprivation side-effects like poor long-term memory and eventually hallucinations if you stay awake for too long. 
+
+Plan to get some sleep every night!
+
+I haven't tried most of this stuff, just read about it. I'm not condoning the use of these chemicals, but they are out there and some people are using them.
 
 ## Distractions
 
