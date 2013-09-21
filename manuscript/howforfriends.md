@@ -156,7 +156,7 @@ Collect your questions and ideas. Write them down on a post-it note, in a notebo
 
 Programming is fraught with natural stopping points.
 
-When you finish a function. When you write some tests. When you run a full test suite. When you press compile. When you finish a feature. When you pinpoint the code where a bug is hiding. Where you …
+When you finish a function. When you write some tests. When you run a full test suite. When you press compile. When you finish a feature. When you pinpoint the code where a bug is hiding. When you …
 
 This is programming's curse. This is why programmers often get sucked into the vortex of online discussion wasting more time than they would like. But it's also a blessing because it gives their colleagues many opportunities to interrupt without actually interrupting.
 
@@ -170,10 +170,42 @@ The simplest way is to leave the decision up to them, send an email, wait for th
 
 By the way, do try to clean out your inbox at least once a day. As a courtesy to everyone who respects your time enough to avoid bothering you directly.
 
-Another great approach is to look for signs of procrastination and general time wasting. Is the focus on a twitter client? Are they looking at a browser and it isn't documentation? Playing office warfare or spinning in their chair? Perhaps just getting up and getting a cup of tea?
+Another great approach is to look for signs of procrastination and general time wasting. Is the focus on a twitter client? Are they looking at a browser and it isn't documentation? Playing office warfare or spinning in their chair? Perhaps just getting up for a cup of tea?
 
 That's your cue. Pounce.
 
 One thing to keep in mind is fitting everything inside this natural stopping point zone. I find anything that will take longer than five minutes needs to be scheduled off into the far distance. Usually at the end of the work day or in that half hour after lunch when I'm putting off getting back to work.
 
 Don't try to fit anything "hard" in those five minutes either. Where hard is defined as anything that requires thinking deeply about something other than whatever the programmer was doing before. Simple things are okay, helping you with a bug is not.
+
+### It will take just five minutes
+
+Coworkers often don't understand how long it takes to code something. Non-technical people especially, but programmers are just as guilty.
+
+Just the other day I was talking with a mate on Skype who complained that his boss will often egg him on to add just one little thing. _"Come on, it's only going to take five minutes, you can add it."_
+
+Despite trying his best to resist these small tweaks, he usually breaks down and adds it anyway. This happens partly because programmers in general are less skilled negotiators than managers whose job is mostly negotiation. There's also a power dynamic at play - it's usually difficult to deny a boss's request.
+
+But more importantly, it's very difficult to make a logical case that X is _not_ a five minute job. Of course you can add a small button to a webpage in five minutes. Ten minutes tops. It's no more than a line of code. How could such a small piece of the puzzle possibly take more than five minutes?
+
+Exactly because it's a piece of the puzzle.
+
+When systems grow the complexity no longer lies in individual pieces but in the system as a whole. For a programmer to add a small five minute feature they have to first consider the whole system.
+
+Does the system support adding that one feature? Will I have to bolt this on as an ugly hack to make it work? How many things need to be redesigned to make this feasible?
+
+When all of that is considered, it takes at least five minutes to spin up the development environment. You have to open a text editor, something to test your code and so on. As a web developer I usually have at least one Emacs and one Chrome windows open.
+
+Then you have to find the right file to implement the feature in. Because your system has grown so much you can rarely implement a tiny button using a single file. The button goes in one file, its styling in another, then there's a file for making the button actionable and often a fourth file for the text.
+
+Each of those files will be several hundred lines long and you have to find the right place for new code in each file, consider what other code you can reuse and whether any existing code needs to change to accommodate the new feature. Even the best mental map of the files and search technique will not save you from reading a few dozens lines of code. 
+
+Scanning through some 1500 words (counting important code symbols as words and assuming an average of 20 per line) takes time. You can read about 300 words per minute on average, which means you are going to spend five minutes reading code before you even get to implementing your five minute feature.
+
+Now that the programmer has spent at least ten minutes implementing that quick fix it's time to test. Which means a round of writing tests or clicking around the interface. Usually both.
+
+After twenty or so minutes have passed that quick five minute job is done.
+
+Now they have to keep supporting it for the rest of the product's life cycle. This means keeping it in mind next time a small feature is implemented, making sure it works when surrounding code changes and keeping the user experience consistent.
+
+That five minute quick feature will take _hours_ of developer time over the next few months or years.
