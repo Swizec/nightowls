@@ -1,64 +1,66 @@
-# Introduction - version 0.3
+# Introduction - version 0.4
 
-Hello, I am Book. 
+Hello, I am Book.
 
-Now that we're not strangers anymore even your mother would agree you can talk to me!
+You already know the twat who created me. He's the guy who can't keep his shit together long enough to start a business. That foreword you just read was all him. Idiot.
 
-Current reading time: 00:59:02
+But I am Book! You will like me. 
 
-## Why should you read this book?
+It's going to take about <time> to read me through, but take it easy. That's just a suggestion calculated by some weird piece of software some guy probably wrote when he could barely see through the haze of caffeine.
 
-Because Swizec, the guy writing Book, will be very happy if you do!
+I don't trust software. But I do trust developers, programmers, software engineers or however else you want to call them. Those guys seem to change their preferred noun every two weeks.
 
-More importantly, it will let you in on the inner workings of programmers, those strange people making your modern life possible. The guys creating your internet, the lasses who make credit card systems, those people making sure opposing streets on a crossroads don't get green lights at the same time. Not to mention the heroes making sure airplanes don't fall out of the sky and your airbags deploy on time.
+Have some tea. Or coffee. Glass of water?
 
-If there's a part of your life that programmers have yet to touch, I bet somebody in a research lab somewhere (probably Japan) is trying to change that as we speak. Think of toilets, [toilets have a lot of computers attached in Japan](http://priceonomics.com/toilets/).
+I'm going to teach you about being _the best_. The best programmer, or the person programmers like best. I have no idea which you need more, so I'll just show you both.
 
-Wouldn't it be marvelous to find out more about programmers?
+## Keep in touch
+
+Swizec is starting a newsletter about the things from Book. He's going to share interesting things about productivity, programmers, office culture and stuff like that about twice a month.
+
+Sign up at: [http://swiz.ec/nightowls-list](http://swiz.ec/nightowls-list)
+
+You can also poke swizec on Twitter as [@swizec](https://twitter.com/swizec) or send him an email at swizec@swizec.com. He loves hearing from people.
 
 ## Whom Book is for
 
-Book is for programmers and the people who have to deal with programmers' strange habits all the time.
+You should read me if you are a programmer or have to deal with those weirdos all the time. If you have to wait until 11am for your favorite programmer to show up at work, or your favorite programmer won't even come to bed until 3am regardless of how sexy your lingerie. Read me!
 
-Wives, girlfriends, boyfriends, husbands, managers, sons, daughters ... if there's a programmer in your life, you should probably read Book, it will make your programmer like you even more than they already do.
+If you're a mum or a dad and your young padawan of a programmer is acting strange - stays up all night and sleeps through school. I'll tell you why. And no, it's not drugs, it's pure awesome.
 
-If you're a programmer, the last part of Book is for you. Reading the other parts might make you nod your head in agreement, if it doesn't, you should write to Swizec.
+If one of your parents is a programmer and they keep making strange jokes. *"Yes mum, we know! The two hard things in computer science are cache invalidation, naming things, and off-by-one errors. Ha ha."*. I'll help you understand that one too.
 
 ## What Book contains
 
-There are four sections to Book.
+I'm made up of roughly four sections.
 
-First we'll explore whether programmers do in fact work at night or that's more of a myth than not.
+First I'm going to talk about whether programmers do in fact work at night or do they just think they do so they can brag for hours on end about how little sleep they need.
 
-Then we'll see some reasons about why they work at night to help everyone understand what's going on.
+Then we're going to go through some of the reasons they feel like night-time is the best time. I'll tell you what's going on and what's so hard about working during the day.
 
-Lastly, there's going to be some practical guides aimed first at people who aren't programmers but have to deal with them. And some tips for programmers themselves to help them, perhaps, avoid working at night … or just get more out of the night. You could call them productivity tips.
+Lastly, I'm going to share some practical stuff aimed at people who aren't programmers, but have to deal with them and some other stuff for programmers so they can get along with normal people better, or just get more out of the night.
 
 ## What is not in Book
 
-Book is not hard science. It's a collection of opinions weighed by conversations with other programmers online and off, reading some research about sleep and so on. If you want to look at hard science on the subject, you should talk to some of the wonderful people who research this stuff for a living.
+I am not hard science. You should take everything you read here with a grain of salt. While that Swizec guy did read a lot of academic papers on most things in here, he's also based a lot of it off anecdotal evidence and his and his friends' personal experiences.
+
+He also sucks at keeping proper track of references. I try to smack him over the nose with a newspaper every time he cites something from a paper, but doesn't cite it properly. He rarely listens, but promises he'll try his best to get all of that in place.
 
 ## How finished is Book
 
-This Book is still a work in progress, if you are reading via [the Github repository](https://github.com/Swizec/nightowls), that's wonderful! Make sure to give me your feedback, Github Issues exist for a reason.
+Swizec is lazy - he prefers the euphemism "busy" - so it's taking him forever to finish me. It feels like I'm missing a whole body! I want one of those lovely figures you see on TV ...
 
-If you're already reading via purchased pdf, that's _awesome_ and you should feel good. Thanks for supporting this project :)
+If you are reading via [the Github repository](https://github.com/Swizec/nightowls), that's wonderful! Make sure to tell him what's wrong! Github Issues exist for a reason.
 
-I am calling this version 0.3. The most interesting section right now is **About flow**, with **Working with programmers** coming in as a close second. **Why programmers work at night** contains some interesting science about intelligence, creativity and sleeping habits, plus a bit of cool trivia if you're too young to remember hacking history.
+If you're reading via purchased pdf, that's _awesome_! You are a gentleman and a scholar and a great person to boot. Swizec asked me to say thanks for supporting the project.
 
-If you like data, you should definitely check out the Statistics part of **Do programmers work at night?**, it contains an analysis of some 500,000 github repositories.
+Right now I'm version 0.4.
 
-## Why listen to Swizec
+The interesting sections right now are **About flow** and **Working with programmers**. There's some interesting science about creativity and sleeping habits in **Why programmers work at night**.
 
-Really, I'm just a guy who loves programming.
+The section of tips _for_ programmers was mostly written during long drives on a road trip around Europe. It's very interesting, but that lazy bastard still hasn't finished editing.
 
-I have spent the past 16 years of my life either attached to a  computer or talking to other programmers for most of my waking life. Not sure that makes me suitable to talk about programmers and their habits, but I'll be damned if I don't try.
-
-Aside from programming, I also write a reasonably well read blog at [swizec.com](http://swizec.com) - there's a tiny chance you've seen it before. I keep being surprised by real life people mentioning they've read something on my blog. Don't think I will ever get used to that.
-
-Some time ago I wrote an essay _[Why programmers work at night](http://swizec.com/blog/why-programmers-work-at-night/swizec/3198)_, which got an amazing response. Plenty of email too. This book is an expansion of that essay into a form that will hopefully be useful or at least interesting and entertaining.
-
-You should write to me at swizec@swizec.com or ping me on twitter ([@swizec](http://twitter.com/swizec)) on the slightest whim!
+If you're into data, you should check out the preliminary analysis in **Do programmers work at night?**. Some 500,000 Github repositories were considered, but there's still much more data hiding in there.
 
 ## License
 
