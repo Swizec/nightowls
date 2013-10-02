@@ -1,3 +1,5 @@
+# From disgruntled developer, to founder, to burnout
+
 I was 21 when I quit my first real job.
 
 What started as a great opportunity for a high school senior to sharpen his coding chops, turned into daily frustration over management, stress and terrible working conditions.
@@ -66,7 +68,7 @@ They actually didn't, but it sure felt like it. In my eyes I _was_ the startup. 
 
 The car didn't judge.
 
-I became a husk. I spent whole days aimlessly clicking around the internet. "Work" had become writing two lines of code followed by an hour of locates. My nights were spent doing everything I could possibly think of that didn't involve the startup.
+I became a husk. I spent whole days aimlessly clicking around the internet. "Work" had become writing two lines of code followed by an hour of lolcats. My nights were spent doing everything I could possibly think of that didn't involve the startup.
 
 In March 2011 our investors and the other cofounder kicked me out of the startup I had poured my life in for a year and five months. I was devastated, but I deserved it. I was a terrible boss, I drove my guys like slaves, I didn't listen to just about anyone.
 

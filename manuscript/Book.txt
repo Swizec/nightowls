@@ -1,4 +1,5 @@
 
+foreword.md
 introduction.md
 dothey.md
 whydothey.md
