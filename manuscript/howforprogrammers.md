@@ -22,55 +22,45 @@ These days I work less, achieve more, and rarely get tired.
 
 ## Energy levels
 
-What about energy levels? I should do some research on this. Where do I get it? I instinctively know what to write about here, but I don't even have a clear definition of what are energy levels. Are we just talking about ego depletion, or is there something else? Is this something that goes in the sleep science section or not?
+We all understand what are energy levels, intuitively.
 
-I know it's affected by food, exercise, sleep, and stimulants. But how is it affected? Does it always work the same? Is it just the function of sugar in your blood or is there more to it? Can you get tired even if you're well rested, is that then ego depletion?
+Energy levels are that thing you have more of when you're rested and less of when you're tired. Somebody who's full of energy is buzzing around and can barely contain themselves, while somebody who's low on energy just sits there staring straight ahead with an empty expression.
 
-What exactly should people do to maintain good levels? What even are good levels? What are we trying to achieve?
+Everybody also knows their energy tends to fluctuate through the day depending on their natural cycle, how long they've been awake, what they eat and so on. 
 
-This is going to be a difficult chapter to write.
+For instance, many people say they feel a spike of energy when it's not quite morning anymore, but not quite lunch time yet. Then they feel slow after lunch and have another peak in the afternoon before winding down for dinner and then some people have another spike later in the evening while others fall right asleep and never pick up until next morning's work.
 
-----
+But what are we talking about anyway? What _are_ energy levels?
 
-We want to achieve as stable as possible energy levels across the day because that means you get the most out of the day. Otherwise your'e going through highs and then falling so low you aren't getting much done. The thing to do is to eat regularly enough to never be hungry and to either drink caffeine constantly or not at all. It's important to avoid sugar as well.
+It's not exactly physical energy that's measure in joules and relates directly to physical work. It's something more subtle than that. It's got almost as much, if not more, to do with how we _feel_ rather than how much we can lift, or move, or how far and fast we can run.
 
-But the problem is I still don't know what is an energy level. It needs to be something measurable. Just needs to. Othewrsie I can't really put it in the book … it needs a clear definition rather than just witchcraft and waving hands and stuff.
+Feeling low on energy doesn't mean our physical energy is any lower. Sure, it's related, but you can be mentally tired and physically still strong as ever. Or physically tired and your mind is racing.
 
----
+What we mean when we say we're feeling full of energy, is that our mental energy is high and we feel motivated and capable of doing work. Even excited.
 
-Intuitively, we all understand what our energy levels are. They're that thing that you have more of when you're rested and less of when you're feeling tired. Somebody who's full of energy is buzzing around and can barely contain themselves, while somebody who's low on energy usually just sits there staring straight ahead with an empty expression before their face - usually waiting for the coffeee to kick in.
+Since the early 2000's scientists have been researching the concept of mental energy using a combination of cognitive performance measurements, self-evaluation questionnaires and tests of physical ability.
 
-Everybody also knows that their energy levels tend to fluctuate through the day depending on their natural cycle, how long they've been awake, what they've had to eat and so on.
+They've discovered our feelings of mental energy directly correlate to cognitive performance in terms of short term memory and ability to take decisions quickly. It didn't seem to have much effect on other cognitive performance factors, other than general motivation. Having high mental energy tends to mean you're more motivated to solve complex tasks, which makes you slightly better at them.
 
-For instance, a lot of people say they feel a spike of energy when it's not quite morning anymore, but it isn't lunch time yet either. Then they feel slow after lunch and have another peak in the afternoon before winding down for dinner and then some people have another spike later in the evening while others fall right asleep and never pick up until the next morning's work.
+You're also able to hold focus better when you're rested, which does correlate with mental energy, and thus indirectly factors into your performance on cognitive tasks.
 
-But what are we talking about when we say our energy levels fluctuate?
+Interestingly enough, the same correlation holds for physical performance - higher mental energy means more focus, means a greater ability to overcome stressors, means better physical performance. Mostly in terms of endurance and maximum strength.
 
-We're not talking about physical energy - that's measured in joules and relates direclty to physical work. It's a fascinating subject in the study of mechanics, but our feelings of energy don't have a lot to do with how much we can lift, or move, or how well we feel exercising.
+As such, there are two parts to the mental energy equation. 
 
-Feeling low on energy doesn't mean that our physical energy is any lower, although it might be a little bit related. Just as having low physical energy doesn't have ot mean we also feel like we're out of energy. Our muslces can be tired and sore even when we're feeling full of energy and ready to take on the world.
+On one hand it's a mood - how much energy you _feel_ like you have. This affects your performance through motivation.
 
-What we actually mean when we say that we're feeling full of energy, is that our mental energy is high and we feel motivated and capable of doing mental work.
+On the other hand is a slightly more interesting actual mental energy, which measurably affects your cognitive performance in short term memory and decision tasks. It's more interesting because it's more measurable and its effect is more pronounced.
 
-Scientists have been researching the concept of mental energy since the early 2000's using a combination of cognitive performance measurements, self-evaluation questionnnaires and physical tests.
+More importantly, it's worth pointing out that you can have high mental energy, without actually feeling like you are high in energy.
 
-They've discovered that our feelings of mental energy directly correlat to cognitive performance in terms of short term memory and and ability to take decisions quickly. It idd not sem to have much effect on other cognitive performance factors, otehr than just a general preference in terms of motivation - if your mental energy is high you'er goign to be more motivated to solving complex tasks and thus ygoign to perform better on them.
+[have to dig up studies again and add more specific quotes]
 
-There's also a tendency to be able to hold focus better when you're rested, which correlates with a high mental energy, and thus is an indirec tfactor in your cognitive performance.
+In short, your mental energy is a measure of how energetic you feel and how well you perform on mental tasks. It doesn't seem to affect anything else, neither does it affect most cognitive performance measures. 
 
-Interestingly enough, the same correlation seems to hold of phyriscal perfromance - if you're higher on mental energy, you will have more focus an da greater ability to overcome stressors, so you will be able to perform better physically. Mostly in terms of endurance and maximum strength.
+Maintaining mental energy levels that are useful for quality programming is therefore mandatory.
 
- As such, there are two parts to the mental energy equation. On one hand it's a modd, which menas how much energy you _feel_ like you have. This affects your performance through motivatio.
-
-On the other hand is a slightly more interesting actualmental energy, which measurably affects your cognitive performance in short term memory and decision tasks. It's more interesting because it's more measurable and its effect is more resonably pronounced.
-
-More importantly, it's worth poitning out that you can have high mental energy, without actually feeign like you are high in enrgy.
-
-[more stuff and specific quotes]
-
-Therefore, your mental energy is a measure of how energetic you feel and how well you perform on mentaal tasks. It does not seem to affect anything else, neither does it affect most cognitive perfromance measures. Maintaining mental energy levels that are useful for quality programming therefore is mandatory.
-
-The rest of this part of the book talks about lifestyle choices that affect mental energy and what kind of levels we actually aim for.
+The rest of **Tips for programmers** is about lifestyle choices that affect mental energy.
 
 ## Long hours
 
