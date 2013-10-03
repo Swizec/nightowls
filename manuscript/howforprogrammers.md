@@ -86,7 +86,7 @@ After a month we did end up with a very presentable MVP that only needed a few m
 
 Friday was the day of the big investor meeting. What was supposed to be just a friendly ?Hey what are you up to? over lunch, turned into a proper meeting at the investor's office.
 
-On MOnday we panicked.
+On Monday we panicked.
 
 The product was well on it sway, ub tyou know how software projects are. Until it's done, it look slike it's never goign to be done and those last few polishing touches take the longest.
 
