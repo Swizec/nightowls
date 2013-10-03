@@ -178,7 +178,7 @@ Most people can't ensure that even four days in a row.
 
 The routine that works best for me is based around the pomodoro schedule.
 
-Pomodoro is a time management technique discovered by [italian dude] when he was studying for a lot of exams in college and had to find a way to work for hours on end without becoming tired. It worked and soon become popular all over the world, known as the pomodoro technique because he used a pasta cooking timer in the shape of a tomato. Pomodoro in Italian.
+Pomodoro is a time management technique discovered by Francesco Cirillo when he was studying for a lot of exams in college and had to find a way to work for hours on end without becoming tired. It worked and soon become popular all over the world, known as the pomodoro technique because he used a pasta cooking timer in the shape of a tomato. Pomodoro in Italian.
 
 The idea is that when you sit down to work you turn on a 25 minute timer. While the timer is running your full attention should go to the task at hand. No internet, no tweeting and email and facebook, no conversations with coworkers. Just you and your task.
 
