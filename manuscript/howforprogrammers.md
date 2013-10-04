@@ -420,7 +420,7 @@ Through experiments I've found my own sweet spot at six hours give or take 30 mi
 Experiment to find your own sweet spot.
 
 You might be surprised by how little sleep you actually need once it's effective. As natural as sleep is, a lot of people are just plain terrible at it. Either they lay in bed waiting to fall asleep for far too long or wake up tired and groggy.
-1
+
 For refreshing sleep you are optimizing your sleep for the REM - rapid eye movement - stage of sleep. Occuring roughly every 90 minutes this is the dreaming sleep stage. During REM your brain is as active as while you are awake, but your body is completely paralysed to prevent acting out your dreams.
 
 REM is usually followed by a period of very light sleep that is the perfect opportunity for waking up fresh as a flower. Missing this window of opportunity will leave you feeling worse than if you hadn't slept at all.
