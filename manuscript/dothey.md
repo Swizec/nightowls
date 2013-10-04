@@ -127,7 +127,7 @@ To find out when programmers _actually_ work most, I collected all of this data 
 
 As you can see, most commits happen between 3pm and 5pm, just when a normal workday is concluding and people have to make sure all of their work is committed so they can go home for the day. This would imply that most programming still happens during normal working hours and that a lot of people use Github for work projects.
 
-More interestingly, even though the volume of commits drops off dramatically - almost exponentially - after 3pm spike, it does not reach the very low volumes of early mornings. In fact, it remans at about 60% of peak volume for the remainder of the evening!
+More interestingly, even though the volume of commits drops off dramatically - almost exponentially - after 3pm spike, it does not reach the very low volumes of early mornings. In fact, it remains at about 60% of peak volume for the remainder of the evening!
 
 This is interesting on two fronts.
 
