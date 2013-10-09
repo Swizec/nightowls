@@ -527,7 +527,7 @@ Plan to get some sleep every night!
 
 I haven't tried most of this stuff, just read about it. I'm not condoning the use of these chemicals, but they are out there and some people are using them.
 
-## Distractions
+## Dealing with distractions
 
 ### Workspace
 

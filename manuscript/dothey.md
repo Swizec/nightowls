@@ -113,6 +113,8 @@ All I know about other creatives is that many of them complained they are not ex
 
 ## Statistics
 
+[this needs to be expanded and pulled into a full blown section]
+
 I created a small script that crawled Github search pages for about a week and collected a list of just over 500,000 Github repositories. Another small script then spent roughly fifteen hours going through this list and fetching each repository's punchcard.
 
 As you might imagine, a punchcard tells us what time of day commits were made to a specific repository.

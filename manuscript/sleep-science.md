@@ -4,6 +4,7 @@ Here will be some stuff about sleep science.
 
 Especially how it relates to productivity and creativity, outline to be created when I've found&read more studies.
 
+[a lot of this section has been sneaked into how-for-programmers, perhaps it fits better there, or those bits should be pulled from there to here]
 
 ### Shifting sleep schedules
 
