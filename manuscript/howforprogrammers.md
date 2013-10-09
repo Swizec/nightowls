@@ -88,13 +88,13 @@ Friday was the day of the big investor meeting. What was supposed to be just a f
 
 On Monday we panicked.
 
-The product was well on it sway, ub tyou know how software projects are. Until it's done, it look slike it's never goign to be done and those last few polishing touches take the longest.
+The product was well on its way, but you know how software projects are. Until it's done, it looks like it's never going to be done and those last few polishing touches take the longest.
 
 There was no way we were going to let the founder go into that meeting with a product he doesn't feel comfortable letting the VC play with on their own. We decided to do what ever it takes.
 
-That MOnday we took a very short lunch and worked until nine o'clock. To reward ourselves for getting a whole lot done, the engineering team went out for dinner together, tentatively planning to work more afterwards.
+That Monday we took a very short lunch and worked until nine o'clock. To reward ourselves for getting a whole lot done, the engineering team went out for dinner together, tentatively planning to work more afterwards.
 
-We just neeeded to get away from our ocmputers for a bit you see, we weren't tired at all. Oh no, who gets tired after a long-ish day of coding? Pfft, not us!
+We just needed to get away from our computers for a bit you see, we weren't tired at all. Oh no, who gets tired after a long-ish day of coding? Pfft, not us!
 
 Dinner lasted until eleven o'clock and we didn't do any more work that day.
 
@@ -146,7 +146,7 @@ That afternoon the founder announced the meeting had been postponed due to some 
 
 At 7pm we stopped working. If anyone was even working at more than 20% ...
 
-On friday we were back to normal. No deadline. No pressure to work super late. We got it done. That evening the product worked.
+On Friday we were back to normal. No deadline. No pressure to work super late. We got it done. That evening the product worked.
 
 The new meeting was on Monday morning. Sunday afternoon was bug fixing day - first time in the company's history that people were expected to work on a weekend.
 
@@ -166,7 +166,7 @@ That isn't very productive. You spend most of your time figuring out what you're
 
 Not a very good way to catch deadlines, and not a great way to get anything done. Too much overhead and uncertainty.
 
-A steady routine works much better. Wake up at roughly the same time every day, always us the same process to gear up for work, have lunch in roughly teh same time window every day, stop working and get to bed at similar times every day. Even use a similar sequence of events to fall asleep.
+A steady routine works much better. Wake up at roughly the same time every day, always us the same process to gear up for work, have lunch in roughly the same time window every day, stop working and get to bed at similar times every day. Even use a similar sequence of events to fall asleep.
 
 It might not be the most exciting life in the world and the strange feeling of "Holy crap, when did I become so organised? Is this even me?" might never completely go away, but you always know how much work time you have in a day and exactly how much you can get done.
 
@@ -186,7 +186,7 @@ Then you take a 5 minute break.
 
 During the break you can do whatever you want. Prowl around the internet, talk to the people around you, answer emails. Whatever you want.
 
-After going through four pomodoros it's been two hours and you've done an hour and forty minutes of focused productivity. That's a lot more than it sounds. People can go weeks in an office environment without ever doing a solid hour and forty minutes of distractionless work.
+After going through four pomodoros it's been two hours and you've done an hour and forty minutes of focused productivity. That's a lot more than it sounds. People can go weeks in an office environment without ever doing a solid hour and forty minutes of distraction-less work.
 
 Now it's time for a longer break. I usually do a 30 minute break that is extended to 45 minutes if it's time to eat something, or shortened to 15 minutes if I'm full of energy and staying away from work feels like a struggle.
 
@@ -198,7 +198,7 @@ When I do start ignoring my pomodoro timer it's often a sign that I am already c
 
 But while discipline matters, it's also important not to go overboard with following the rules.
 
-When I started out using pomodoro I was strict to the point of nonsense. When the timer rang that the break is over I stopped reading the article and only continued after 25 minutes. I stopped writing tweets midword and so on.
+When I started out using pomodoro I was strict to the point of nonsense. When the timer rang that the break is over I stopped reading the article and only continued after 25 minutes. I stopped writing tweets mid-word and so on.
 
 In the beginning that's important, but it leaves a lot of unresolved tiny tasks behind that drag at your mind when you're working and keep pulling you out of the zone. You have to keep in mind where to get back to reading the article, you have to know what you wanted to say in that tweet and so on.
 
@@ -339,7 +339,7 @@ I don't know what my grandparents do for this, but I like to make a smoothie. It
 
 Smoothies are also a tasty way of ensuring you get your vitamins.
 
-But you can easily switch this afternoon snack with a proper dinner - the third large meal of the day. Dinner should contain all three macronutrients and provides a solid base for the rest of the evening. You can think of it as the breakfast of the night.
+But you can easily switch this afternoon snack with a proper dinner - the third large meal of the day. Dinner should contain all three macro-nutrients and provides a solid base for the rest of the evening. You can think of it as the breakfast of the night.
 
 A lot of people advise that you shouldn't eat after 6pm and I think that's bullshit. Sure, don't eat more than two or three hours before sleep, that does help, but if your bedtime is 2am the 6pm thing is not relevant.
 
