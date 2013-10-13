@@ -1,24 +1,34 @@
 # Tips for programmers
 
-You can't work all the time.
+You can't work all the time. I used to think that you could and nearly flunked out of high school as a result.
 
-When I was 21 a pet project I had spent many months on grew into a startup. I was CEO, CTO, lead programmer and full-time student. Two other blokes joined me for free. A great success because I had no money to pay them.
+*"I have found a cure for sleep! Green tea with crap loads of sugar!"* I proudly exclaimed on a forum board shortly after my first dose of caffeine.
 
-It was amazing. It was fulfilling. It was batshit insane.
+I was 15 or 16 and I had just declared war on sleep. There just wasn't enough time in the day for everything I cared about *and* all that stupid school stuff. Of course I thought school was stupid, I was a teenager and I knew best.
 
-I spent every waking moment thinking about the startup. Either I was architecting a clever piece of code, thinking about the business model, or talking people up about how awesome we were.
+I spent my afternoons and nights programming in PHP - the most popular web programming language at the time. I squeezed in 10 minutes wherever I could and quickly rose to relative prominence in the phpBB community - a popular forum software of the time - as a plugin developer. Mine was the most popular plugin for topic descriptions with over 10,000 downloads.
 
-At one point it got so bad that I was listening to entrepreneurship podcasts on my commute, when I was eating, even when I went out for a run. Just so I could pack more productive hours into the day. The standard back then was 14 to 15.
+Pretty good for a 17 year old huh?
 
-After a year and a half of this pace, I crashed. Bad.
+On top of all that coding I was writing and drawing webcomics, getting my feet wet in making money as a web developer and starting novels that I never finished. I was on fire!
 
-On several nights I just sat in the car, picked a direction, and drove. Being alone in the night, with only the sound of a weak 1.4 liter engine, bad radio music, and light polluted skies for company.
+A native English teacher once started a group discussion with *"What do you think is the perfect amount of sleep?"*.
 
-It was perfect.
+We used these discussions to practice speaking in English. Talking to a native was a special treat because he could only join us once in a while.
 
-But not enough to undo the damage many months of being an idiot did. The product failed. The team burned out and left.
+*"FOUR HOURS! Four hours is perfect."* I proclaimed feeling smug.
 
-These days I work less, achieve more, and rarely get tired.
+Everyone thought I was posturing. The teacher shrugged it off as me trying to be the class clown.
+
+But I did go through most of my high school years sleeping about four hours a night. It was a dumb move and all that energy had to come from somewhere - school.
+
+Every morning I was at least five minutes late. Every day I slogged through school like a zombie and barely registered what was going on around me. I had enough energy to avoid falling asleep, but my long-term memory was shot and I don't even want to try remembering what my comprehension levels were.
+
+My grades hovered around D's, or 2's. Famously I once didn't get a single positive grade in Chemistry all year.
+
+And then, in the evening, as if by magic I woke up and worked non-stop until 3 or 4am. Nothing could stop me. My biological rhythm was completely out of whack with what society expected.
+
+My natural rhythm still isn't what many would consider normal, but I've found many ways of making it work and staying alert at all times.
 
 ## Energy levels
 
