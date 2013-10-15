@@ -30,23 +30,23 @@ And then, in the evening, as if by magic I woke up and worked non-stop until 3 o
 
 My natural rhythm still isn't what many would consider normal, but I've found many ways of making it work and staying alert at all times.
 
-## Energy levels
+## Mental energy
 
-We all understand what are energy levels, intuitively.
+Intuitively we all know what it means when somebody says *"I'm full of energy today."*
 
-Energy levels are that thing you have more of when you're rested and less of when you're tired. Somebody who's full of energy is buzzing around and can barely contain themselves, while somebody who's low on energy just sits there staring straight ahead with an empty expression.
+Energy is that thing you have more of when you're rested and less of when you're tired. When you're full of energy you're buzzing around and can barely contain yourself, while somebody who's low on energy just sits there staring straight ahead with an empty expression.
 
-Everybody also knows their energy tends to fluctuate through the day depending on their natural cycle, how long they've been awake, what they eat and so on. 
+Everybody also knows their energy fluctuates through the day depending on their natural cycle, how long they've been awake, what they eat and so on.
 
-For instance, many people say they feel a spike of energy when it's not quite morning anymore, but not quite lunch time yet. Then they feel slow after lunch and have another peak in the afternoon before winding down for dinner and then some people have another spike later in the evening while others fall right asleep and never pick up until next morning's work.
+For instance, many say they feel a spike of energy when it's not quite morning anymore, but not quite lunch time yet. Then they feel slow after lunch and have another peak in the afternoon before winding down for dinner and then some people have another spike later in the evening while others fall right asleep and never pick up until next morning's work.
 
-But what are we talking about anyway? What _are_ energy levels?
+But what are we talking about anyway? What _is_ energy?
 
-It's not exactly physical energy that's measure in joules and relates directly to physical work. It's something more subtle than that. It's got almost as much, if not more, to do with how we _feel_ rather than how much we can lift, or move, or how far and fast we can run.
+It's not exactly physical energy - that's measured in joules and relates to physical work. It's something more subtle than that. It's got almost as much, if not more, to do with how we _feel_ rather than how much we can lift, or move, or how far and fast we can run.
 
-Feeling low on energy doesn't mean our physical energy is any lower. Sure, it's related, but you can be mentally tired and physically still strong as ever. Or physically tired and your mind is racing.
+Feeling low on energy doesn't mean our physical energy is any lower. Sure, it's related, but you can be mentally tired and physically strong as ever. Or physically tired and your mind is racing.
 
-What we mean when we say we're feeling full of energy, is that our mental energy is high and we feel motivated and capable of doing work. Even excited.
+What being full of energy means, is that our mental energy is high and we feel motivated and capable of doing work. Even excited.
 
 Since the early 2000's scientists have been researching the concept of mental energy using a combination of cognitive performance measurements, self-evaluation questionnaires and tests of physical ability.
 
@@ -60,99 +60,97 @@ As such, there are two parts to the mental energy equation.
 
 On one hand it's a mood - how much energy you _feel_ like you have. This affects your performance through motivation.
 
-On the other hand is a slightly more interesting actual mental energy, which measurably affects your cognitive performance in short term memory and decision tasks. It's more interesting because it's more measurable and its effect is more pronounced.
+On the other hand is the more interesting actual mental energy, which measurably affects your cognitive performance in short term memory and decision tasks. It's more interesting because it's more measurable and its effect is more pronounced.
 
-More importantly, it's worth pointing out that you can have high mental energy, without actually feeling like you are high in energy.
+More importantly, you can have high mental energy, without actually feeling like you are high in energy. This will 
 
 [have to dig up studies again and add more specific quotes]
 
-In short, your mental energy is a measure of how energetic you feel and how well you perform on mental tasks. It doesn't seem to affect anything else, neither does it affect most cognitive performance measures. 
+In short, your mental energy is a measure of how energetic you feel and how well you perform on certain mental tasks, but doesn't affect your physical performance or even most cognitive tasks.
 
 Maintaining mental energy levels that are useful for quality programming is therefore mandatory.
+
+[this justification is muddy at best, have to better present what tasks are affected and why they're important to programming]
 
 The rest of **Tips for programmers** is about lifestyle choices that affect mental energy.
 
 ## Long hours
 
-When I worked in a US startup for a month the  agreement was we focus on working normal hours. It was a new team so they listened to my advice that reasonable hours lead to more productivity than working all the time.
+In July 2013 I visited the US to help bootstrap new startup team bootstrap. The main advice I had to give was focusing on working normal hours because that leads to better productivity.
 
-This might sound obvious if you're from Europe or if you're not used to working in startups. Most startups seems to adopt a US type of work culture anyway. Something about always being strapped for time and money and infinite competitors breathing down your neck and seemingly executing faster and better makes young people want to work insane hours to make up for whatever they feel they're missing.
+This is obvious to everyone from Europe or who isn't used to working with startups. They adopt a US type of work culture even in Europe. Always being strapped for time and cash and having infinite competitors breathing down your neck makes young people want to work insane hours to make up for whatever they think is missing.
 
-but in this startup we were executing just fine working 11am to about 7pm. It was eight hours in total, but including lunch and the morning wound up before everyone starts being actually productive we were probably averaging about six hours of hard productivity per day.
+But in this startup we executed just fine working 11am to about 7pm. Eight to nine hours of office time, but including lunch and the morning wind up we were averaging about six hours of hard productivity per day.
 
-A lot more than the four hours the usual office worker gets in an eight hour work day.
+A lot more than the maybe four hours of work [moments](http://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work.html), as Jason Fried calls them, your average worker stacks up in an eight hour day.
 
-We were on a tight deadline of having a working minimum viable product ready to show investors within the month I was going to work with the team. When I say ready to show investors, I mean ready to let investors play with the product on their own. That means it's got to be production ready.
+We wanted to have a working minimum viable product ready in a month. And by ready I mean we wanted to let people loose without having to ask them not to click on things or apologizing about every other thing they try not working.
 
-Going from zero lines of code to a production ready product in a month is a tall order so naturally you want to start as soon as you wake up and work until you fall asleep on your keyboard.
+Zero lines of code to a finished product in a month is a tall order. Naturally, you want to start as soon as you wake up and work until you fall asleep on your keyboard.
 
 This is the wrong impulse.
 
-There are no long distance sprinters. A month is a _a lot_ of time. At five days a week and six hours of hard productivity per day, a month gives you 120 hours, which is a lot more than it sounds.
+There are no long distance sprinters. A month is _a lot_ more time than you think. At five days a week and six hours of uninterrupted productivity per day, a month gives you 120 hours.
 
-A good engineer can do _a lot_ with 120 hours of focused productivity. Five of them can create a whole MVP!
+A good engineer can do _a lot_ with 120 hours of focused productivity. At competitions products are frequently launched in no more than two days. After a month we did end up with a presentable MVP.
 
-After a month we did end up with a very presentable MVP that only needed a few minor touch ups, but towards the end we panicked. That last week was the perfect example of why programmers should never work long hours.
+It was great, but towards the end we panicked. That last week was the perfect example of why programmers shouldn't work long hours.
 
-Friday was the day of the big investor meeting. What was supposed to be just a friendly ?Hey what are you up to? over lunch, turned into a proper meeting at the investor's office.
+Friday was the day of the big investor meeting. What was supposed to be just a friendly *"Hey what are you up to?"* over lunch, turned into a proper meeting at the investor's office.
 
 On Monday we panicked.
 
-The product was well on its way, but you know how software projects are. Until it's done, it looks like it's never going to be done and those last few polishing touches take the longest.
+The product was well on its way, but you know how software projects are. Until it's done, it looks like it will never be done. Worse still, the last polishing touches take the longest.
 
-There was no way we were going to let the founder go into that meeting with a product he doesn't feel comfortable letting the VC play with on their own. We decided to do what ever it takes.
+There was no way we were going to let the founder go into that meeting with a product he doesn't feel comfortable letting the VC play with on their own. Time to do whatever it takes.
 
-That Monday we took a very short lunch and worked until nine o'clock. To reward ourselves for getting a whole lot done, the engineering team went out for dinner together, tentatively planning to work more afterwards.
+That Monday we took a very short lunch and worked until nine o'clock. To reward ourselves for getting lot done the engineering team went out for dinner, tentatively planning to work more afterwards.
 
-We just needed to get away from our computers for a bit you see, we weren't tired at all. Oh no, who gets tired after a long-ish day of coding? Pfft, not us!
+We just had to get away from the computers for a bit, you see. Oh no we weren't tired at all. Who gets tired after a longish day of coding? Pfft, definitely not us!
 
 Dinner lasted until eleven o'clock and we didn't do any more work that day.
 
-Next day people came in to work before 11am. By eleven, everyone had finished eating breakfast and was coding furiously. There was a deadline to catch and neither hell nor high water would make us miss it.
+Next day people came in to work before 11am. By eleven, everyone had finished eating breakfast and was coding furiously. There was a deadline to catch and nor hell nor high water would make us miss.
 
-Lunch was a quick twenty minute break and we continued working furiously until six or seven in the evening the dynamic in the room started changing. There was more and more office chatter. First a conversation between two people wandering off into play land here and there, then more and more people migrating to the kitchen to stand around and chat.
+Lunch was a quick twenty minute break and we continued working furiously. After six or seven in the evening the dynamic started changing. There was more and more office chatter. First a conversation between two people wandering off into play land here and there, then more and more people migrating to the kitchen to stand around and chat.
 
 By eight o'clock nobody was working.
 
-They thought they were still working. After all, they were still at the office, they were talking about work, just nothing was getting done.
+They thought they were working. After all, they were at the office, they were talking about work, but nothing was getting done.
 
-After a take-out dinner everyone got back to work around 10pm. At midnight, after some thirteen hours at the office, my brain reached a point where naming a new variable was a struggle, I stopped working.
+After a take-out dinner everyone got back to work around 10pm. At midnight, after some thirteen hours at the office, my brain reached a point where naming a new variable was a struggle, so I stopped.
 
-Everyone else continued until 2am. I don't know how much they got done in those two extra hours, but the vibe was anything but the vibe of a bustling place where everyone is working at peak performance. It felt more like a town in the middle of a siesta.
+Everyone else continued until 2am. I don't know how much they got done in those two extra hours, but the vibe was nothing at all like the vibe of a bustling place with everyone working at peak performance. It felt more like a town in the middle of a siesta full of tumbleweeds and old geezers lazily observing you from street-facing chairs.
 
-Wednesday at 11am, the office was empty. Half the people staying at the house were barely waking up, the rest of us were eating breakfast. There was no sign yet of the commuters.
+Wednesday at 11am, the office was empty. Half the people staying at the startup house were barely waking up, the rest of us were eating breakfast. The commuters were nowhere to be seen.
 
-Lunch was ordered in once more to save on time. Everyone even managed to get their order in within five minutes this time. We were on fire!
+Lunch was ordered in once more to save time. Everyone took care to pick a food within five minutes so there wouldn't be any delays. We were on fire!
 
-But everyone also jumped off their computers much quicker than usual when delivery rang the bell. We sat outside in the shade; ate and talked. Everybody was taking their sweet time with the food. There was no rush, despite the looming deadline somehow nobody felt like getting up and going back to work.
+Normally people would have to be dragged away from their work at lunchtime, but that Wednesday they jumped from their computers the moment delivery rang the bell. Then we sat outside in the shade, talked and ate. Despite the looming deadline nobody quite felt like getting up and going back to work.
 
-Everybody was done eating in ten minutes. Lunch took an hour.
+We finished eating in ten minutes, but lunch took an hour.
 
-We just sat there and we talked. Some of it was about the work, some about the team, all of it completely unproductive. There was a lot of patting on the back over how productive we've been this week and how long hours we've worked. People need that. They say it as much to reassure themselves as to give kudos to the others.
+We just sat there and talked. Some of it was about the work, some about the team, all of it unproductive. There was a lot of patting on the back over how productive we've been this week and how long hours we've worked. People need that. They say it as much to reassure themselves as to give kudos to the others.
 
-That afternoon didn't feel as rushed and full of energy as Monday or Tuesday did. People were getting up to get something from the fridge much more often. When somebody went to the kitchen to prepare a small snack a lot more eyes followed than usual, a lot more people paid attention and decided that hell, they need a snack at this particular time as well.
+That afternoon didn't feel as rushed and full of energy as Monday or Tuesday did. People got up to get something from the fridge more often. When somebody went to the kitchen many more eyes followed and a lot more people decided they needed a snack than they usually would.
 
-I went for a run before dinner because it's a much better break than just eating an preparing dinner. Gets you out of the house for half an hour, gives you some time to think through coding problems and best of all, gives you alone time away from everybody else. They're good guys and all, but I need some alone time every day to recharge.
+By the time I returned from my evening run nobody was working anymore. They were hanging out in the kitchen making dinner. We decided to eat in to save time.
 
-Better still, nobody questions a run. It's socially unacceptable to just take an hour long break when everyone else is still working. But nobody questions the habit of going for an evening run.
+Dinner took until 10pm - two to three hours. Despite our best efforts to save time.
 
-By the time I was back, nobody was working anymore. They were all hanging out in the kitchen making dinner. We decided to eat in to save time.
-
-Dinner took until 10pm - two to three hours. Despite our efforts to save time.
-
-Last person to type something into the text editor gave up at 3am. Everyone else had started shifting from work mode to play mode around midnight. Think I gave up at a quarter to one as soon as I reached some milestone I had set myself - spending the last two hours on a tiny little thing that could easily have been done in twenty minutes with a fresh mind the next morning.
+Last person to type something into the text editor gave up at 3am. Everyone else had started shifting from work mode to play mode around midnight. Think I gave up at a quarter to 1m when I reached some milestone I'd set for myself. The last two hours were spent on a tiny little thing I could have done in twenty minutes the next morning.
 
 But such is life with deadlines. Doing something in two hours that you could do tomorrow in 20 minutes.
 
 On Thursday we started even later. I doubt anyone at the office typed anything into a text editor before 12:30. The vibe in the office was that of a train station without shade when it's 38C out.
 
-Sluggish mechanical movements. No brain. Can only use muscle memory.
+Sluggish mechanical movements. No brain. Only muscle memory.
 
-Better had we all stayed home instead of come to the office to pretend like we're being useful. But there was a deadline to catch don't you know! The product was coming together, but there were still bugs to iron out.
+Better had we all stayed home instead of come to the office and pretended we're being useful. But there was a deadline to catch don't you know? The product was coming together, but there were bugs to iron out.
 
 There will always be bugs to iron out.
 
-That afternoon the founder announced the meeting had been postponed due to some scheduling conflict or another. A weight fell from the room and within an instant there was no more typing. No more deadly silence. Everyone stood up. Stretched. And started chatting.
+That afternoon the founder announced the meeting had been postponed for one scheduling conflict or another. A weight fell from the room and within an instant there was no more typing. No more deadly silence. Everyone stood up. Stretched. And started chatting.
 
 At 7pm we stopped working. If anyone was even working at more than 20% ...
 
