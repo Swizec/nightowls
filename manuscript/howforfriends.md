@@ -24,6 +24,101 @@ If there is but one thing you take away from this book, it should be that progra
 
 ## Living with programmers
 
+*"Sometimes I wake up in the middle of the night and there he is, still working. Still typing away at his codes even though he said he'd just be ten more minutes."*
+
+*"Oh yeah that was just so you'd fall asleep easier."*
+
+I was sitting on a plane with a friend and his girlfriend. Another five friends sat further up the low-budget airplane. Flying to a ten day surfing trip in Portugal we had eight laptops, eight smartphones, three or four tablets, and one kindle with us. Surf's up dude!
+
+The time I didn't spend engrossed in Hemingway's adventures in Africa during the flight, I spent talking to my friend's girlfriend about what living with a programmer for the past four years has been. We'll call her Stacy because that isn't her name. She had plenty to say about arranging the small one-bedroom flat to give both enough space to work, how he always eats all the cookies, and who the only person who's allowed to get intimate with his computer is the kitten they found and kept two months ago. 
+
+Reddit would say the cat was saved. Then she showed me a cute picture of a fluffy white thing using the guy's computer as a pillow while he looked intently at the screen and ignored the cat's presence.
+
+But the comment that really stuck out to me was about going to bed in the evening.
+
+Their bedroom doubles as his working space, their kitchen doubles as her working space. It might sound like the beginning of a sexist joke, but the arrangement works for them. I think it's because he needs an external monitor and there are more power outlets under the bedroom desk. Or maybe it's easier to resist eating all the cookies when you're not in the kitchen.
+
+Either way, what often ends up happening is that Stacy wants to go to bed before her boyfriend is done working. Seeming as this is a happy relationship between two people in the midst of starting their careers - he just finished college and started a business, she just enrolled in a master's degree - it makes sense they'd go to bed together. It's what people who are in love do, right?
+
+But that's not how it works when a programmer wants to finish something. It's "just ten more minutes" all the way down. As Stacy mentioned on the plane, she will often wake up in the middle of the night and see he's still coding away even though he said he'd be right in hours ago.
+
+Sometimes he really thinks it's going to be just ten more minutes. These are the times when you feel the solution in your grasp and the more your each for it, the more it slips away. Find the problem, fix it, find out that wasn't the problem. And so on until it's suddenly light outside or you're so tired you can barely see what you're typing.
+
+Other times it's far simpler. You want to work a few more hours in peace and quiet, but the other person keeps nagging you about wanting to go to bed and whether you will join them. So it's easier to say you're going to come to bed in ten minutes or half an hour and just wait for the other person to fall asleep.
+
+I noticed a similar pattern when I was staying with my girlfriend for a week or two during renovations to my flat. Yes just for a week or two.
+
+She's studying architecture, so just like me she needs a lot of space and alone time to get any real work done. Because we both work from home and only had the one room available this posed a great problem that wasn't made any easier when we discovered our work schedules are completely out of whack.
+
+One thing we quickly discovered was that it's nearly impossible to work behind the same desk. While I could get a lot done simply because I'm more used to coworking, she found my presence very unnerving. Eventually we realized it's best if I am banned to the bean bag during weekends and off days because I don't need the extra monitor to read and write.
+
+We never seem to have gone to bed together.
+
+When it was her day to work, she would drag it out forever until I eventually gave up asking her to watch a movie with me and fell asleep. When I was working, she would always fall asleep several hours before I joined her in bed.
+
+To focus and do real work, you need that quiet time when nobody is going to bother you. Preferably because they're busy, or even better if they're asleep.
+
+I imagine the situation is much improved if you can have a home office and everyone knows when you're there it's Working Time™, but when your office doubles as everyone's bedroom concessions have to be made. One of which is making sure everyone else goes to bed earlier than you do.
+
+That will buy the programmers at least a few hours of alone time.
+
+But what about the people whose sleep is disturbed by somebody clacking away at the keyboard while they're trying to fall asleep?
+
+Luckily, few people have trouble staying asleep once they've fallen asleep. Sleepy cycles are usually very long in the beginning of the night and once a person falls asleep they will not wake up for an hour or two no matter what you do to them. Even if they do wake up, they are not likely o remember the incident in the morning.
+
+Another thing hat helps is turning off the lights because programmers don't really need light to work. Most can touch type and there's always enough light from the monitor to avoid spilling your drink. Good headphones make sure you can listen to music without bothering anyone else and are comfortable to boot.
+
+### Surfing with 6 other programmers
+
+When I traveled to Portugal with seven of my friends for ten days of sandy beaches, relaxed living, and surfing school, everyone brought along their laptop. Everyone also had a smartphone and maybe a tablet or a GoPro.
+
+Most of us brought work along as well. One guy didn't want to break his freelancing, another asked his boss to work remotely, two people focused on their schoolwork - one of them even defending his thesis via Skype - and one bloke kept pushing on his startup. I wanted to get a bunch of writing done. Only the academic and his boyfriend decided they'd actually relax all week.
+
+One of them started reading a book because he never reads, the other tried to set the highest of high scores on Robot Unicorn Attack 2.
+
+That's our idea of taking a week off to learn how to surf and have fun. Everyone with their own goals of stuffing as much as possible into the day when they aren't out there killing their chest and shoulders and pushing stamina to the max.
+
+Maybe that's just how surfing works though. It's the sort of sport where you wake up in the morning and maybe you're going surfing. Or maybe you're waiting another three hours to go surfing. Or maybe you had to wake up insanely early to hit the waves at six in the morning.
+
+But whatever you do, you will not be surfing anymore after four or five in the afternoon at the latest. I'm not sure why that is, but I've never heard of an evening surfing session. Maybe something to do with tides?
+
+Either way, surfing leaves you with a lot of free time on your hands when you're either too tired to surf, or conditions aren't right.
+
+This plays right into how difficult it is for programmers to leave work behind when they go on vacation. Anywhere really.
+
+After all, everything a programmer needs to work is a laptop, some time, and a decent internet connection. With forethought and good knowledge of their tools even the internet connection can be optional. Add to that the kind of work people get so engrossed in they forget to sleep, and you get an explosive situation.
+
+When we told our surf instructor how many laptops he was driving when he picked us up from the airport in Lisbon, he just shook his head in disbelief. You could see the *"Guys, you're here to surf and enjoy the outside. What do you need a laptop for?"* in his eyes.
+
+The surf instructor is our complete opposite. Living the dream here in Portugal, surfing when he can, taking care of a surfer's hostel and teaching people from all over the world how to surf. Sounds like something people spend all their lives working towards, doesn't it?
+
+Not us.
+
+We just had to bring our own little slice of technology heaven with us. There's no telling what would happen to any of us if we didn't touch a keyboard for a few days. We'd probably shrivel up and die.
+
+Internet suddenly became the biggest problem known to man at the surf house. With an average of two devices per person, the measly 3G router limited to five devices just couldn't cope. The situation improved somewhat when one of the guys found a piece of software that lets him share his wi-fi connection.
+
+You cannot imagine the existential crisis people go through every time a website takes five minutes to load, or they can't open their email, or download a file. Whenever the shared connection drops - every 90 minutes because we were too cheap to buy the full version - the house turns into a shrieking mass of people telling the poor guy to turn his hotspot back on.
+
+Okay it's not that bad, but you do see a lot of nervous tapping and distraught looks when somebody doesn't have internet for a few minutes.
+
+If you were to walk into the living room when everybody's there, you'd be hard pressed to figure out we're spending time together.
+
+Dead silence. Cables strewn across the floor so there's barely anywhere to set your foot. People hanging off the sofas like it was a bus in India. Everyone holding on to their laptop for dear life, raising eyes off the screen only at the mention of food.
+
+All other enquiries are met with a distracted ah-uh and a nod.
+
+That one Dane always looks lost and abandoned. I think he came to the surf house to hang out and have more fun than if he had stayed at a hotel, instead he found the eight of us.
+
+But despite the silence and lack of anything substantial going on, everyone still complains they can't get any work done. That it's impossible to focus in the common area with all the commotion and nearness of other people.
+
+[I have a feeling I lost my point and started rambling a bit, if there ever was a point. We shall address this tomorrow]
+
+### Other things to mention
+
+[this was the previous version of this section and should be incorporated somehow]
+
+
 [currently conducting interviews about living with programmers, section incomplete]
 
 I have a little confession to make - I don't know the first thing about living with programmers. Other than once having spent two months in a four bedroom house filled with six programmers my only experience has been that of other people having to live with me.
