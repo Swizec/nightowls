@@ -70,25 +70,27 @@ Another thing hat helps is turning off the lights because programmers don't real
 
 ### Surfing with 6 other programmers
 
-When I traveled to Portugal with seven of my friends for ten days of sandy beaches, relaxed living, and surfing school, everyone brought along their laptop. Everyone also had a smartphone and maybe a tablet or a GoPro.
+When seven of my friends and I traveled to Portugal for ten days of sandy beaches, relaxed living, and surfing school, everyone brought their laptop. Everyone also had a smartphone and maybe a tablet or a GoPro.
 
-Most of us brought work along as well. One guy didn't want to break his freelancing, another asked his boss to work remotely, two people focused on their schoolwork - one of them even defending his thesis via Skype - and one bloke kept pushing on his startup. I wanted to get a bunch of writing done. Only the academic and his boyfriend decided they'd actually relax all week.
+Most of us brought work along as well. 
 
-One of them started reading a book because he never reads, the other tried to set the highest of high scores on Robot Unicorn Attack 2.
+One guy didn't want to break his freelancing, another asked his boss to work remotely, two people focused on their schoolwork - one of them even defended homework via Skype - and one bloke kept pushing on his startup. I wanted to get a bunch of writing done. Only the academic and his boyfriend decided they'd actually relax all week.
+
+One of them started reading a book because he never reads, the other tried setting the highest of high scores on Robot Unicorn Attack 2.
 
 That's our idea of taking a week off to learn how to surf and have fun. Everyone with their own goals of stuffing as much as possible into the day when they aren't out there killing their chest and shoulders and pushing stamina to the max.
 
-Maybe that's just how surfing works though. It's the sort of sport where you wake up in the morning and maybe you're going surfing. Or maybe you're waiting another three hours to go surfing. Or maybe you had to wake up insanely early to hit the waves at six in the morning.
+Maybe that's just how surfing works though. It's the sort of sport where you wake up in the morning and maybe you're going surfing. Or maybe you're waiting another three hours to go surfing. Or maybe you had to wake up really early to hit the waves at six in the morning.
 
-But whatever you do, you will not be surfing anymore after four or five in the afternoon at the latest. I'm not sure why that is, but I've never heard of an evening surfing session. Maybe something to do with tides?
+But whatever you do, you won't be surfing after four or five in the afternoon at the latest. I'm not sure why that is, but I've never heard of an evening surfing session. Maybe something to do with tides?
 
-Either way, surfing leaves you with a lot of free time on your hands when you're either too tired to surf, or conditions aren't right.
+Either way, surfing leaves you with a lot of free time when you're either too tired to surf, or conditions aren't right.
 
 This plays right into how difficult it is for programmers to leave work behind when they go on vacation. Anywhere really.
 
-After all, everything a programmer needs to work is a laptop, some time, and a decent internet connection. With forethought and good knowledge of their tools even the internet connection can be optional. Add to that the kind of work people get so engrossed in they forget to sleep, and you get an explosive situation.
+After all, everything a programmer needs to work is a laptop, some time, and a decent internet connection. With forethought and good knowledge of their tools even the internet connection can be optional. Add to that the kind of work people get so engrossed with they forget to sleep, and you get a situation ripe for workaholism.
 
-When we told our surf instructor how many laptops he was driving when he picked us up from the airport in Lisbon, he just shook his head in disbelief. You could see the *"Guys, you're here to surf and enjoy the outside. What do you need a laptop for?"* in his eyes.
+When our surf instructor picked us up from the airport and we told him how many laptops were in the van, he just shook his head in disbelief. You could see the *"Guys, you're here to surf and enjoy the outside. What do you need a laptop for?"* in his eyes.
 
 The surf instructor is our complete opposite. Living the dream here in Portugal, surfing when he can, taking care of a surfer's hostel and teaching people from all over the world how to surf. Sounds like something people spend all their lives working towards, doesn't it?
 
@@ -96,44 +98,53 @@ Not us.
 
 We just had to bring our own little slice of technology heaven with us. There's no telling what would happen to any of us if we didn't touch a keyboard for a few days. We'd probably shrivel up and die.
 
-Internet suddenly became the biggest problem known to man at the surf house. With an average of two devices per person, the measly 3G router limited to five devices just couldn't cope. The situation improved somewhat when one of the guys found a piece of software that lets him share his wi-fi connection.
+At the surf house, internet suddenly became the biggest problem known to man. With an average of two devices per person, the measly 3G router limited to five devices just couldn't cope. The situation improved somewhat when one of the guys found a piece of software that lets him share his wi-fi connection.
 
-You cannot imagine the existential crisis people go through every time a website takes five minutes to load, or they can't open their email, or download a file. Whenever the shared connection drops - every 90 minutes because we were too cheap to buy the full version - the house turns into a shrieking mass of people telling the poor guy to turn his hotspot back on.
+You cannot imagine the existential crisis people go through every time a website takes five minutes to load. The shared hotspot dropped every 90 minutes - we were too cheap to buy the full version of the software. Every time it happened, the house turned into a shrieking mess telling the guy to turn the internet back on.
 
-Okay it's not that bad, but you do see a lot of nervous tapping and distraught looks when somebody doesn't have internet for a few minutes.
+Maybe not that bad, but there was definitely a lot of nervous foot tapping and angry glances.
 
-If you were to walk into the living room when everybody's there, you'd be hard pressed to figure out we're spending time together.
+If you were to walk into the living room when everybody's there, you'd be hard pressed to figure out we were spending quality time together as friends.
 
-Dead silence. Cables strewn across the floor so there's barely anywhere to set your foot. People hanging off the sofas like it was a bus in India. Everyone holding on to their laptop for dear life, raising eyes off the screen only at the mention of food.
+Dead silence. Cables strewn across the floor. People hanging off the sofas like it was a bus in India. Everyone holding on to their laptop for dear life, raising eyes off the screen only at the mention of food.
 
 All other enquiries are met with a distracted ah-uh and a nod.
 
-That one Dane always looks lost and abandoned. I think he came to the surf house to hang out and have more fun than if he had stayed at a hotel, instead he found the eight of us.
+Despite the silence and lack of anything substantial going on, everyone complains they can't get any work done. That it's impossible to focus with all the commotion in the common area. Some of us have even skipped a surf session or two so we could get some focused work done.
 
-But despite the silence and lack of anything substantial going on, everyone still complains they can't get any work done. That it's impossible to focus in the common area with all the commotion and nearness of other people.
+Seems even programmers can't live together unless they have a lot of space to roam. I'm sure with time we could learn to live together in a tight space, but with eight people there will never be a time when everyone is trying to work at the same time.
 
-[I have a feeling I lost my point and started rambling a bit, if there ever was a point. We shall address this tomorrow]
+Even if there was, I doubt we could feel productive with everyone invading each other's personal space. You can't work with someone looking over your shoulder, there's just too much pressure.
 
-### Other things to mention
+### Family
 
-[this was the previous version of this section and should be incorporated somehow]
+But how can a family incorporate someone so passionate about their craft they bring it along for vacation? Who needs so much space and distraction-free time to work?
 
+Other than a few months here and there, I haven't lived with a programmer for extended periods of time yet. But having been programming since I was 9, I've got a lifetime of complaints behind me.
 
-[currently conducting interviews about living with programmers, section incomplete]
+When I was a kid it was all about spending too much time behind the computer and not enough time doing other things. Now that I'm older it's all about spending too much time behind the computer and not enough time doing other things.
 
-I have a little confession to make - I don't know the first thing about living with programmers. Other than once having spent two months in a four bedroom house filled with six programmers my only experience has been that of other people having to live with me.
+Nothing's really changed. Everyone I talked to when researching this book had basically that same complaint - programmers spend too much time at their computers and not enough time paying attention to things others think are important.
 
-And in their words, it isn't easy.
+One woman I talked to said that living with a programmer takes a lot of sacrifice. Since he works from home, he's usually falling into the pattern of starting his days very late in the day. By the time she comes home, he's just gotten a good warmup and is deep in code.
 
-One woman reports living with a programmer takes a lot of sacrifice. Since he works from home and is so difficult to drag away from the computer they mostly talk via IRC because it means they don't have to get up from their respective computers and actually talk face to face. They don't eat together either, much easier to quickly grab a bite at the computer than make the extra effort of being away from your work.
+She'd like to spend time with him, but he gets annoyed when she drags him out of flow kicking and screaming. It doesn't work.
 
-For both of them actually.
+Then she gets to work on her other stuff and by the time he's ready to spend time with her, she's the one deep in flow. That doesn't work either.
 
-Yet another man, a programmer himself, says living with his programming wife is like winning a lottery. She understands when he has to work late, can even use it to work late at her own work when he manages to call in ahead of time, and when they're both home they help each other with logical problems. Talking about work at home and having the other person _really_ understand what you're talking about, is a godsend, he says.
+The result is they started talking to each other mostly via chat because it's easy and it's always there when you're at the computer. Because it's asynchronous you can tell the other person something non-urgent and they will read it and respond when they get a free moment.
 
-Maybe all it takes is a bit of understanding from both sides, and yet it seems like this understanding is difficult to achieve if you are not yourself a programmer or some other type of creative.
+It works, but feels impersonal. When others hear you're doing this, they will think the practice is dysfunctional and might become worried about the state of your relationship. It's difficult to say whether they're right or wrong.
 
-[…]
+I would suggest spending as much face-to-face time as possible. The world is littered with stories of relationships falling apart because one person was too deep in their craft. Watch any movie about a famous rock star or writer or successful whatever, I promise at least one relationship will fall apart along the way.
+
+The solution is mutual understanding and making an effort. Don't bother your programmer when they're working, and they will reward you with the same devoted level of attention as soon as that thing that's tugging at their brain goes away. And always keep in mind that when a programmer looks absent and distant-minded, they're usually not worrying about you. It's about that bug.
+
+Ask them about it. Be the ducky they can explain the problem to and it won't matter whether you understand or not, it will help them find the solution.
+
+For instance, a guy I talked to said marrying a programmer was like winning the lottery. Exactly because he doesn't have to leave work at work. They can help each other solve difficult problems and talking about cool algorithms is never out of the question.
+
+But you don't have to understand everything perfectly. Just keep an open mind and always encourage your programmer to talk about their craft. Even if you don't understand, it will mean the world to them that you care to listen.
 
 ## Working with programmers
 
