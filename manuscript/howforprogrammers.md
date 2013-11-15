@@ -162,6 +162,15 @@ Dangerous precedent for a month old company to set, but they'll learn. Long hour
 
 ## Routine
 
+Optimization parameters:
+- as many peak productivity hours as possible
+- peak productivity hours synced with energy cycles
+- don't have naggy things get in the way
+- mindfulness
+- enough time to relax
+
+-----
+
 But there are ways to work long hours without burning out in less than a week. Through experiments I've stumbled on a routine that's helped me work consistently long hours at full blast with barely a problem.
 
 After my burn out two years ago I had to figure out a way to get a lot done without getting too tired. The schedule of jumping out of bed at 9am still full of caffeine from the guarana pills I had taken before bed and then working until 4am through a haze of black tea and energy drinks with one or two long breaks just wasn't sustainable anymore.
