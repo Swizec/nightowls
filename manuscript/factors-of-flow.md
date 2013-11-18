@@ -6,50 +6,51 @@ Ayrton Senna's experience during a qualifying lap at Monaco's 1988 Grand Prix il
 
 [That lap has been described as the greatest lap of Senna's career](http://youtube.com/watch?v=K9QH8-lKEYY).
 
-Flow is a state of complete immersion in an activity, a state where the outside and inside world merge into one and the person is simply _present_. Mihaly Csikszentmihaly - the father of flow research in psychology - describes flow as
+Flow is a state of complete immersion in an activity, a state where the outside and inside world merge into one and the person is simply _present_. Mihaly Csikszentmihalyi - the father of flow research in psychology - describes flow as "completely focused motivation. A single-minded immersion that represents perhaps the ultimate in harnessing the emotions in service of performing and learning."
 
-> completely focused motivation. A single-minded immersion that represents perhaps the ultimate in harnessing the emotions in service of performing and learning.
+In his essay [Holding a program in one's head](http://paulgraham.com/head.html), Paul Graham explains that to be effective, programmers must be able to hold an entire program in their head while they work. It's the only way the problem and its solution can have the plasticity needed to make sweeping changes and improvements.
 
-In his essay [Holding a program in one's head](http://paulgraham.com/head.html) Paul Graham explains that to be effective, programmers must be able to hold an entire program in their head while they work. It's the only way the problem and its solution can have the plasticity needed to make sweeping changes and improvements.
+Because programmers tend to work at the limits of their tolerance for complexity, holding a program in one's head is only possible in a state of flow.
 
-Because programmers tend to work at the limits of their tolerance for complexity holding a program in one's head is only possible in a state of flow.
-
-But flow is a fragile balance between many opposing forces. The programmer must be willing and able to completely focus on the task at hand, they must have a clear goal to work towards, fresh challenges must be coming in just quickly enough and they must feel a sense of purpose, even joy, in what they're doing.
+But flow is a fragile balance between many opposing forces. The programmer must be willing and able to completely focus on the task at hand, they must have a clear goal to work towards, fresh challenges must be coming in at the right pace, and they must feel a sense of purpose, even joy, in what they're doing.
 
 ## The autotelic personality
 
-In his work Csikszentmihalyi describes a type of personality that can experience episodes of flow more easily and more often than most people.
+In his work, Csikszentmihalyi describes a type of personality that can experience episodes of flow more easily and more often than most people.
 
 Researching flow in a lab is too difficult to get proper results, but evidence keeps wagging its eyebrows suggestively, hinting at the validity of something called an "autotelic personality".
 
 If there is such a thing, I think programmers generally apply:
 
- * curious
- * persistent
- * not self-centered
- * often performs activities for intrinsic reasons
+ * Curious
 
-It [has been drawn in stick figures](http://xkcd.com/242/) that when a normal person pushes a big button saying "Don't press this" and gets electrocuted, they think to themselves "Heh, I shouldn't have done that." But when an engineer presses that same button they go "Huh, I wonder if that happens every time"
+It [has been drawn in stick figures](http://xkcd.com/242/) that when a normal person pulls a lever saying "Don't press this" and gets electrocuted, they think to themselves "Heh, I shouldn't have done that." But when an engineer pulls that same lever, they go "Huh, I wonder if that happens every time"
 
-All programmers are engineers at heart, no matter what their formal qualifications might say. 
+No matter what their qualifications say, all programmers are engineers at heart. 
 
-Relentlessly hunting down bugs is a source of great pride for most programmers and many would sooner go without sleep than allow a bug to remain in production code. More experienced developers will often go to sleep once they realise they've started making silly mistakes, but they will never forget a bug that's taunting them.
+ * Persistent
 
-Even a casual perusal of Github repositories will show that a lot of programmers indulge in so called pet projects - little programs developed for the fun of it, to sharpen the saw if you will. Interestingly enough, flow is much easier to experience on pet projects than large for-money behemoths.
+Relentlessly hunting down bugs is a source of great pride for most programmers, and many would sooner go without sleep than allow a bug to remain in production code. More experienced developers will often go to sleep when they they start making silly mistakes, but they will never forget a bug.
 
-It could be argued that programmers are very selfless people - the existence of communities like StackOverflow, large numbers of conferences where speakers share their knowledge for free, numerous blogs and free tutorials, not to mention the large opensource community that's given us something as powerful as the Linux operating system and the stack most of the internet runs on. All of those are done holistically ... well, mostly. Everybody gains from having a good standing in the community.
+ * Not self-centered
 
-As a group of people, programmers exhibit all the traits of an autotelic personality. This would suggest flow is much more prevalent amongst programmers than in other groups of people, which might also explain why we programmers are often perceived as night walkers.
+It could be argued that programmers are very selfless people - communities like StackOverflow, many conferences where speakers share knowledge for free, numerous blogs and free tutorials, not to mention the large open source community that's given us something as powerful as the Linux operating system and the techonology stack most of the internet runs on. All of those are done holistically ... well, mostly. Everybody gains from having a good standing in the community.
+
+ * Often performs activities for intrinsic reasons
+
+Even a casual perusal of Github repositories shows that a lot of programmers indulge in so-called "pet projects" - little programs developed for the fun of it, to sharpen the saw if you will. Interestingly enough, flow is much easier to experience on pet projects than large for-money behemoths.
+
+As a group, programmers exhibit all the traits of an autotelic personality. This starts to show why flow is important to how programmers think, and why they often work at night.
 
 ## Is achieving flow easier at night?
 
-Yes, flow is indeed much easier to achieve in the evening. At least for those of us who manage to think clearly and who still feel relatively rested. For many, the structure of their life makes this impossible - some then approach the night from its other end, others learn to work during the day.
+Yes. At least for those of us who manage to think clearly and who still feel relatively rested. For many, the structure of their life makes this impossible. That's why some approach the night from its other end, while others learn to work during the day.
 
-### Decision fatigue
+### Avoiding Decision Fatigue
 
 The biggest enemy to evening and night-time productivity is decision fatigue.
 
-Most people experiencing decision fatigue don't recognise it for what it is, but if you've ever felt well rested physically and still couldn't think clearly, like your brain was tired, you've experienced decision fatigue.
+Most people experiencing decision fatigue don't recognize it for what it is, but if you've ever felt well-rested physically and still couldn't think clearly, like your brain was tired, you've experienced decision fatigue.
 
 [Research](http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html) has shown that humans can only accept a limited amount of decisions every day, after that we usually go with the default action, or are so incapable of making a decision we can't perform the action at all.
 
