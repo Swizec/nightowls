@@ -52,85 +52,85 @@ The biggest enemy to evening and night-time productivity is decision fatigue.
 
 Most people experiencing decision fatigue don't recognize it for what it is, but if you've ever felt well-rested physically and still couldn't think clearly, like your brain was tired, you've experienced decision fatigue.
 
-[Research](http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html) has shown that humans can only accept a limited amount of decisions every day, after that we usually go with the default action, or are so incapable of making a decision we can't perform the action at all.
+[Research](http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html) has shown that humans can only make a certain amount of decisions every day. After that, we tend to go with the default action, or are so incapable of making a decision we can't perform the action at all.
 
 Not only that, it's been shown that even the tiniest decision factors into the quota - everything from deciding what to eat for breakfast, to which outfit to wear and what websites to read now or later. This is why the checkout aisle in your supermarket is filled with tiny things you otherwise wouldn't have bought and why people instinctively want to "sleep on it" when making big decisions.
 
-Depending on how a programmer's day is structured, working in the evening can be a godsend or a spaghetti code mess producing mistake. The important thing is to be well rested regardless of the time when you start working.
+Depending on how a programmer's day is structured, working in the evening can be a godsend or a spaghetti code mess-producing mistake. The important thing is to be well-rested regardless of the time you work at.
 
 An interesting side-effect of decision fatigue in its early stages is that you can often focus better _because_ you are a bit tired. You know there's no other choice but to power through the work, so you sit down, ignore everything else and just code.
 
-Eventually decision fatigue catches up and you find yourself thinking long and hard about what variable name to choose.
+But eventually decision fatigue catches up, and you find yourself thinking too long about simple things like what to name your files.
 
-### Clear mind
+### A Distraction-Free Mind
 
 Flow is marked by an intense, almost meditative, calm. No other thoughts can invade your brain than what pertains to the task at hand. Everything else ceases to exist.
 
 But when things are hanging over your head, so to speak, achieving flow is nearly impossible for most people. The mental clarity and emotional calm just isn't there.
 
-Whether it's an errand you still have to run, or an important email you mustn't forget to send. Perhaps there's just some worrying stuff going on and you aren't Irish enough not to worry about it. Sometimes you simply have an IRC chatroom open in a hidden window. 
+Maybe it's an errand you still have to run, or an important email you mustn't forget to send. Perhaps there's just some stressful stuff going on and you aren't zen enough to stop worrying. Sometimes you simply have an IRC chatroom open in a hidden window. 
 
 If there's something tugging at your brain, you might as well forget about flow.
 
-Perhaps the biggest thing everyone's got tugging on their brain is the anticipation of imminent distraction. You _know_ something is going to happen in an hour or two. Sometimes it's a big meeting, other times you have to be around to take a call - either way, it can be very distracting even if you do know when the distraction is going to happen.
+One of the more common brain tugs is the anticipation of imminent distraction. You _know_ something is going to happen in an hour or two. A big meeting perhaps, or you have to be around for a call - either way, it can be very distracting even if you do know when the distraction is going to happen.
 
-Everyone knows those moments where it's 2:35 and you expect something to happen at 3:00. You try to get work done, but you keep looking at the clock every two minutes. Then you might as well check a tweet or two … when 3:00 rolls around you basically haven't done anything useful for almost half an hour.
+Everyone knows those moments where it's 2:35 and you expect something to happen at 3:00. You try to get work done, but you keep looking at the clock every two minutes. Then you might as well check a tweet or two.  When 3:00 rolls around, you haven't done anything useful for half an hour.
 
-Not knowing when, or even if, a distraction is going to happen only makes it worse. You're paying half attention to your code and half attention to your environment at all times. When a colleague sitting across the room says something, you immediately listen in, process what you've heard, decide it wasn't about you and get back to work.
+Not knowing when, or even if, a distraction is going to happen only makes it worse. You're paying half attention to your code and half to your environment. When a colleague sitting across the room says something, you listen in, process what you've heard, decide it wasn't about you, and get back to work.
 
-You'd love to tune out completely, but sometimes it _is_ for you and you have to respond. Random rewards are after all the strongest behaviour creator in existence.
+You'd love to tune out completely, but sometimes it _is_ for you and you have to respond. After all, random rewards are the strongest behavior creator in existence.
 
-Something wonderful happens at night, though. There are no more distractions, at least there is no more threat of imminent distraction. Since everyone is asleep you can be fairly certain nobody is going to give you a call, nobody will ask you a random question, nothing interesting is going to happen on the internet.
+Something wonderful happens at night, though. There are no more distractions (at least,  no more threat of imminent distraction). Since everyone is asleep, you can be certain nobody is going to give you a call, nobody will ask you a random question, nothing interesting is going to happen on the internet.
 
 For at least ten hours _nothing_ will be expected of you. Nothing. That's a lot of freedom right there.
 
-### Habit
+### Forming Habits
 
 Have you ever had a habitual activity fall through? Say you go to the gym every Wednesday at six in the evening. Or you always watch a certain show on television at exactly 7PM every Thursday.
 
-When something comes up and you can't do what you're used to it doesn't feel like you've gained an extra hour or two. No, you feel lost, like you suddenly don't know what to do with all this extra time you've been given. So you end up wasting it, clicking one more link on Reddit, or flicking through one more channel on the telly.
+When something comes up and you can't do what you're used to, it doesn't feel like you've gained an extra hour or two. No, the time feels lost. Suddenly you don't know what to do with all this extra time. So you end up wasting it, clicking one more link on Reddit, or flicking through one more channel on TV.
 
-As they say, habit is an iron shirt. 
+As they say in my country, habit is an iron shirt. 
 
-Getting used to something takes a concerted effort of a few weeks, but once the habit is built it's almost impossible to change. Just remember how odd it feels when you forget to brush your teeth in the morning!
+Getting used to something takes a concerted effort of a few weeks. But once the habit is built, it's almost impossible to change. Just remember how odd it feels when you forget to brush your teeth in the morning!
 
-It's the same thing with flow - it's simply easier at certain times in the day. This depends on a lot of things like how many other obligations you have, what the schedule of the people around you might be and even your internal cycles of activity, which tend to depend a lot on meal times.
+Same thing with flow - it's just easier at certain times in the day. This depends on a lot of things, like how many other obligations you have, what the schedule of the people around you might be and even your own mental energy cycles, which tend to depend on meal times a lot.
 
-But once you get used to working at a certain point in the day, suddenly your other habits start forming around these patterns instead of the other way around. It's a bit of a self-reinforcing pattern you see.
+But once you get used to working at a certain point in the day, your other habits start forming around these patterns instead of the other way around. It's a self-reinforcing pattern.
 
-Since most programmers start very young, let's take a young programmer for example. Let's say they're still in high school.
+When do these habits form? Most of the best programmers start very young, let's take a young high-school aged programmer as an example.
 
-This programmer needs to get up every morning at a predetermined time so they can get to class. They are stuck in class until, say, 3PM. They come home, their mum wants them to do a bunch of chores, there's homework to tend to and before they know it it's already 9PM or 10PM.
+This programmer needs to get up every morning at a predetermined time so they can get to class. They are stuck in class until 3PM. They come home, their parents want them to do a bunch of chores, there's homework to tend to, and before they know it, it's 9PM or 10PM.
 
 And now, finally, there's nothing hanging over their heads anymore. They can get to programming.
 
-In a few years this person has come to college, there's much less external time constraints, but after many years of _starting_ coding in the evening they associate the activity with night-time. They simply can't get their mind to coding before 9PM anymore.
+In a few years, this person will be in college.  There are much fewer external time constraints, but after many years of _starting_ coding in the evening, they associate the activity with night-time. They simply can't get their mind to think about coding before 9PM anymore.
 
-Thus, another night-time hacker is born. With years and piling pressure from the outside, their schedule will shift around, flow to and fro to meet other demands in their lives.
+Thus, another night-time hacker is born. With years and piling pressure from outside (work, family, etc.), their schedule will naturally shift around other demands in their lives.
 
-But when shit hits the fan and something _needs to get done_, I bet they will go back to their safe place and code all night.
+But when shit hits the fan and a project _needs_ to get done _now_, they go back to their safe place and code all night.
 
 ## Two types of flow and what keeps them going
 
-Once a programmer gets into flow, it is paramount that they stay there for as long as possible. Not only will they get more work done simply because they're spending more time working, flow is a self-fulfilling prophecy. The more time you spend in flow, the easier getting into flow becomes and the deeper the flow becomes.
+Once a programmer gets into flow, it is paramount that they stay there for as long as possible. Not only will they get more work done simply because they're spending more time working, flow is a self-fulfilling prophecy. The more time you spend in flow, the easier getting into flow becomes and the deeper flow becomes.
 
-But not all flow is created equal, sometimes it will leave you energised and awash with even better ideas, other times flow might leave you completely exhausted in the end having just squeezed every last ounce of awesome out of you.
+But not all flow is created equal. Sometimes it will leave you energized and awash with even better ideas, other times flow might leave you exhausted in the end having just squeezed every last ounce of awesome out of you.
 
 The difference depends mostly on what kept the flow going.
 
 ### Panic mode
 
-Every one of us probably knows that feeling of sheer panic that only a hard deadline can bring. The moment you realise The Paper is due next morning, it's already 10pm, you've just come home from an evening of beers and suddenly discovered you _still_ haven't picked up that book from the library. You know, the one with all the info you need to write this thing.
+Every one of us probably knows that feeling of sheer panic a hard deadline brings. The moment you realize The Paper is due next morning, it's already 10PM, you've just come home from an evening of beers and discovered you _still_ haven't picked up that book from the library. You know, the one with all the information you need to write this thing.
 
 That's when real productivity begins for most people. That's when they can really tell what they're made of.
 
-The outside world melts away as you pound the keyboard in a furious panic. Internet stops existing, Skype going off every five minutes could just as well be a supernova going off in a distant galaxy. Nothing exists but you and your work.
+The outside world melts away as you pound the keyboard in a furious panic. The Internet stops existing. Skype's alerts are as significant as a supernova going off in a distant galaxy. Nothing exists but you and your work.
 
 Come morning, you are tired, cranky, effectively two days behind on sleep, but victorious. It might not turn out to be a perfect mark, but it's better than a fail. You know you could have done better if only you had started earlier, but you didn't.
 
-What just happened was a panic induced flow. 
+What just happened was a panic-induced flow. 
 
-You spent the entire night essentially in a fight or flight response, adrenaline coursing through your veins made you hyped up, focused. But it was also exhausting, your only reward a deadline not missed. The price, half arsed work and the subsequent day completely wasted because you will be too tired to think.
+You spent the entire night in a fight or flight response. Adrenaline coursing through your veins made you hyped up, focused. But it was exhausting as well. A deadline not missed your only reward. The price, half-assed work and the subsequent day completely wasted because you will be too tired to think.
 
 ### Deep fulfilment
 
