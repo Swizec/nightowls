@@ -26,7 +26,7 @@ If there is such a thing, I think programmers generally apply:
 
 It [has been drawn in stick figures](http://xkcd.com/242/) that when a normal person pulls a lever saying "Don't press this" and gets electrocuted, they think to themselves "Heh, I shouldn't have done that." But when an engineer pulls that same lever, they go "Huh, I wonder if that happens every time"
 
-No matter what their qualifications say, all programmers are engineers at heart. 
+All programmers are engineers at heart, no matter what their formal qualifications might say. 
 
  * Persistent
 
@@ -34,7 +34,7 @@ Relentlessly hunting down bugs is a source of great pride for most programmers, 
 
  * Not self-centered
 
-It could be argued that programmers are very selfless people - communities like StackOverflow, many conferences where speakers share knowledge for free, numerous blogs and free tutorials, not to mention the large open source community that's given us something as powerful as the Linux operating system and the techonology stack most of the internet runs on. All of those are done holistically ... well, mostly. Everybody gains from having a good standing in the community.
+It could be argued that programmers are very selfless people - the existence of communities like StackOverflow, large numbers of conferences where speakers share their knowledge for free, numerous blogs and free tutorials, not to mention the large open source community that's given us something as powerful as the Linux operating system and the stack most of the internet runs on. All of those are done holistically ... well, mostly. Everybody gains from having a good standing in the community.
 
  * Often performs activities for intrinsic reasons
 
@@ -52,7 +52,7 @@ The biggest enemy to evening and night-time productivity is decision fatigue.
 
 Most people experiencing decision fatigue don't recognize it for what it is, but if you've ever felt well-rested physically and still couldn't think clearly, like your brain was tired, you've experienced decision fatigue.
 
-[Research](http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html) has shown that humans can only make a certain amount of decisions every day. After that, we tend to go with the default action, or are so incapable of making a decision we can't perform the action at all.
+[Research](http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html) has shown that humans can only accept a limited amount of decisions every day. After that, we usually go with the default action, or are so incapable of making a decision we can't perform the action at all.
 
 Not only that, it's been shown that even the tiniest decision factors into the quota - everything from deciding what to eat for breakfast, to which outfit to wear and what websites to read now or later. This is why the checkout aisle in your supermarket is filled with tiny things you otherwise wouldn't have bought and why people instinctively want to "sleep on it" when making big decisions.
 
@@ -120,7 +120,7 @@ The difference depends mostly on what kept the flow going.
 
 ### Panic mode
 
-Every one of us probably knows that feeling of sheer panic a hard deadline brings. The moment you realize The Paper is due next morning, it's already 10PM, you've just come home from an evening of beers and discovered you _still_ haven't picked up that book from the library. You know, the one with all the information you need to write this thing.
+Every one of us probably knows that feeling of sheer panic a hard deadline brings. The moment you realize The Paper is due next morning, it's already 10PM, you've just come home from an evening of beers and discovered you _still_ haven't picked up that book from the library. You know, the one with all the info you need to write this thing.
 
 That's when real productivity begins for most people. That's when they can really tell what they're made of.
 
@@ -134,58 +134,58 @@ You spent the entire night in a fight or flight response. Adrenaline coursing th
 
 ### Deep fulfilment
 
-The converse of panic flow, is the good kind. A drug-like trance that leaves you energised, ready to take on the world and were it not for annoying physical limitations you would happily spend all your days in such a state.
+The converse of panic flow is the good kind. A drug-like trance that leaves you energized and ready to take on the world. Without the annoying physical limitations, you would happily spend all your days in such a state.
 
-For me the typical situation is something like this.
+For me, the typical situation is something like this.
 
-I have spent the past few days thinking about an interesting problem, it's just been rolling around my mind. Either it's an interesting algorithm I want to try implementing, or a problem I feel could be solved for plenty of people. Sometimes it's as simple as feeling a blogpost must be written to address a topic.
+I have spent the past few days rolling an interesting problem around my mind. Either it's an algorithm I want to try implementing, or a problem I feel can be solved for many. Sometimes it's as simple as feeling a blog post must be written to address a topic.
 
-I let the feeling fester for a while. On purpose. Indulging immediately would ruin the flow because the mind must first have time to process the idea in as much detail as possible.
+I let the feeling fester for a while. On purpose. Indulging immediately would ruin the flow because the mind needs time to process the idea in as much detail as possible.
 
-One evening I will sit down and begin.
+One evening, I will sit down and begin.
 
-The outside world melts away, time becomes a blur and before I know it morning comes. Surprising. Startling. When the hell did this happen? Wasn't it just 8pm half an hour ago?
+The outside world melts away. Time becomes a blur and before I know it, morning comes. What the hell? Wasn't it just 8PM half an hour ago?
 
-In reality, I have just spent twelve hours in complete rapture. Engrossed in the bigger picture I solved sub problem after sub problem, each just interesting enough to keep me going, each just difficult enough to keep me going.
+In reality, I have just spent twelve hours in rapture. Engrossed in the bigger picture, I solved sub-problem after sub-problem, each just challenging enough to keep me going.
 
-At this point my body has had enough and I do need to get some sleep.
+At this point, my body has had enough and _I do need to get some sleep_.
 
 But the very next day I will jump out of bed - yes literally - and even brushing my teeth might feel like too much waiting to get back into the code.
 
-That's the good kind of flow. The one you want. Because this is sustainable, were it not for practical limitations one could live for months on end like this.
+That's the flow you want. This is sustainable. Were it not for practical limitations one could live for months on end like this.
 
-Panic flow … that one is only good for one or two consecutive days. Then it takes weeks before the brain is ready again.
+Panic flow … that's only good for a day or two. Then it takes weeks before the brain is ready again.
 
 
 ## Why is day-time particularly bad for flow?
 
-Now we can all agree the night is particularly good for flow, it is important to remember this is not the only time when programmers can reach flow. Mornings, especially very early mornings, are a popular choice as well. Even though this is just approaching the night from a different end, the cultural baggage attached is different.
+Now we can all agree why night is particularly good for flow, but keep in mind this is not the only time when programmers can reach flow. Mornings, especially very early mornings, are a popular choice as well. Even though this is just approaching the night from a different end, the cultural baggage attached is different.
 
-People who start work early in the morning, especially before dawn, are often seen as hard-working and commendable, while those who choose to work late into the night, often right until dawn, are often seen as lazy slobs who sleep the whole day away. Strange as it may seem.
+People who start work early in the morning, especially before dawn, are often seen as hard-working and commendable, while those who choose to work late into the night, often right until dawn, are often seen as lazy slobs who sleep all day away.
 
 Whether a programmer chooses late nights or early mornings, doesn't really change the goal - to avoid working on high intensity flow activities during the day.
 
-The answer I got when asking programmers why they don't like working during the day sounds very asocial indeed - because other people are awake.
+The answer I got when asking programmers why they don't like working during the day sounds asocial indeed - because other people are awake.
 
 ### Cost of interruption
 
 There is a ritual to getting in the flow. 
 
-Usually the first thing people will do when sitting down to code is check Facebook, Twitter and email. Not always in that order, not always all of them, sometimes other social networks completely - Reddit, Hacker News and Stack Overflow are popular options.
+Usually the first thing people will do when sitting down to code is check Facebook, Twitter and email. Not always in that order, not always all of them.  Sometimes other social networks completely; Reddit, Hacker News and Stack Overflow are popular options.
 
-Warm caffeinated beverages go very well with this sort of activity. Making them wastes little time, but introduces an impetus to keep procrastinating until you've finished the cup.
+Warm caffeinated beverages go very well with this sort of activity. Making them doesn't take much time, but they introduce an impetus to keep procrastinating until you've finished the cup.
 
-We call this procrastination, but the term carries connotations that aren't fully warranted. Don't think of it as putting off work, it's more like defragging one's brain. Making sure there are no more lingering thoughts in there, no notifications left unclicked, no important questions left unanswered.
+We call this procrastination. But that carries negative connotations that aren't fully warranted. Don't think of this stage as putting off work. It's more like defragging one's brain. Making sure there are no more lingering thoughts, no notifications left unclicked, no important questions left unanswered. Loose ends tied.
 
-After anywhere from a few minutes to an hour work can finally begin.
+After anywhere from a few minutes to an hour, work can finally begin.
 
-First, a programmer needs to make sure they are working off the latest version of the project. Then they must check whatever issue tracking system they're using. Having a clear goal is after all paramount to achieving flow and getting anything done.
+First, a programmer needs to make sure they are working off the latest version of the project. Then they must check whatever issue tracking system they're using. Having a clear goal is paramount to achieving flow and getting anything done.
 
 Next up, the work environment.
 
 Swing by a programmer's computer some time and you will likely see a desktop littered with open windows, consoles, IDE's, text editors, documentation. Everything.
 
-Unlike many (most?) people who use even modern computers as a single application environment and often maximise whatever software they are using to fill the whole screen, programmers are a different beast all together.
+Unlike many (most?) people who use computers as a single application environment and often maximize whatever software they are using to fill the whole screen, programmers are different beasts.
 
 There's usually a text editor and a console or two, perhaps a debugger, a browser with some documentation is almost mandatory as well. Often all these tools will be unified in a single Integrated Development Environment (IDE), which is a mere euphemism for "A bunch of stuff, but in a single window".
 
@@ -193,35 +193,35 @@ Loading up a work environment like that takes time, not because our computers ar
 
 Then, the programmer must prime their mind.
 
-Programs are a conversation between programmer and computer. Computer and user. The programmer's job is breaking down a problem into understandable bits and explaining the solution to the computer in such a way it can be executed perfectly every time. Or at least well enough.
+Programs are a conversation between programmer and computer. Computer and user. The programmer's job is breaking down a problem into understandable bits and explaining the solution to the computer in such a way it can be executed perfectly every time. (Or at least well enough.)
 
-Loading a program into your brain means learning its language. Functions are verbs, variables are nouns and there's plenty of things in between. Notes can help. Keeping tools open also helps. But nothing will get you over just how much brain power it takes to understand a software project.
+Loading a program into your brain means learning its language. Functions are verbs, variables are nouns and there's plenty of things in between. Notes can help. Keeping tools open also helps. But nothing will get you over just how much brain power it takes to understand the entire software project.
 
-Every time you lose sight of the whole system you have to build it again like constructing a glass palace. Once you understand the language, you have to arrange it in your mind so the space can be freely traversed, you can close your eyes and _see_ how different parts of the system affect each other.
+Every time you lose sight of the whole system, you have to build it again, like constructing a house of cards. Once you understand the language, you have to arrange it in your mind so the space can be freely traversed, you can close your eyes and _see_ how different parts of the system affect each other.
 
 Only after this stage has been reached is a programmer fully effective. Only then can they have any chance of reaching flow because they don't have to stop every five minutes to figure out how their code fits in the larger picture and whether it's even doing what it's supposed to.
 
-When you interrupt a programmer, this glass palace can come crashing down in a shower of shattered glass. They have to start the whole process all over again and it's going to take a while before they're back to full steam.
+When you interrupt a programmer, their house of cards can come crashing down. They have to start the whole process all over again, and it's going to take a while before they're back to full steam.
 
 ### Distractions
 
-Not all distractions are created equal and not all will cause an interrupt
+Not all distractions are created equal and not all will cause an interruption.
 
-You will often see a programmer walking along the street, eyebrow furrowed, peering into the tips of their shoes, lips clenched. Do _not_ try talking to them. This is a programmer who is deep in thought on a problem, struggling hard to prevent the glass palace from tumbling.
+You will often see a programmer walking along the street, eyebrow furrowed, peering into the tips of their shoes, lips clenched. Do _not_ try talking to them. This is a programmer deep in thought on a problem, struggling hard to prevent the house of cards from tumbling.
 
-Ask them a question and it can all be gone in the blink of the eye. All that hard work and deep concentration, just gone. Simply because they have to think about something else.
+Ask them a question, and it can all be gone in the blink of the eye. All that hard work and deep concentration, gone. Just because they have to think about something else.
 
-It almost doesn't matter how simple a question you're asking, anything requiring a proper answer will cause a lot of trouble. Most programmers tend to resort to communicating with grunts and various sounds. Or simply saying "Yeah yeah sure" to everything.
+It almost doesn't matter how simple a question you're asking. Anything requiring a proper answer will cause trouble. Many programmers resort to communicating with various grunts and sounds. Or just saying "Yeah yeah sure" to everything.
 
 The danger is not knowing they weren't really listening to you and just said something so you'd go away and stop bothering them. Flailing hands and raised voices can also happen.
 
 Almost more important than whether the programmer had to do some thinking in response to a distraction is whether they chose to be distracted or it was something outside their control.
 
-Most people working with computers will often distract themselves. After being focused for a while they will start wasting time on the internet. Nobody told them to do this, often there isn't even a notification saying something new happened, it just feels like "Hey, I haven't done that in a while! I should check if there's anything new!" … there usually isn't. Not much anyway.
+People working with computers often distract themselves. After focusing for a while they will start wasting time on the internet. Nobody told them to do this. Often there isn't even a notification saying something new happened, it just feels like "Hey, I haven't done that in a while! I should check if there's anything new!" There never is.
 
-I'm lying, there's always _something_ new. But it usually isn't interesting or something that feels worth the distraction.
+I'm lying, there's always _something_ new. But it usually isn't interesting or feels worth the distraction.
 
-However, random rewards keep us hooked and we can't help ourselves but to check, pressing the button like a lab rat desperately trying to get the next nugget of food from the magical big button. 
+Random rewards keep us hooked and we can't help ourselves but to check. Like a lab rat desperately trying to get the next nugget of food, we press the magical big button. 
 
 If a programmer can prevent themselves from straying off into the wild internet and getting lost for an hour, this sort of distraction won't cause much of a problem. In just a few minutes they will be back to coding at full blast. These sort of distractions are usually just our brain saying we should take a break anyway.
 
@@ -231,10 +231,6 @@ Most distractions come from coworkers who are just trying to get their work done
 
 Hopefully they can work on something else, but this requires a context switch to a different problem as well.
 
-Programmers also run on a different schedule than most people, which can cause plenty of problems. When the cost of getting started is as high as it is for programmers, it doesn't make sense to work in stretches shorter than a few hours. Everyone else divides their time by hours or even half hours. I've heard lawyers charge in increments of fifteen minutes.
+Programmers also run on a different schedule than most people, which can cause lots of problems. When the cost of getting started is as high as it is for programmers, it doesn't make sense to work in stretches shorter than a few hours. The prototypical calendar app divides the day into hours and half hours, and that's how most of the world thinks of time, as well.
 
-Even the prototypical calendar app divides the day into hours and half hours ...
-
-If there's one thing you should know about dealing with programmers is **do not distract them**. Wait for _them_ to come to _you_. Just put your request in the queue.
-
-Never expect a programmer to do something immediately.
+Respect their schedule and  **do not distract them**. Put your request in the queue and wait for _them_ to come to _you_.  Otherwise, you risk making them start at the very beginning again.
